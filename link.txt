@@ -1,0 +1,696 @@
+<a href="/wiki/A_Sharp_(.NET)" title="A Sharp (.NET)">A.NET (A#/A sharp)</a>
+<a href="/wiki/A-0_System" title="A-0 System">A-0 System</a>
+<a href="/wiki/A%2B_(programming_language)" title="A+ (programming language)">A+ (A plus)</a>
+<a href="/wiki/A%2B%2B" title="A++">A++</a>
+<a href="/wiki/ABAP" title="ABAP">ABAP</a>
+<a href="/wiki/ABC_(programming_language)" title="ABC (programming language)">ABC</a>
+<a href="/wiki/ABC_ALGOL" title="ABC ALGOL">ABC ALGOL</a>
+<a href="/wiki/ACC_(programming_language)" title="ACC (programming language)">ACC</a>
+<a class="mw-redirect" href="/wiki/Accent_(programming_language)" title="Accent (programming language)">Accent (Rational Synergy)</a>
+<a href="/wiki/Distributed_Application_Specification_Language" title="Distributed Application Specification Language">Ace DASL (Distributed Application Specification Language)</a>
+<a href="/wiki/Action!_(programming_language)" title="Action! (programming language)">Action!</a>
+<a href="/wiki/ActionScript" title="ActionScript">ActionScript</a>
+<a href="/wiki/Actor_(programming_language)" title="Actor (programming language)">Actor</a>
+<a href="/wiki/Ada_(programming_language)" title="Ada (programming language)">Ada</a>
+<a href="/wiki/ISO/IEC_8652" title="ISO/IEC 8652">ISO/IEC 8652</a>
+<a class="mw-redirect" href="/wiki/Adenine_(programming_language)" title="Adenine (programming language)">Adenine (Haystack)</a>
+<a href="/wiki/AdvPL" title="AdvPL">AdvPL</a>
+<a class="mw-redirect" href="/wiki/Agda_(theorem_prover)" title="Agda (theorem prover)">Agda</a>
+<a class="mw-redirect" href="/wiki/Agilent_VEE" title="Agilent VEE">Agilent VEE (Keysight VEE)</a>
+<a href="/wiki/Agora_(programming_language)" title="Agora (programming language)">Agora</a>
+<a href="/wiki/AIMMS" title="AIMMS">AIMMS</a>
+<a href="/wiki/Aldor" title="Aldor">Aldor</a>
+<a href="/wiki/Alef_(programming_language)" title="Alef (programming language)">Alef</a>
+<a href="/wiki/Algebraic_Logic_Functional_programming_language" title="Algebraic Logic Functional programming language">ALF</a>
+<a href="/wiki/ALGOL_58" title="ALGOL 58">ALGOL 58</a>
+<a href="/wiki/ALGOL_60" title="ALGOL 60">ALGOL 60</a>
+<a href="/wiki/ALGOL_68" title="ALGOL 68">ALGOL 68</a>
+<a href="/wiki/ALGOL_W" title="ALGOL W">ALGOL W</a>
+<a href="/wiki/Alice_(programming_language)" title="Alice (programming language)">Alice (Alice ML)</a>
+<a href="/wiki/Alma-0" title="Alma-0">Alma-0</a>
+<a href="/wiki/AmbientTalk" title="AmbientTalk">AmbientTalk</a>
+<a href="/wiki/Amiga_E" title="Amiga E">Amiga E</a>
+<a href="/wiki/AMOS_(programming_language)" title="AMOS (programming language)">AMOS (AMOS BASIC)</a>
+<a href="/wiki/AMPL" title="AMPL">AMPL</a>
+<a href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA" title="Аналитик">Analitik</a>
+<a href="/wiki/AngelScript" title="AngelScript">AngelScript</a>
+<a href="/wiki/Apache_Pig" title="Apache Pig">Apache Pig latin</a>
+<a class="mw-redirect" href="/wiki/Apex_(programming_language)" title="Apex (programming language)">Apex (Salesforce.com, Inc)</a>
+<a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a>
+<a class="mw-redirect" href="/wiki/App_Inventor_for_Android_(programming_language)" title="App Inventor for Android (programming language)">App Inventor for Android's visual block language (MIT App Inventor)</a>
+<a href="/wiki/AppleScript" title="AppleScript">AppleScript</a>
+<a href="/wiki/APT_(programming_language)" title="APT (programming language)">APT</a>
+<a href="/wiki/Arc_(programming_language)" title="Arc (programming language)">Arc</a>
+<a href="/wiki/ARexx" title="ARexx">ARexx</a>
+<a href="/wiki/Argus_(programming_language)" title="Argus (programming language)">Argus</a>
+<a href="/wiki/Assembly_language" title="Assembly language">Assembly language (ASM)</a>
+<a href="/wiki/AutoHotkey" title="AutoHotkey">AutoHotkey</a>
+<a href="/wiki/AutoIt" title="AutoIt">AutoIt</a>
+<a href="/wiki/AutoLISP" title="AutoLISP">AutoLISP / Visual LISP</a>
+<a href="/wiki/Averest" title="Averest">Averest</a>
+<a href="/wiki/AWK" title="AWK">AWK</a>
+<a href="/wiki/Axum_(programming_language)" title="Axum (programming language)">Axum</a>
+<a href="/wiki/B_(programming_language)" title="B (programming language)">B</a>
+<a href="/wiki/Babbage_(programming_language)" title="Babbage (programming language)">Babbage</a>
+<a href="/wiki/Ballerina_(programming_language)" title="Ballerina (programming language)">Ballerina</a>
+<a href="/wiki/Bash_(Unix_shell)" title="Bash (Unix shell)">Bash</a>
+<a href="/wiki/BASIC" title="BASIC">BASIC</a>
+<a href="/wiki/Batch_file" title="Batch file">Batch file (Windows/MS-DOS)</a>
+<a href="/wiki/Bc_(programming_language)" title="Bc (programming language)">bc (basic calculator)</a>
+<a href="/wiki/BCPL" title="BCPL">BCPL</a>
+<a href="/wiki/BeanShell" title="BeanShell">BeanShell</a>
+<a href="/wiki/BETA_(programming_language)" title="BETA (programming language)">BETA</a>
+<a class="mw-redirect" href="/wiki/BLISS_(programming_language)" title="BLISS (programming language)">BLISS</a>
+<a href="/wiki/Blockly" title="Blockly">Blockly</a>
+<a href="/wiki/BlooP_and_FlooP" title="BlooP and FlooP">BlooP</a>
+<a href="/wiki/Boo_(programming_language)" title="Boo (programming language)">Boo</a>
+<a href="/wiki/Boomerang_(programming_language)" title="Boomerang (programming language)">Boomerang</a>
+<a href="/wiki/Bosque_(programming_language)" title="Bosque (programming language)">Bosque</a>
+<a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>
+<a href="/wiki/C--" title="C--">C--</a>
+<a href="/wiki/C%2B%2B" title="C++">C++</a>
+<a href="/wiki/C*" title="C*">C*</a>
+<a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a>
+<a href="/wiki/C/AL" title="C/AL">C/AL</a>
+<a href="/wiki/Cach%C3%A9_ObjectScript" title="Caché ObjectScript">Caché ObjectScript</a>
+<a class="mw-redirect" href="/wiki/C_Shell" title="C Shell">C Shell (csh)</a>
+<a href="/wiki/Caml" title="Caml">Caml</a>
+<a href="/wiki/Carbon_(programming_language)" title="Carbon (programming language)">Carbon</a>
+<a href="/wiki/Catrobat" title="Catrobat">Catrobat</a>
+<a class="mw-redirect" href="/wiki/Cayenne_(programming_language)" title="Cayenne (programming language)">Cayenne (Lennart Augustsson)</a>
+<a href="/wiki/CDuce" title="CDuce">CDuce</a>
+<a href="/wiki/Cecil_(programming_language)" title="Cecil (programming language)">Cecil</a>
+<a href="/wiki/CESIL" title="CESIL">CESIL (Computer Education in Schools Instruction Language)</a>
+<a href="/wiki/C%C3%A9u_(programming_language)" title="Céu (programming language)">Céu</a>
+<a href="/wiki/Ceylon_(programming_language)" title="Ceylon (programming language)">Ceylon</a>
+<a href="/wiki/CFEngine" title="CFEngine">CFEngine</a>
+<a href="/wiki/Cg_(programming_language)" title="Cg (programming language)">Cg (High-Level Shader/Shading Language [HLSL])</a>
+<a href="/wiki/Ch_(computer_programming)" title="Ch (computer programming)">Ch</a>
+<a href="/wiki/Chapel_(programming_language)" title="Chapel (programming language)">Chapel (Cascade High Productivity Language)</a>
+<a class="mw-redirect" href="/wiki/Charm_(language)" title="Charm (language)">Charm</a>
+<a href="/wiki/CHILL" title="CHILL">CHILL</a>
+<a href="/wiki/CHIP-8" title="CHIP-8">CHIP-8</a>
+<a href="/wiki/ChucK" title="ChucK">ChucK</a>
+<a href="/wiki/Cilk" title="Cilk">Cilk (also Cilk++ and Cilk plus)</a>
+<a href="/wiki/Claire_(programming_language)" title="Claire (programming language)">Claire</a>
+<a href="/wiki/Clarion_(programming_language)" title="Clarion (programming language)">Clarion</a>
+<a href="/wiki/Clean_(programming_language)" title="Clean (programming language)">Clean</a>
+<a href="/wiki/Clipper_(programming_language)" title="Clipper (programming language)">Clipper</a>
+<a class="mw-redirect" href="/wiki/CLIPS_(programming_language)" title="CLIPS (programming language)">CLIPS</a>
+<a href="/wiki/CLIST" title="CLIST">CLIST</a>
+<a href="/wiki/Clojure" title="Clojure">Clojure</a>
+<a href="/wiki/CLU_(programming_language)" title="CLU (programming language)">CLU</a>
+<a class="mw-redirect" href="/wiki/CMS-2_(programming_language)" title="CMS-2 (programming language)">CMS-2</a>
+<a href="/wiki/COBOL" title="COBOL">COBOL</a>
+<a href="/wiki/CobolScript" title="CobolScript">CobolScript</a>
+<a href="/wiki/Cobra_(programming_language)" title="Cobra (programming language)">Cobra</a>
+<a href="/wiki/CoffeeScript" title="CoffeeScript">CoffeeScript</a>
+<a class="mw-redirect" href="/wiki/ColdFusion" title="ColdFusion">ColdFusion</a>
+<a href="/wiki/COMAL" title="COMAL">COMAL</a>
+<a href="/wiki/COMIT" title="COMIT">COMIT</a>
+<a href="/wiki/Common_Intermediate_Language" title="Common Intermediate Language">Common Intermediate Language</a>
+<a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a>
+<a href="/wiki/COMPASS" title="COMPASS">COMPASS</a>
+<a href="/wiki/Component_Pascal" title="Component Pascal">Component Pascal</a>
+<a href="/wiki/COMTRAN" title="COMTRAN">COMTRAN</a>
+<a href="/wiki/Constraint_Handling_Rules" title="Constraint Handling Rules">Constraint Handling Rules</a>
+<a href="/wiki/Control_Language" title="Control Language">Control Language</a>
+<a href="/wiki/Cool_(programming_language)" title="Cool (programming language)">Cool</a>
+<a href="/wiki/Coq" title="Coq">Coq</a>
+<a class="mw-redirect" href="/wiki/Coral_66" title="Coral 66">Coral 66</a>
+<a href="/wiki/CorVision" title="CorVision">CorVision</a>
+<a href="/wiki/COWSEL" title="COWSEL">COWSEL</a>
+<a href="/wiki/CPL_(programming_language)" title="CPL (programming language)">CPL</a>
+<a href="/wiki/Cryptol" title="Cryptol">Cryptol</a>
+<a href="/wiki/Crystal_(programming_language)" title="Crystal (programming language)">Crystal</a>
+<a href="/wiki/Csound" title="Csound">Csound</a>
+<a href="/wiki/Cuneiform_(programming_language)" title="Cuneiform (programming language)">Cuneiform</a>
+<a href="/wiki/Curl_(programming_language)" title="Curl (programming language)">Curl</a>
+<a href="/wiki/Curry_(programming_language)" title="Curry (programming language)">Curry</a>
+<a href="/wiki/Cybil_(programming_language)" title="Cybil (programming language)">Cybil</a>
+<a href="/wiki/Cyclone_(programming_language)" title="Cyclone (programming language)">Cyclone</a>
+<a class="mw-redirect" href="/wiki/Cypher_Query_Language" title="Cypher Query Language">Cypher Query Language</a>
+<a href="/wiki/Cython" title="Cython">Cython</a>
+<a href="/wiki/CEEMAC" title="CEEMAC">CEEMAC</a>
+<a href="/wiki/D_(programming_language)" title="D (programming language)">D</a>
+<a href="/wiki/Dart_(programming_language)" title="Dart (programming language)">Dart</a>
+<a href="/wiki/Darwin_(programming_language)" title="Darwin (programming language)">Darwin</a>
+<a href="/wiki/DataFlex" title="DataFlex">DataFlex</a>
+<a href="/wiki/Datalog" title="Datalog">Datalog</a>
+<a href="/wiki/DATATRIEVE" title="DATATRIEVE">DATATRIEVE</a>
+<a href="/wiki/DBase" title="DBase">dBase</a>
+<a href="/wiki/Dc_(computer_program)" title="Dc (computer program)">dc</a>
+<a href="/wiki/DIGITAL_Command_Language" title="DIGITAL Command Language">DCL (DIGITAL Command Language)</a>
+<a href="/wiki/Delphi_(software)" title="Delphi (software)">Delphi</a>
+<a href="/wiki/DIBOL" title="DIBOL">DIBOL</a>
+<a href="/wiki/Dink_Smallwood#Modification" title="Dink Smallwood">DinkC</a>
+<a class="mw-redirect" href="/wiki/Dog_(programming_language)" title="Dog (programming language)">Dog</a>
+<a href="/wiki/Draco_(programming_language)" title="Draco (programming language)">Draco</a>
+<a href="/wiki/DRAKON" title="DRAKON">DRAKON</a>
+<a href="/wiki/Dylan_(programming_language)" title="Dylan (programming language)">Dylan</a>
+<a href="/wiki/DYNAMO_(programming_language)" title="DYNAMO (programming language)">DYNAMO</a>
+<a class="mw-redirect" href="/wiki/Data_analysis_expressions" title="Data analysis expressions">DAX (Data Analysis Expressions)</a>
+<a href="/wiki/E_(programming_language)" title="E (programming language)">E</a>
+<a href="/wiki/Ease_(programming_language)" title="Ease (programming language)">Ease</a>
+<a href="/wiki/PL/I" title="PL/I">Easy PL/I</a>
+<a href="/wiki/Easytrieve" title="Easytrieve">EASYTRIEVE PLUS</a>
+<a href="/wiki/EC_(programming_language)" title="EC (programming language)">eC</a>
+<a href="/wiki/ECMAScript" title="ECMAScript">ECMAScript</a>
+<a href="/wiki/Edinburgh_IMP" title="Edinburgh IMP">Edinburgh IMP</a>
+<a href="/wiki/EGL_(programming_language)" title="EGL (programming language)">EGL</a>
+<a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a>
+<a href="/wiki/ELAN_(programming_language)" title="ELAN (programming language)">ELAN</a>
+<a href="/wiki/Elixir_(programming_language)" title="Elixir (programming language)">Elixir</a>
+<a href="/wiki/Elm_(programming_language)" title="Elm (programming language)">Elm</a>
+<a href="/wiki/Emacs_Lisp" title="Emacs Lisp">Emacs Lisp</a>
+<a href="/wiki/Emerald_(programming_language)" title="Emerald (programming language)">Emerald</a>
+<a href="/wiki/Epigram_(programming_language)" title="Epigram (programming language)">Epigram</a>
+<a href="/wiki/Easy_Programming_Language" title="Easy Programming Language">EPL (Easy Programming Language)</a>
+<a href="/wiki/Erlang_(programming_language)" title="Erlang (programming language)">Erlang</a>
+<a class="mw-redirect" href="/wiki/Es_(Unix_shell)" title="Es (Unix shell)">es</a>
+<a href="/wiki/Escher_(programming_language)" title="Escher (programming language)">Escher</a>
+<a href="/wiki/Executive_Systems_Problem_Oriented_Language" title="Executive Systems Problem Oriented Language">ESPOL</a>
+<a href="/wiki/Esterel" title="Esterel">Esterel</a>
+<a href="/wiki/Etoys_(programming_language)" title="Etoys (programming language)">Etoys</a>
+<a href="/wiki/Euclid_(programming_language)" title="Euclid (programming language)">Euclid</a>
+<a href="/wiki/Euler_(programming_language)" title="Euler (programming language)">Euler</a>
+<a href="/wiki/Euphoria_(programming_language)" title="Euphoria (programming language)">Euphoria</a>
+<a href="/wiki/EusLisp_Robot_Programming_Language" title="EusLisp Robot Programming Language">EusLisp Robot Programming Language</a>
+<a href="/wiki/CMS_EXEC" title="CMS EXEC">CMS EXEC</a>
+<a href="/wiki/EXEC_2" title="EXEC 2">EXEC 2</a>
+<a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a>
+<a href="/wiki/Ezhil_(programming_language)" title="Ezhil (programming language)">Ezhil</a>
+<a href="/wiki/F_(programming_language)" title="F (programming language)">F</a>
+<a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F# (F sharp)</a>
+<a href="/wiki/F*_(programming_language)" title="F* (programming language)">F*</a>
+<a href="/wiki/Factor_(programming_language)" title="Factor (programming language)">Factor</a>
+<a href="/wiki/Fantom_(programming_language)" title="Fantom (programming language)">Fantom</a>
+<a href="/wiki/FAUST_(programming_language)" title="FAUST (programming language)">FAUST</a>
+<a class="mw-redirect" href="/wiki/FFP_(programming_language)" title="FFP (programming language)">FFP</a>
+<a class="mw-redirect" href="/wiki/Friendly_interactive_shell" title="Friendly interactive shell">fish</a>
+<a href="/wiki/Fj%C3%B6lnir_(programming_language)" title="Fjölnir (programming language)">Fjölnir</a>
+<a href="/wiki/FL_(programming_language)" title="FL (programming language)">FL</a>
+<a href="/wiki/FlagShip" title="FlagShip">FlagShip</a>
+<a href="/wiki/Flavors_(programming_language)" title="Flavors (programming language)">Flavors</a>
+<a class="mw-redirect" href="/wiki/Flex_(language)" title="Flex (language)">Flex</a>
+<a href="/wiki/Flix_(programming_language)" title="Flix (programming language)">Flix</a>
+<a href="/wiki/BlooP_and_FlooP" title="BlooP and FlooP">FlooP</a>
+<a href="/wiki/FLOW-MATIC" title="FLOW-MATIC">FLOW-MATIC (B0)</a>
+<a href="/wiki/FOCAL_(programming_language)" title="FOCAL (programming language)">FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)</a>
+<a href="/wiki/FOCUS" title="FOCUS">FOCUS</a>
+<a href="/wiki/FOIL_(programming_language)" title="FOIL (programming language)">FOIL</a>
+<a class="mw-redirect" href="/wiki/FORMAC_(programming_language)" title="FORMAC (programming language)">FORMAC (FORMula MAnipulation Compiler)</a>
+<a href="/wiki/Formula_language" title="Formula language">@Formula</a>
+<a href="/wiki/Forth_(programming_language)" title="Forth (programming language)">Forth</a>
+<a href="/wiki/Fortran" title="Fortran">Fortran</a>
+<a href="/wiki/Fortress_(programming_language)" title="Fortress (programming language)">Fortress</a>
+<a href="/wiki/FP_(programming_language)" title="FP (programming language)">FP</a>
+<a class="mw-redirect" href="/wiki/FoxPro_(programming_language)" title="FoxPro (programming language)">FoxBase/FoxPro</a>
+<a href="/wiki/Franz_Lisp" title="Franz Lisp">Franz Lisp</a>
+<a href="/wiki/Futhark_(programming_language)" title="Futhark (programming language)">Futhark</a>
+<a href="/wiki/F-Script_(programming_language)" title="F-Script (programming language)">F-Script</a>
+<a class="mw-redirect" href="/wiki/Game_Maker_Language" title="Game Maker Language">Game Maker Language</a>
+<a href="/wiki/GameMonkey_Script" title="GameMonkey Script">GameMonkey Script</a>
+<a class="mw-redirect" href="/wiki/General_Algebraic_Modeling_System" title="General Algebraic Modeling System">GAMS (General Algebraic Modeling System)</a>
+<a class="mw-redirect" href="/wiki/GAP_computer_algebra_system" title="GAP computer algebra system">GAP</a>
+<a href="/wiki/G-code" title="G-code">G-code</a>
+<a href="/wiki/Godot_(game_engine)" title="Godot (game engine)">GDScript (Godot)</a>
+<a href="/wiki/Genie_(programming_language)" title="Genie (programming language)">Genie</a>
+<a href="/wiki/Geometric_Description_Language" title="Geometric Description Language">GDL (Geometric Description Language)</a>
+<a href="/wiki/GEORGE_(programming_language)" title="GEORGE (programming language)">GEORGE</a>
+<a href="/wiki/OpenGL_Shading_Language" title="OpenGL Shading Language">GLSL (OpenGL Shading Language)</a>
+<a href="/wiki/GNU_E" title="GNU E">GNU E</a>
+<a href="/wiki/GNU_Guile" title="GNU Guile">GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)</a>
+<a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>
+<a href="/wiki/Go!_(programming_language)" title="Go! (programming language)">Go!</a>
+<a href="/wiki/Game_Oriented_Assembly_Lisp" title="Game Oriented Assembly Lisp">GOAL (Game Oriented Assembly Lisp)</a>
+<a href="/wiki/G%C3%B6del_(programming_language)" title="Gödel (programming language)">Gödel</a>
+<a href="/wiki/Golo_(programming_language)" title="Golo (programming language)">Golo</a>
+<a href="/wiki/MAD_(programming_language)" title="MAD (programming language)">GOM (Good Old Mad)</a>
+<a href="/wiki/Google_Apps_Script" title="Google Apps Script">Google Apps Script</a>
+<a href="/wiki/Gosu_(programming_language)" title="Gosu (programming language)">Gosu</a>
+<a href="/wiki/IBM_1620#GOTRAN" title="IBM 1620">GOTRAN (IBM 1620)</a>
+<a href="/wiki/GPSS" title="GPSS">GPSS (General Purpose Simulation System)</a>
+<a href="/wiki/Computer_Sciences_Corporation" title="Computer Sciences Corporation">GraphTalk (Computer Sciences Corporation)</a>
+<a href="/wiki/GRASS_(programming_language)" title="GRASS (programming language)">GRASS</a>
+<a href="/wiki/Grasshopper_3D" title="Grasshopper 3D">Grasshopper</a>
+<a href="/wiki/Apache_Groovy" title="Apache Groovy">Groovy (Apache Groovy)</a>
+<a href="/wiki/Hack_(programming_language)" title="Hack (programming language)">Hack</a>
+<a class="mw-redirect" href="/wiki/HAGGIS" title="HAGGIS">HAGGIS</a>
+<a href="/wiki/HAL/S" title="HAL/S">HAL/S</a>
+<a href="/wiki/Halide_(programming_language)" title="Halide (programming language)">Halide (programming language)</a>
+<a href="/wiki/Hamilton_C_shell" title="Hamilton C shell">Hamilton C shell</a>
+<a class="mw-redirect" href="/wiki/Harbour_(software)" title="Harbour (software)">Harbour</a>
+<a class="mw-redirect" href="/wiki/Hartmann_pipeline" title="Hartmann pipeline">Hartmann pipelines</a>
+<a class="mw-redirect" href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>
+<a href="/wiki/Haxe" title="Haxe">Haxe</a>
+<a href="/wiki/Hermes_(programming_language)" title="Hermes (programming language)">Hermes</a>
+<a href="/wiki/High_Level_Assembly" title="High Level Assembly">High Level Assembly (HLA)</a>
+<a class="mw-redirect" href="/wiki/High_Level_Shader_Language" title="High Level Shader Language">HLSL</a>
+<a href="/wiki/Hollywood_(programming_language)" title="Hollywood (programming language)">Hollywood</a>
+<a href="/wiki/TempleOS" title="TempleOS">HolyC (TempleOS)</a>
+<a href="/wiki/Hop_(software)" title="Hop (software)">Hop</a>
+<a href="/wiki/Hopscotch_(programming_language)" title="Hopscotch (programming language)">Hopscotch</a>
+<a href="/wiki/Hope_(programming_language)" title="Hope (programming language)">Hope</a>
+<a class="mw-redirect" href="/wiki/Hume_(language)" title="Hume (language)">Hume</a>
+<a href="/wiki/HyperTalk" title="HyperTalk">HyperTalk</a>
+<a href="/wiki/Hy" title="Hy">Hy</a>
+<a href="/wiki/Io_(programming_language)" title="Io (programming language)">Io</a>
+<a href="/wiki/Icon_(programming_language)" title="Icon (programming language)">Icon</a>
+<a class="mw-redirect" href="/wiki/IBM_Basic_assembly_language" title="IBM Basic assembly language">IBM Basic assembly language</a>
+<a href="/wiki/IBM_HAScript" title="IBM HAScript">IBM HAScript</a>
+<a href="/wiki/IBM_Informix-4GL" title="IBM Informix-4GL">IBM Informix-4GL</a>
+<a href="/wiki/IBM_RPG" title="IBM RPG">IBM RPG</a>
+<a href="/wiki/IDL_(programming_language)" title="IDL (programming language)">IDL</a>
+<a href="/wiki/Idris_(programming_language)" title="Idris (programming language)">Idris</a>
+<a class="mw-redirect" href="/wiki/Inform_(programming_language)" title="Inform (programming language)">Inform</a>
+<a href="/wiki/ISLISP" title="ISLISP">ISLISP</a>
+<a href="/wiki/J_(programming_language)" title="J (programming language)">J</a>
+<a class="mw-redirect" href="/wiki/J_Sharp" title="J Sharp">J# (J sharp)</a>
+<a href="/wiki/Visual_J%2B%2B" title="Visual J++">J++ (J plus plus)</a>
+<a href="/wiki/JADE_(programming_language)" title="JADE (programming language)">JADE</a>
+<a class="mw-redirect" href="/wiki/Jai_(programming_language)" title="Jai (programming language)">Jai</a>
+<a href="/wiki/JAL_(compiler)" title="JAL (compiler)">JAL</a>
+<a href="/wiki/Janus_(concurrent_constraint_programming_language)" title="Janus (concurrent constraint programming language)">Janus (concurrent constraint programming language)</a>
+<a href="/wiki/Janus_(time-reversible_computing_programming_language)" title="Janus (time-reversible computing programming language)">Janus (time-reversible computing programming language)</a>
+<a class="mw-redirect" href="/wiki/JASS_(scripting_language)" title="JASS (scripting language)">JASS</a>
+<a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>
+<a href="/wiki/JavaFX_Script" title="JavaFX Script">JavaFX Script</a>
+<a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>
+<a href="/wiki/Jess_(programming_language)" title="Jess (programming language)">Jess</a>
+<a href="/wiki/Job_Control_Language" title="Job Control Language">JCL</a>
+<a href="/wiki/JEAN" title="JEAN">JEAN</a>
+<a href="/wiki/Join_Java" title="Join Java">Join Java</a>
+<a href="/wiki/JOSS" title="JOSS">JOSS</a>
+<a href="/wiki/Joule_(programming_language)" title="Joule (programming language)">Joule</a>
+<a href="/wiki/JOVIAL" title="JOVIAL">JOVIAL</a>
+<a href="/wiki/Joy_(programming_language)" title="Joy (programming language)">Joy</a>
+<a href="/wiki/JScript" title="JScript">JScript</a>
+<a href="/wiki/JScript_.NET" title="JScript .NET">JScript .NET</a>
+<a href="/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a>
+<a href="/wiki/Jython" title="Jython">Jython</a>
+<a href="/wiki/K_(programming_language)" title="K (programming language)">K</a>
+<a href="/wiki/Kaleidoscope_(programming_language)" title="Kaleidoscope (programming language)">Kaleidoscope</a>
+<a href="/wiki/Karel_(programming_language)" title="Karel (programming language)">Karel</a>
+<a class="mw-redirect" href="/wiki/IntelliCorp_(Software)" title="IntelliCorp (Software)">KEE</a>
+<a href="/wiki/KiXtart" title="KiXtart">Kixtart</a>
+<a class="mw-redirect" href="/wiki/Klerer-May_System" title="Klerer-May System">Klerer-May System</a>
+<a href="/wiki/Knowledge_Interchange_Format" title="Knowledge Interchange Format">KIF (Knowledge Interchange Format)</a>
+<a class="mw-redirect" href="/wiki/Kojo_(programming_language)" title="Kojo (programming language)">Kojo</a>
+<a href="/wiki/Kotlin_(programming_language)" title="Kotlin (programming language)">Kotlin</a>
+<a href="/wiki/Kent_Recursive_Calculator" title="Kent Recursive Calculator">KRC</a>
+<a href="/wiki/KRL_(programming_language)" title="KRL (programming language)">KRL</a>
+<a href="/wiki/KUKA_Robot_Language" title="KUKA Robot Language">KUKA Robot Language</a>
+<a class="mw-redirect" href="/wiki/KRYPTON" title="KRYPTON">KRYPTON</a>
+<a href="/wiki/KornShell" title="KornShell">KornShell (ksh)</a>
+<a href="/wiki/Kodu_Game_Lab" title="Kodu Game Lab">Kodu</a>
+<a href="/wiki/Kivy_(framework)#Kv_language" title="Kivy (framework)">Kv (Kivy)</a>
+<a href="/wiki/LabVIEW" title="LabVIEW">LabVIEW</a>
+<a href="/wiki/Ladder_logic" title="Ladder logic">Ladder</a>
+<a href="/wiki/LANSA_(development_environment)" title="LANSA (development environment)">LANSA</a>
+<a href="/wiki/Lasso_(programming_language)" title="Lasso (programming language)">Lasso</a>
+<a href="/wiki/Lava_(programming_language)" title="Lava (programming language)">Lava</a>
+<a href="/wiki/Little_Computer_3" title="Little Computer 3">LC-3</a>
+<a href="/wiki/Lean_(proof_assistant)" title="Lean (proof assistant)">Lean</a>
+<a class="mw-redirect" href="/wiki/Legoscript" title="Legoscript">Legoscript</a>
+<a href="/wiki/Little_Implementation_Language" title="Little Implementation Language">LIL</a>
+<a href="/wiki/LilyPond" title="LilyPond">LilyPond</a>
+<a href="/wiki/Limbo_(programming_language)" title="Limbo (programming language)">Limbo</a>
+<a href="/wiki/Limnor" title="Limnor">Limnor</a>
+<a href="/wiki/LINC_4GL" title="LINC 4GL">LINC</a>
+<a href="/wiki/Lingo_(programming_language)" title="Lingo (programming language)">Lingo</a>
+<a class="mw-redirect" href="/wiki/LINQ" title="LINQ">LINQ</a>
+<a href="/wiki/LIS_(programming_language)" title="LIS (programming language)">LIS</a>
+<a class="mw-redirect" href="/wiki/Language_for_Instruction_Set_Architecture" title="Language for Instruction Set Architecture">LISA</a>
+<a href="/wiki/Language_H" title="Language H">Language H</a>
+<a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>
+<a href="/wiki/Lite-C" title="Lite-C">Lite-C</a>
+<a class="mw-redirect" href="/wiki/Lithe_(programming_language)" title="Lithe (programming language)">Lithe</a>
+<a href="/wiki/Little_b_(programming_language)" title="Little b (programming language)">Little b</a>
+<a href="/wiki/Ethereum#Contract_source_code" title="Ethereum">LLL</a>
+<a href="/wiki/Logo_(programming_language)" title="Logo (programming language)">Logo</a>
+<a href="/wiki/Logtalk" title="Logtalk">Logtalk</a>
+<a href="/wiki/LotusScript" title="LotusScript">LotusScript</a>
+<a class="mw-redirect" href="/wiki/LPC_(programming_language)" title="LPC (programming language)">LPC</a>
+<a href="/wiki/LSE_(programming_language)" title="LSE (programming language)">LSE</a>
+<a class="mw-redirect" href="/wiki/Linden_Scripting_Language" title="Linden Scripting Language">LSL</a>
+<a href="/wiki/LiveCode" title="LiveCode">LiveCode</a>
+<a href="/wiki/LiveScript_(programming_language)" title="LiveScript (programming language)">LiveScript</a>
+<a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>
+<a href="/wiki/Lucid_(programming_language)" title="Lucid (programming language)">Lucid</a>
+<a href="/wiki/Lustre_(programming_language)" title="Lustre (programming language)">Lustre</a>
+<a href="/wiki/LYaPAS" title="LYaPAS">LYaPAS</a>
+<a href="/wiki/Lynx_(programming_language)" title="Lynx (programming language)">Lynx</a>
+<a class="mw-redirect" href="/wiki/M_Formula_language" title="M Formula language">M Formula language</a>
+<a href="/wiki/M2001" title="M2001">M2001</a>
+<a href="/wiki/M4_(computer_language)" title="M4 (computer language)">M4</a>
+<a class="mw-redirect" href="/wiki/M_Sharp_(programming_language)" title="M Sharp (programming language)">M#</a>
+<a href="/wiki/Machine_code" title="Machine code">Machine code</a>
+<a href="/wiki/MAD_(programming_language)" title="MAD (programming language)">MAD</a>
+<a href="/wiki/MAD_(programming_language)" title="MAD (programming language)">MAD/I</a>
+<a href="/wiki/Magik_(programming_language)" title="Magik (programming language)">Magik</a>
+<a class="mw-redirect" href="/wiki/Magma_computer_algebra_system" title="Magma computer algebra system">Magma</a>
+<a href="/wiki/M%C3%A1ni" title="Máni">Máni</a>
+<a href="/wiki/Maple_(software)" title="Maple (software)">Maple</a>
+<a href="/wiki/MAPPER" title="MAPPER">MAPPER</a>
+<a href="/wiki/MARK_IV_(software)" title="MARK IV (software)">MARK-IV</a>
+<a href="/wiki/Mary_(programming_language)" title="Mary (programming language)">Mary</a>
+<a href="/wiki/MATLAB" title="MATLAB">MATLAB</a>
+<a href="/wiki/Microsoft_Macro_Assembler" title="Microsoft Macro Assembler">MASM Microsoft Assembly x86</a>
+<a href="/wiki/MATH-MATIC" title="MATH-MATIC">MATH-MATIC</a>
+<a href="/wiki/Maude_system" title="Maude system">Maude system</a>
+<a href="/wiki/Maxima_(software)" title="Maxima (software)">Maxima</a>
+<a href="/wiki/Macsyma" title="Macsyma">Macsyma</a>
+<a href="/wiki/Max_(software)" title="Max (software)">Max</a>
+<a href="/wiki/Autodesk_3ds_Max" title="Autodesk 3ds Max">MaxScript</a>
+<a href="/wiki/Maya_Embedded_Language" title="Maya Embedded Language">Maya (MEL)</a>
+<a href="/wiki/MDL_(programming_language)" title="MDL (programming language)">MDL</a>
+<a href="/wiki/Mercury_(programming_language)" title="Mercury (programming language)">Mercury</a>
+<a href="/wiki/Mesa_(programming_language)" title="Mesa (programming language)">Mesa</a>
+<a href="/wiki/MHEG-5" title="MHEG-5">MHEG-5 (Interactive TV programming language)</a>
+<a href="/wiki/Microassembler" title="Microassembler">Microcode</a>
+<a href="/wiki/Microsoft_Power_Fx" title="Microsoft Power Fx">Microsoft Power Fx</a>
+<a href="/wiki/MIIS_(programming_language)" title="MIIS (programming language)">MIIS</a>
+<a href="/wiki/Milk_(programming_language)" title="Milk (programming language)">Milk (programming language)</a>
+<a href="/wiki/MIMIC" title="MIMIC">MIMIC</a>
+<a href="/wiki/Mirah_(programming_language)" title="Mirah (programming language)">Mirah</a>
+<a href="/wiki/Miranda_(programming_language)" title="Miranda (programming language)">Miranda</a>
+<a href="/wiki/MIVA_Script" title="MIVA Script">MIVA Script</a>
+<a href="/wiki/ML_(programming_language)" title="ML (programming language)">ML</a>
+<a href="/wiki/Model_204" title="Model 204">Model 204</a>
+<a href="/wiki/Modelica" title="Modelica">Modelica</a>
+<a href="/wiki/Malbolge" title="Malbolge">Malbolge</a>
+<a href="/wiki/Modula" title="Modula">Modula</a>
+<a href="/wiki/Modula-2" title="Modula-2">Modula-2</a>
+<a href="/wiki/Modula-3" title="Modula-3">Modula-3</a>
+<a class="mw-redirect" href="/wiki/Mohol_programming_languages" title="Mohol programming languages">Mohol</a>
+<a class="mw-redirect" href="/wiki/MOO_(programming_language)" title="MOO (programming language)">MOO</a>
+<a href="/wiki/Mortran" title="Mortran">Mortran</a>
+<a href="/wiki/Mouse_(programming_language)" title="Mouse (programming language)">Mouse</a>
+<a href="/wiki/MPD_(programming_language)" title="MPD (programming language)">MPD</a>
+<a href="/wiki/MIRC_scripting_language" title="MIRC scripting language">MSL</a>
+<a href="/wiki/MUMPS" title="MUMPS">MUMPS</a>
+<a href="/wiki/MuPAD" title="MuPAD">MuPAD</a>
+<a href="/wiki/Ethereum#Programming_languages" title="Ethereum">Mutan</a>
+<a href="/wiki/Mystic_BBS" title="Mystic BBS">Mystic Programming Language</a>
+<a href="/wiki/Netwide_Assembler" title="Netwide Assembler">NASM</a>
+<a href="/wiki/Napier88" title="Napier88">Napier88</a>
+<a class="mw-redirect" href="/wiki/Neko_(programming_language)" title="Neko (programming language)">Neko</a>
+<a href="/wiki/Nemerle" title="Nemerle">Nemerle</a>
+<a href="/wiki/NESL" title="NESL">NESL</a>
+<a href="/wiki/Net.Data" title="Net.Data">Net.Data</a>
+<a href="/wiki/NetLogo" title="NetLogo">NetLogo</a>
+<a href="/wiki/NetRexx" title="NetRexx">NetRexx</a>
+<a href="/wiki/NewLISP" title="NewLISP">NewLISP</a>
+<a href="/wiki/NEWP" title="NEWP">NEWP</a>
+<a href="/wiki/Newspeak_(programming_language)" title="Newspeak (programming language)">Newspeak</a>
+<a href="/wiki/NewtonScript" title="NewtonScript">NewtonScript</a>
+<a href="/wiki/Nial" title="Nial">Nial</a>
+<a class="mw-redirect" href="/wiki/Nickle_(programming_language)" title="Nickle (programming language)">Nickle</a>
+<a class="mw-redirect" href="/wiki/Nickle_(programming_language)" title="Nickle (programming language)">NITIN</a>
+<a href="/wiki/Nim_(programming_language)" title="Nim (programming language)">Nim</a>
+<a class="mw-redirect" href="/wiki/Nix_package_manager" title="Nix package manager">Nix (Systems configuration language)</a>
+<a class="mw-redirect" href="/wiki/NORD_Programming_Language" title="NORD Programming Language">NPL</a>
+<a href="/wiki/Not_eXactly_C" title="Not eXactly C">Not eXactly C</a>
+<a href="/wiki/Not_Quite_C" title="Not Quite C">Not Quite C</a>
+<a href="/wiki/Nullsoft_Scriptable_Install_System" title="Nullsoft Scriptable Install System">NSIS</a>
+<a href="/wiki/Nu_(programming_language)" title="Nu (programming language)">Nu</a>
+<a href="/wiki/NWScript" title="NWScript">NWScript</a>
+<a class="mw-redirect" href="/wiki/NXT-G" title="NXT-G">NXT-G</a>
+<a href="/wiki/O:XML" title="O:XML">o:XML</a>
+<a href="/wiki/Oak_(programming_language)" title="Oak (programming language)">Oak</a>
+<a href="/wiki/Oberon_(programming_language)" title="Oberon (programming language)">Oberon</a>
+<a class="mw-redirect" href="/wiki/OBJ2" title="OBJ2">OBJ2</a>
+<a href="/wiki/Object_Lisp" title="Object Lisp">Object Lisp</a>
+<a class="mw-redirect" href="/wiki/ObjectLOGO" title="ObjectLOGO">ObjectLOGO</a>
+<a href="/wiki/Object_REXX" title="Object REXX">Object REXX</a>
+<a href="/wiki/Object_Pascal" title="Object Pascal">Object Pascal</a>
+<a href="/wiki/Objective-C" title="Objective-C">Objective-C</a>
+<a href="/wiki/Obliq" title="Obliq">Obliq</a>
+<a href="/wiki/OCaml" title="OCaml">OCaml</a>
+<a href="/wiki/Occam_(programming_language)" title="Occam (programming language)">occam</a>
+<a href="/wiki/Occam-%CF%80" title="Occam-π">occam-π</a>
+<a href="/wiki/GNU_Octave" title="GNU Octave">Octave</a>
+<a href="/wiki/OmniMark" title="OmniMark">OmniMark</a>
+<a href="/wiki/Opa_(programming_language)" title="Opa (programming language)">Opa</a>
+<a href="/wiki/Opal_(programming_language)" title="Opal (programming language)">Opal</a>
+<a href="/wiki/Open_Programming_Language" title="Open Programming Language">Open Programming Language</a>
+<a href="/wiki/OpenCL" title="OpenCL">OpenCL</a>
+<a href="/wiki/OpenEdge_Advanced_Business_Language" title="OpenEdge Advanced Business Language">OpenEdge Advanced Business Language</a>
+<a href="/wiki/OpenVera" title="OpenVera">OpenVera</a>
+<a href="/wiki/OpenQASM" title="OpenQASM">OpenQASM</a>
+<a href="/wiki/OPS5" title="OPS5">OPS5</a>
+<a href="/wiki/OptimJ" title="OptimJ">OptimJ</a>
+<a href="/wiki/Orc_(programming_language)" title="Orc (programming language)">Orc</a>
+<a href="/wiki/ORCA/Modula-2" title="ORCA/Modula-2">ORCA/Modula-2</a>
+<a href="/wiki/Oriel_(scripting_language)" title="Oriel (scripting language)">Oriel</a>
+<a href="/wiki/Orwell_(programming_language)" title="Orwell (programming language)">Orwell</a>
+<a href="/wiki/Oxygene_(programming_language)" title="Oxygene (programming language)">Oxygene</a>
+<a href="/wiki/Oz_(programming_language)" title="Oz (programming language)">Oz</a>
+<a href="/wiki/P_(programming_language)" title="P (programming language)">P</a>
+<a href="/wiki/P4_(programming_language)" title="P4 (programming language)">P4</a>
+<a href="/wiki/P%E2%80%B2%E2%80%B2" title="P′′">P′′</a>
+<a href="/wiki/ParaSail_(programming_language)" title="ParaSail (programming language)">ParaSail</a>
+<a href="/wiki/PARI/GP" title="PARI/GP">PARI/GP</a>
+<a href="/wiki/Pascal_(programming_language)" title="Pascal (programming language)">Pascal</a>
+<a href="/wiki/Pascal_Script" title="Pascal Script">Pascal Script</a>
+<a href="/wiki/PCASTL" title="PCASTL">PCASTL</a>
+<a class="mw-redirect" href="/wiki/Programming_language_for_Computable_Functions" title="Programming language for Computable Functions">PCF</a>
+<a href="/wiki/PEARL_(programming_language)" title="PEARL (programming language)">PEARL</a>
+<a href="/wiki/PeopleCode" title="PeopleCode">PeopleCode</a>
+<a href="/wiki/Perl" title="Perl">Perl</a>
+<a href="/wiki/Perl_Data_Language" title="Perl Data Language">PDL</a>
+<a href="/wiki/Pharo" title="Pharo">Pharo</a>
+<a href="/wiki/PHP" title="PHP">PHP</a>
+<a href="/wiki/Pico_(programming_language)" title="Pico (programming language)">Pico</a>
+<a class="mw-redirect" href="/wiki/Picolisp" title="Picolisp">Picolisp</a>
+<a href="/wiki/Pict_(programming_language)" title="Pict (programming language)">Pict</a>
+<a class="mw-redirect" href="/wiki/Pike_(programming_language)" title="Pike (programming language)">Pike</a>
+<a href="/wiki/PILOT" title="PILOT">PILOT</a>
+<a class="mw-redirect" href="/wiki/Hartmann_pipeline" title="Hartmann pipeline">Pipelines</a>
+<a href="/wiki/Pizza_(programming_language)" title="Pizza (programming language)">Pizza</a>
+<a href="/wiki/PL-11" title="PL-11">PL-11</a>
+<a href="/wiki/PL/0" title="PL/0">PL/0</a>
+<a href="/wiki/Programming_Language_for_Business" title="Programming Language for Business">PL/B</a>
+<a href="/wiki/PL/C" title="PL/C">PL/C</a>
+<a href="/wiki/PL/I" title="PL/I">PL/I</a>
+<a href="/wiki/PL/M" title="PL/M">PL/M</a>
+<a href="/wiki/PL/P" title="PL/P">PL/P</a>
+<a class="mw-redirect" href="/wiki/PL/S" title="PL/S">PL/S</a>
+<a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a>
+<a href="/wiki/PL360" title="PL360">PL360</a>
+<a href="/wiki/PLANC" title="PLANC">PLANC</a>
+<a href="/wiki/Plankalk%C3%BCl" title="Plankalkül">Plankalkül</a>
+<a href="/wiki/Planner_(programming_language)" title="Planner (programming language)">Planner</a>
+<a href="/wiki/PLEX_(programming_language)" title="PLEX (programming language)">PLEX</a>
+<a href="/wiki/PLEXIL" title="PLEXIL">PLEXIL</a>
+<a href="/wiki/Plus_(programming_language)" title="Plus (programming language)">Plus</a>
+<a href="/wiki/POP-11" title="POP-11">POP-11</a>
+<a href="/wiki/POP-2" title="POP-2">POP-2</a>
+<a href="/wiki/PostScript" title="PostScript">PostScript</a>
+<a href="/wiki/Amiga_E#PortablE" title="Amiga E">PortablE</a>
+<a href="/wiki/POV-Ray" title="POV-Ray">POV-Ray SDL</a>
+<a class="mw-redirect" href="/wiki/Powerhouse_(programming_language)" title="Powerhouse (programming language)">Powerhouse</a>
+<a href="/wiki/PowerBuilder" title="PowerBuilder">PowerBuilder</a>
+<a href="/wiki/PowerShell" title="PowerShell">PowerShell</a>
+<a href="/wiki/Polymorphic_Programming_Language" title="Polymorphic Programming Language">PPL</a>
+<a class="mw-redirect" href="/wiki/Processing_(programming_language)" title="Processing (programming language)">Processing</a>
+<a class="mw-redirect" href="/wiki/Processing.js" title="Processing.js">Processing.js</a>
+<a href="/wiki/Prograph" title="Prograph">Prograph</a>
+<a href="/wiki/Project_Verona" title="Project Verona">Project Verona</a>
+<a href="/wiki/Prolog" title="Prolog">Prolog</a>
+<a href="/wiki/PROMAL" title="PROMAL">PROMAL</a>
+<a href="/wiki/Promela" title="Promela">Promela</a>
+<a href="/wiki/PROSE_modeling_language" title="PROSE modeling language">PROSE modeling language</a>
+<a href="/wiki/Protel" title="Protel">PROTEL</a>
+<a href="/wiki/ProvideX" title="ProvideX">ProvideX</a>
+<a href="/wiki/Pro*C" title="Pro*C">Pro*C</a>
+<a href="/wiki/Pure_(programming_language)" title="Pure (programming language)">Pure</a>
+<a href="/wiki/Pure_Data" title="Pure Data">Pure Data</a>
+<a href="/wiki/PureScript" title="PureScript">PureScript</a>
+<a href="/wiki/PWCT" title="PWCT">PWCT</a>
+<a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>
+<a href="/wiki/Q_(programming_language_from_Kx_Systems)" title="Q (programming language from Kx Systems)">Q (programming language from Kx Systems)</a>
+<a href="/wiki/Q_Sharp" title="Q Sharp">Q# (Microsoft programming language)</a>
+<a href="/wiki/Qalb_(programming_language)" title="Qalb (programming language)">Qalb</a>
+<a href="/wiki/Quantum_Computation_Language" title="Quantum Computation Language">Quantum Computation Language</a>
+<a href="/wiki/QtScript" title="QtScript">QtScript</a>
+<a href="/wiki/QuakeC" title="QuakeC">QuakeC</a>
+<a href="/wiki/Quantum_programming" title="Quantum programming">QPL</a>
+<a href="/wiki/.QL" title=".QL">.QL</a>
+<a href="/wiki/R_(programming_language)" title="R (programming language)">R</a>
+<a href="/wiki/R%2B%2B" title="R++">R++</a>
+<a href="/wiki/Racket_(programming_language)" title="Racket (programming language)">Racket</a>
+<a href="/wiki/Raku_(programming_language)" title="Raku (programming language)">Raku</a>
+<a href="/wiki/RAPID" title="RAPID">RAPID</a>
+<a href="/wiki/Rapira" title="Rapira">Rapira</a>
+<a class="mw-redirect" href="/wiki/Ratfiv" title="Ratfiv">Ratfiv</a>
+<a href="/wiki/Ratfor" title="Ratfor">Ratfor</a>
+<a href="/wiki/Rc" title="Rc">rc</a>
+<a href="/wiki/Reason_(programming_language)" title="Reason (programming language)">Reason</a>
+<a class="mw-redirect" href="/wiki/REBOL" title="REBOL">REBOL</a>
+<a href="/wiki/Red_(programming_language)" title="Red (programming language)">Red</a>
+<a href="/wiki/Core_War" title="Core War">Redcode</a>
+<a class="mw-redirect" href="/wiki/REFAL" title="REFAL">REFAL</a>
+<a class="mw-redirect" href="/wiki/REXX" title="REXX">REXX</a>
+<a href="/wiki/Ring_(programming_language)" title="Ring (programming language)">Ring</a>
+<a href="/wiki/ROOP_(programming_language)" title="ROOP (programming language)">ROOP</a>
+<a href="/wiki/IBM_RPG" title="IBM RPG">RPG</a>
+<a href="/wiki/RPL_(programming_language)" title="RPL (programming language)">RPL</a>
+<a href="/wiki/Robot_Battle#Robot_scripting_language" title="Robot Battle">RSL</a>
+<a href="/wiki/RTL/2" title="RTL/2">RTL/2</a>
+<a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>
+<a href="/wiki/Rust_(programming_language)" title="Rust (programming language)">Rust</a>
+<a href="/wiki/S_(programming_language)" title="S (programming language)">S</a>
+<a class="mw-redirect" href="/wiki/S2_(programming_language)" title="S2 (programming language)">S2</a>
+<a href="/wiki/S3_(programming_language)" title="S3 (programming language)">S3</a>
+<a class="mw-redirect" href="/wiki/S-Lang_(programming_language)" title="S-Lang (programming language)">S-Lang</a>
+<a href="/wiki/S-PLUS" title="S-PLUS">S-PLUS</a>
+<a href="/wiki/SA-C_(programming_language)" title="SA-C (programming language)">SA-C</a>
+<a href="/wiki/SabreTalk" title="SabreTalk">SabreTalk</a>
+<a href="/wiki/SAIL_(programming_language)" title="SAIL (programming language)">SAIL</a>
+<a href="/wiki/SAKO_(programming_language)" title="SAKO (programming language)">SAKO</a>
+<a class="mw-redirect" href="/wiki/SAS_System" title="SAS System">SAS</a>
+<a href="/wiki/SASL_(programming_language)" title="SASL (programming language)">SASL</a>
+<a href="/wiki/Sather" title="Sather">Sather</a>
+<a href="/wiki/Sawzall_(programming_language)" title="Sawzall (programming language)">Sawzall</a>
+<a href="/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a>
+<a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a>
+<a href="/wiki/Scilab" title="Scilab">Scilab</a>
+<a href="/wiki/Scratch_(programming_language)" title="Scratch (programming language)">Scratch</a>
+<a href="/wiki/Script.NET" title="Script.NET">Script.NET</a>
+<a href="/wiki/Sed" title="Sed">Sed</a>
+<a href="/wiki/Seed7" title="Seed7">Seed7</a>
+<a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a>
+<a href="/wiki/SenseTalk" title="SenseTalk">SenseTalk</a>
+<a href="/wiki/SequenceL" title="SequenceL">SequenceL</a>
+<a href="/wiki/Ethereum#Programming_languages" title="Ethereum">Serpent</a>
+<a href="/wiki/SETL" title="SETL">SETL</a>
+<a href="/wiki/Short_Code_(computer_language)" title="Short Code (computer language)">Short Code</a>
+<a class="mw-redirect" href="/wiki/Superbase_database#History" title="Superbase database">SIMPOL</a>
+<a href="/wiki/SIGNAL_(programming_language)" title="SIGNAL (programming language)">SIGNAL</a>
+<a href="/wiki/SiMPLE" title="SiMPLE">SiMPLE</a>
+<a href="/wiki/SIMSCRIPT" title="SIMSCRIPT">SIMSCRIPT</a>
+<a href="/wiki/Simula" title="Simula">Simula</a>
+<a href="/wiki/Simulink" title="Simulink">Simulink</a>
+<a href="/wiki/SISAL" title="SISAL">SISAL</a>
+<a class="mw-redirect" href="/wiki/SKILL" title="SKILL">SKILL</a>
+<a href="/wiki/SLIP_(programming_language)" title="SLIP (programming language)">SLIP</a>
+<a href="/wiki/SMALL" title="SMALL">SMALL</a>
+<a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>
+<a href="/wiki/Standard_ML" title="Standard ML">SML</a>
+<a href="/wiki/Strongtalk" title="Strongtalk">Strongtalk</a>
+<a href="/wiki/Snap!_(programming_language)" title="Snap! (programming language)">Snap!</a>
+<a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a>
+<a class="mw-redirect" href="/wiki/SPITBOL_compiler" title="SPITBOL compiler">SPITBOL</a>
+<a class="mw-redirect" href="/wiki/Snowball_programming_language" title="Snowball programming language">Snowball</a>
+<a href="/wiki/Secure_Operations_Language" title="Secure Operations Language">SOL</a>
+<a href="/wiki/Solidity" title="Solidity">Solidity</a>
+<a href="/wiki/SOPHAEROS" title="SOPHAEROS">SOPHAEROS</a>
+<a href="/wiki/Source_(programming_language)" title="Source (programming language)">Source</a>
+<a href="/wiki/SPARK_(programming_language)" title="SPARK (programming language)">SPARK</a>
+<a href="/wiki/Speakeasy_(computational_environment)" title="Speakeasy (computational environment)">Speakeasy</a>
+<a href="/wiki/Speedcoding" title="Speedcoding">Speedcode</a>
+<a href="/wiki/Parallax_Propeller" title="Parallax Propeller">SPIN</a>
+<a href="/wiki/SP/k" title="SP/k">SP/k</a>
+<a href="/wiki/IBM_1401_Symbolic_Programming_System" title="IBM 1401 Symbolic Programming System">SPS</a>
+<a href="/wiki/SQL" title="SQL">SQL</a>
+<a href="/wiki/SQR" title="SQR">SQR</a>
+<a href="/wiki/Squeak" title="Squeak">Squeak</a>
+<a href="/wiki/Squirrel_(programming_language)" title="Squirrel (programming language)">Squirrel</a>
+<a href="/wiki/SR_(programming_language)" title="SR (programming language)">SR</a>
+<a href="/wiki/S/SL_programming_language" title="S/SL programming language">S/SL</a>
+<a class="mw-redirect" href="/wiki/Starlogo" title="Starlogo">Starlogo</a>
+<a href="/wiki/Strand_(programming_language)" title="Strand (programming language)">Strand</a>
+<a href="/wiki/Stata" title="Stata">Stata</a>
+<a href="/wiki/Stateflow" title="Stateflow">Stateflow</a>
+<a href="/wiki/Subtext_(programming_language)" title="Subtext (programming language)">Subtext</a>
+<a class="mw-redirect" href="/wiki/Superbase_database" title="Superbase database">SBL</a>
+<a href="/wiki/SuperCollider" title="SuperCollider">SuperCollider</a>
+<a href="/wiki/Superplan" title="Superplan">Superplan</a>
+<a href="/wiki/SuperTalk" title="SuperTalk">SuperTalk</a>
+<a href="/wiki/Swift_(programming_language)" title="Swift (programming language)">Swift (Apple programming language)</a>
+<a href="/wiki/Swift_(parallel_scripting_language)" title="Swift (parallel scripting language)">Swift (parallel scripting language)</a>
+<a href="/wiki/SYMPL" title="SYMPL">SYMPL</a>
+<a href="/wiki/T_(programming_language)" title="T (programming language)">T</a>
+<a href="/wiki/TACL" title="TACL">TACL</a>
+<a href="/wiki/TACPOL_(programming_language)" title="TACPOL (programming language)">TACPOL</a>
+<a href="/wiki/TADS" title="TADS">TADS (Text Adventure Development System)</a>
+<a href="/wiki/Transaction_Application_Language" title="Transaction Application Language">TAL</a>
+<a href="/wiki/Tcl" title="Tcl">Tcl</a>
+<a href="/wiki/Tea_(programming_language)" title="Tea (programming language)">Tea</a>
+<a class="mw-redirect" href="/wiki/Text_Editor_and_Corrector" title="Text Editor and Corrector">TECO (Text Editor and Corrector)</a>
+<a href="/wiki/TELCOMP" title="TELCOMP">TELCOMP</a>
+<a href="/wiki/TeX" title="TeX">TeX</a>
+<a href="/wiki/Text_Executive_Programming_Language" title="Text Executive Programming Language">TEX (Text Executive Programming Language)</a>
+<a href="/wiki/Tensilica_Instruction_Extension" title="Tensilica Instruction Extension">TIE</a>
+<a href="/wiki/TMG_(language)" title="TMG (language)">TMG (TransMo Griffer)</a>
+<a href="/wiki/Tom_(pattern_matching_language)" title="Tom (pattern matching language)">Tom</a>
+<a href="/wiki/Toi_(programming_language)" title="Toi (programming language)">Toi</a>
+<a href="/wiki/Clarion_(programming_language)" title="Clarion (programming language)">Topspeed (Clarion)</a>
+<a class="mw-redirect" href="/wiki/Text_Processing_Utility" title="Text Processing Utility">TPU (Text Processing Utility)</a>
+<a href="/wiki/TRAC_(programming_language)" title="TRAC (programming language)">Trac</a>
+<a href="/wiki/TTM_(programming_language)" title="TTM (programming language)">TTM</a>
+<a href="/wiki/Transact-SQL" title="Transact-SQL">T-SQL (Transact-SQL)</a>
+<a class="mw-redirect" href="/wiki/Transcript_(programming_language)" title="Transcript (programming language)">Transcript (LiveCode)</a>
+<a href="/wiki/TTCN" title="TTCN">TTCN (Tree and Tabular Combined Notation)</a>
+<a href="/wiki/Turing_(programming_language)" title="Turing (programming language)">Turing</a>
+<a class="mw-redirect" href="/wiki/TUTOR_(programming_language)" title="TUTOR (programming language)">TUTOR (PLATO Author Language)</a>
+<a href="/wiki/TXL_(programming_language)" title="TXL (programming language)">TXL</a>
+<a href="/wiki/TypeScript" title="TypeScript">TypeScript</a>
+<a href="/wiki/Tynker" title="Tynker">Tynker</a>
+<a href="/wiki/Ubercode" title="Ubercode">Ubercode</a>
+<a href="/wiki/UCSD_Pascal" title="UCSD Pascal">UCSD Pascal</a>
+<a href="/wiki/Umple" title="Umple">Umple</a>
+<a href="/wiki/Unicon_(programming_language)" title="Unicon (programming language)">Unicon</a>
+<a href="/wiki/Uniface_(programming_language)" title="Uniface (programming language)">Uniface</a>
+<a href="/wiki/UNITY_(programming_language)" title="UNITY (programming language)">UNITY</a>
+<a class="mw-redirect" href="/wiki/UnrealScript" title="UnrealScript">UnrealScript</a>
+<a href="/wiki/Vala_(programming_language)" title="Vala (programming language)">Vala</a>
+<a href="/wiki/Vim_(text_editor)#Vim_script" title="Vim (text editor)">Vim script</a>
+<a href="/wiki/Ethereum#Smart_contracts" title="Ethereum">Viper (Ethereum/Ether (ETH))</a>
+<a class="mw-redirect" href="/wiki/Visual_DataFlex" title="Visual DataFlex">Visual DataFlex</a>
+<a href="/wiki/Visual_DialogScript" title="Visual DialogScript">Visual DialogScript</a>
+<a href="/wiki/Visual_FoxPro" title="Visual FoxPro">Visual FoxPro</a>
+<a href="/wiki/Visual_J%2B%2B" title="Visual J++">Visual J++ (Visual J plus plus)</a>
+<a href="/wiki/AutoLISP" title="AutoLISP">Visual LISP</a>
+<a href="/wiki/Visual_Objects" title="Visual Objects">Visual Objects</a>
+<a href="/wiki/Visual_Prolog" title="Visual Prolog">Visual Prolog</a>
+<a class="mw-redirect" href="/wiki/WATFIV_(programming_language)" title="WATFIV (programming language)">WATFIV, WATFOR (WATerloo FORtran IV)</a>
+<a href="/wiki/WebAssembly" title="WebAssembly">WebAssembly</a>
+<a href="/wiki/WebDNA" title="WebDNA">WebDNA</a>
+<a href="/wiki/Whiley_(programming_language)" title="Whiley (programming language)">Whiley</a>
+<a class="mw-redirect" href="/wiki/Winbatch" title="Winbatch">Winbatch</a>
+<a href="/wiki/Wolfram_Language" title="Wolfram Language">Wolfram Language</a>
+<a href="/wiki/Wyvern_(programming_language)" title="Wyvern (programming language)">Wyvern</a>
+<a class="mw-redirect" href="/wiki/X%2B%2B" title="X++">X++ (X plus plus/Microsoft Dynamics AX)</a>
+<a href="/wiki/X10_(programming_language)" title="X10 (programming language)">X10</a>
+<a href="/wiki/XBase%2B%2B" title="XBase++">xBase++ (xBase plus plus)</a>
+<a href="/wiki/XBL" title="XBL">XBL</a>
+<a class="mw-redirect" href="/wiki/XC_(programming_language)" title="XC (programming language)">XC</a>
+<a class="mw-redirect" href="/wiki/XCore_XS1" title="XCore XS1">XMOS architecture</a>
+<a href="/wiki/XHarbour" title="XHarbour">xHarbour</a>
+<a class="mw-redirect" href="/wiki/XL_(programming_language)" title="XL (programming language)">XL</a>
+<a href="/wiki/Xojo" title="Xojo">Xojo</a>
+<a href="/wiki/XOTcl" title="XOTcl">XOTcl</a>
+<a href="/wiki/XOD_(programming_language)" title="XOD (programming language)">Xod</a>
+<a href="/wiki/XPL" title="XPL">XPL</a>
+<a href="/wiki/XPL0" title="XPL0">XPL0</a>
+<a href="/wiki/XQuery" title="XQuery">XQuery</a>
+<a href="/wiki/XSB" title="XSB">XSB</a>
+<a href="/wiki/XSharp" title="XSharp">XSharp (X#)</a>
+<a href="/wiki/XSLT" title="XSLT">XSLT</a>
+<a href="/wiki/Xtend" title="Xtend">Xtend</a>
+<a href="/wiki/Yorick_(programming_language)" title="Yorick (programming language)">Yorick</a>
+<a class="mw-redirect" href="/wiki/YQL_(programming_language)" title="YQL (programming language)">YQL</a>
+<a href="/wiki/Yoix" title="Yoix">Yoix</a>
+<a href="/wiki/Z_notation" title="Z notation">Z notation</a>
+<a href="/wiki/Z_shell" title="Z shell">Z shell</a>
+<a class="mw-redirect" href="/wiki/Zebra_(programming_language)" title="Zebra (programming language)">Zebra, ZPL, ZPL2</a>
+<a href="/wiki/Zeno_(programming_language)" title="Zeno (programming language)">Zeno</a>
+<a class="mw-redirect" href="/wiki/ZetaLisp" title="ZetaLisp">ZetaLisp</a>
+<a href="/wiki/Zig_(programming_language)" title="Zig (programming language)">Zig</a>
+<a href="/wiki/Zonnon" title="Zonnon">Zonnon</a>
+<a href="/wiki/ZOPL" title="ZOPL">ZOPL</a>
+<a href="/wiki/ZPL_(programming_language)" title="ZPL (programming language)">ZPL</a>
+<a href="/wiki/Z%2B%2B" title="Z++">Z++</a>
