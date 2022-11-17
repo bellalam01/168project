@@ -99,8 +99,7 @@ Clean 	"[Lean, Miranda, Haskell]"	"[Haskell, Idris]"
 Clipper 		
 CLIPS		
 CLIST		
-Clojure	"[
-C#, C++, Common Lisp, Erlang, Haskell, Java, ML, Prolog, Racket, Ruby, Scheme, Wolfram Language]"	"[Elixir, Hy, LFE, Pixie, Rhine]"
+Clojure	"[C#, C++, Common Lisp, Erlang, Haskell, Java, ML, Prolog, Racket, Ruby, Scheme, Wolfram Language]"	"[Elixir, Hy, LFE, Pixie, Rhine]"
 CLU 	"[ALGOL 60, Lisp, Simula, Alphard]"	"[Ada, Argus, C++, Lua, Python, Ruby, Sather, Swift]"
 CMS-2	"[CS-1, Fortran, JOVIAL and PL/I]"	
 COBOL	"[Initial: AIMACO, COMTRAN, FACT, FLOW-MATIC
@@ -326,8 +325,7 @@ Language Integrated Query	"[SQL, Haskell]"
 LIS 		
 LISA (Language for Instruction Set Architecture)		
 Language H	"[COBOL]"	
-Lisp 	"[IPL]"	"[
-CLIPS, CLU, COWSEL, Dylan, Elixir, Forth, Haskell, Io, Ioke, JavaScript, Julia, Logo, Lua, ML, Nim, Nu, OPS5, Perl, POP-2/11, Python, R, Rebol, Ruby, Scala, Swift, Smalltalk, Tcl, Wolfram Language]"
+Lisp 	"[IPL]"	"[CLIPS, CLU, COWSEL, Dylan, Elixir, Forth, Haskell, Io, Ioke, JavaScript, Julia, Logo, Lua, ML, Nim, Nu, OPS5, Perl, POP-2/11, Python, R, Rebol, Ruby, Scala, Swift, Smalltalk, Tcl, Wolfram Language]"
 Lite-C		
 Lithe		
 Little b 	"[Lisp]"	
@@ -359,10 +357,9 @@ Maple (software)
 MAPPER		
 MARK IV (software)		
 Mary 	"[ALGOL 68]"	
-MATLAB	"[
-APL, EISPACK, LINPACK, PL/0, Speakeasy]"	"[Julia, Octave, Scilab, INTLAB]"
+MATLAB	"[APL, EISPACK, LINPACK, PL/0, Speakeasy]"	"[Julia, Octave, Scilab, INTLAB]"
 Microsoft Macro Assembler		
-MATH-MATIC	"[FLOW-MATIC]"	"[UNICODE ]"
+MATH-MATIC	"[FLOW-MATIC]"	"[UNICODE]"
 Maude system		
 Maxima (software)		
 Macsyma		
