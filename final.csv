@@ -534,7 +534,7 @@ Red 	"[Rebol, Scala, Lua]"
 Core War		
 Refal		
 Rexx	"[PL/I, ALGOL, EXEC, EXEC 2]"	"[NetRexx, Object REXX]"
-Ring 	"[Lua, Python, Ruby, C, C#, BASIC, QML, xBase, Supernova]"	"[SimpleLang, DragonLang ]"
+Ring 	"[Lua, Python, Ruby, C, C#, BASIC, QML, xBase, Supernova]"	"[SimpleLang, DragonLang]"
 ROOP 		
 IBM RPG	"[9PAC, FARGO]"	
 RPL 	"[RPN, Forth, Lisp]"	
@@ -558,8 +558,7 @@ Sawzall
 Scala 	"[Common Lisp, Eiffel, Erlang, F#, Haskell, Java, OCaml, Oz, Pizza, Scheme, Smalltalk, Standard ML]"	"[Ceylon, Chisel, Fantom, F#, C#, Kotlin, Lasso, Red, Flix]"
 Scheme 	"[ALGOL, Lisp, MDL]"	"[Clojure, Common Lisp, Dylan, EuLisp, Haskell, Hop, JavaScript, Julia, Lua, MultiLisp, Python, R, Racket, Ruby, Rust, S, Scala, T]"
 Scilab		
-Scratch 	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets, AgentCubes, Etoys]"	"[Catrobat,
-ScratchJr, Snap!, mBlock, Turtlestitch]"
+Scratch 	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets, AgentCubes, Etoys]"	"[Catrobat, ScratchJr, Snap!, mBlock, Turtlestitch]"
 Script.NET	"[JavaScript]"	
 sed	"[ed]"	"[Perl, AWK]"
 Seed7	"[Pascal, Modula-2, Ada, ALGOL 68, C, C++, Java]"	
@@ -573,7 +572,7 @@ Superbase
 SIGNAL 		
 SiMPLE		
 SIMSCRIPT		
-Simula	"[ALGOL 60, Simscript]"	"[All subsequent object-oriented programming languages]"
+Simula	"[ALGOL 60, Simscript]"	
 Simulink		
 SISAL	"[VAL, Pascal, C, Fortran]"	"[Haskell, SAC]"
 Cadence SKILL	"[Scheme, Common Lisp, CLOS]"	
