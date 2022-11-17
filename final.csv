@@ -1,112 +1,112 @@
 A Sharp (.NET)		
 A-0 System		
-A+ (programming language)	"[APL]"	"[K]"
+A+ 	"[APL]"	"[K]"
 A++		
 ABAP	"[Objective-C, COBOL, SQL]"	
-ABC (programming language)	"[SETL, ALGOL 68]"	"[Python]"
+ABC 	"[SETL, ALGOL 68]"	"[Python]"
 ABC ALGOL		
-ACC (programming language)		
+ACC 		
 Rational Synergy		
 Distributed Application Specification Language		
-Action! (programming language)		
+Action! 		
 ActionScript	"[JavaScript, Java]"	"[Haxe]"
-Actor (programming language)		
-Ada (programming language)	"[ALGOL 68, Pascal, Simula 67, C++ (Ada 95), Smalltalk (Ada 95), Modula-2 (Ada 95) Java (Ada 2005), Eiffel (Ada 2012)]"	"[C++, Chapel, Drago, D, Eiffel, Griffin, Java, Nim, ParaSail, PL/SQL, PL/pgSQL, Python, Ruby, Seed7, SPARforte, Sparkel, SQL/PSM, VHDL]"
+Actor 		
+Ada 	"[ALGOL 68, Pascal, Simula 67, C++ (Ada 95), Smalltalk (Ada 95), Modula-2 (Ada 95) Java (Ada 2005), Eiffel (Ada 2012)]"	"[C++, Chapel, Drago, D, Eiffel, Griffin, Java, Nim, ParaSail, PL/SQL, PL/pgSQL, Python, Ruby, Seed7, SPARforte, Sparkel, SQL/PSM, VHDL]"
 ISO/IEC 8652		
 Haystack (MIT project)		
 AdvPL	"[xBase]"	
-Agda (programming language)	"[Coq, Epigram, Haskell]"	"[Idris]"
+Agda 	"[Coq, Epigram, Haskell]"	"[Idris]"
 Keysight VEE		
-Agora (programming language)		
+Agora 		
 AIMMS		
 Aldor	"[A#, Pascal, Haskell]"	
-Alef (programming language)	"[C, Newsqueak]"	"[Limbo, Rust, Go]"
+Alef 	"[C, Newsqueak]"	"[Limbo, Rust, Go]"
 Algebraic Logic Functional programming language		
 ALGOL 58	"[FORTRAN, IT, Plankalkül, Superplan, Sequentielle Formelübersetzung]"	
 ALGOL 60	"[ALGOL 58]"	"[Simula, CPL, Pascal, Ada, C]"
 ALGOL 68	"[ALGOL 60, ALGOL Y]"	"[C, C++, Bourne shell, KornShell, Bash, Steelman, Ada, Python, Seed7, Mary, S3]"
 ALGOL W	"[ALGOL 60]"	"[Pascal, Modula-2]"
-Alice (programming language)	"[ML, Oz]"	
+Alice 	"[ML, Oz]"	
 Alma-0	"[Modula-2]"	
 AmbientTalk	"[Smalltalk, Self, Scheme, E, ABCL]"	"[ECMAScript Harmony]"
 Amiga E		
-AMOS (programming language)	"[STOS BASIC]"	
+AMOS 	"[STOS BASIC]"	
 AMPL	"[AWK, C]"	"[Pyomo]"
 Аналитик	"[ALMIR-65]"	"[Analitik-74, Analitik-2007, Analitik-2010]"
 AngelScript	"[C++]"	
 Apache Pig		
 Salesforce		
-APL (programming language)	"[Mathematical notation]"	"[A and A+, C++, FP, J, K, MATLAB, Nial, PPL, Python, q (kdb), S, Speakeasy, Wolfram Language]"
+APL 	"[Mathematical notation]"	"[A and A+, C++, FP, J, K, MATLAB, Nial, PPL, Python, q (kdb), S, Speakeasy, Wolfram Language]"
 App Inventor for Android		
 AppleScript	"[Natural language, HyperTalk]"	
-APT (programming language)		"[Computer-aided manufacturing systems]"
-Arc (programming language)	"[Lisp, Scheme]"	
+APT 		"[Computer-aided manufacturing systems]"
+Arc 	"[Lisp, Scheme]"	
 ARexx		
-Argus (programming language)		
+Argus 		
 Assembly language		
 AutoHotkey		
 AutoIt	"[BASIC]"	
 AutoLISP	"[Lisp, XLISP]"	
 Averest		
 AWK	"[C, sed, SNOBOL]"	"[Tcl, AMPL, Perl, Korn Shell (ksh93, dtksh, tksh), Lua]"
-Axum (programming language)		
-B (programming language)	"[BCPL, PL/I, TMG]"	"[C]"
-Babbage (programming language)		"[BCPL]"
-Ballerina (programming language)	"[Java, Javascript, Go, Rust, C#]"	
+Axum 		
+B 	"[BCPL, PL/I, TMG]"	"[C]"
+Babbage 		"[BCPL]"
+Ballerina 	"[Java, Javascript, Go, Rust, C#]"	
 Bash (Unix shell)		
 BASIC	"[
 ALGOL 60, FORTRAN II, JOSS]"	"[COMAL, Visual Basic, Visual Basic .NET, GRASS]"
 Batch file		
-bc (programming language)		
+bc 		
 BCPL	"[CPL]"	"[B, C, Go]"
 BeanShell	"[Java, JavaScript, Perl]"	
-BETA (programming language)	"[Simula]"	
+BETA 	"[Simula]"	
 BLISS	"[ALGOL]"	
 Blockly		
 BlooP and FlooP		
-Boo (programming language)	"[C#, Python]"	"[Genie, Vala]"
-Boomerang (programming language)	"[OCaml]"	"[XSLT]"
-Bosque (programming language)	"[JavaScript, TypeScript, ML]"	
-C (programming language)	"[B (BCPL, CPL), ALGOL 68, assembly, PL/I, FORTRAN]"	"[AMPL, AWK, csh, C++, C--, C#, Objective-C, D, Go, Java, JavaScript, JS++, Julia, Limbo, LPC, Perl, PHP, Pike, Processing, Python, Rust, Seed7, Vala, Verilog (HDL), Nim, Zig]"
+Boo 	"[C#, Python]"	"[Genie, Vala]"
+Boomerang 	"[OCaml]"	"[XSLT]"
+Bosque 	"[JavaScript, TypeScript, ML]"	
+C 	"[B (BCPL, CPL), ALGOL 68, assembly, PL/I, FORTRAN]"	"[AMPL, AWK, csh, C++, C--, C#, Objective-C, D, Go, Java, JavaScript, JS++, Julia, Limbo, LPC, Perl, PHP, Pike, Processing, Python, Rust, Seed7, Vala, Verilog (HDL), Nim, Zig]"
 C--	"[C]"	
 C++	"[Ada, ALGOL 68, BCPL, C, CLU, ML, Mesa, Modula-2, Simula, Smalltalk]"	"[Ada 95, C#, C99, Chapel, Clojure, D, Java, JS++, Lua, Nim, Objective-C++, Perl, PHP, Python, Rust, Seed7]"
 C*	"[ANSI C, *Lisp"	"[Dataparallel-C]"
-C Sharp (programming language)	"[C++, Cω, Eiffel, F#,[a] Haskell,  Scala, Icon, J#, J++, Java, ML, Modula-3, Object Pascal, VB]"	"[Chapel, Clojure, Crystal, D, J#, Dart, F#, Hack, Java, Kotlin, Nemerle, Oxygene, Rust, Swift, Vala, TypeScript]"
+C Sharp 	"[C++, Cω, Eiffel, F#,[a] Haskell,  Scala, Icon, J#, J++, Java, ML, Modula-3, Object Pascal, VB]"	"[Chapel, Clojure, Crystal, D, J#, Dart, F#, Hack, Java, Kotlin, Nemerle, Oxygene, Rust, Swift, Vala, TypeScript]"
 C/AL	"[Pascal]"	
 Caché ObjectScript	"[MUMPS]"	
 C shell		
 Caml	"[ML]"	"[OCaml]"
-Carbon (programming language)	"[C++, Rust]"	
-Catrobat	"[Scratch (programming language)]"	
+Carbon 	"[C++, Rust]"	
+Catrobat	"[Scratch ]"	
 Lennart Augustsson		
 CDuce		
-Cecil (programming language)		"[Diesel]"
+Cecil 		"[Diesel]"
 CESIL		
-Céu (programming language)		
-Ceylon (programming language)	"[Java, Scala, Smalltalk, ML, Lisp, Whiley]"	
+Céu 		
+Ceylon 	"[Java, Scala, Smalltalk, ML, Lisp, Whiley]"	
 CFEngine		
-Cg (programming language)	"[C, RenderMan Shading Language]"	"[GLSL]"
+Cg 	"[C, RenderMan Shading Language]"	"[GLSL]"
 Ch (computer programming)		
-Chapel (programming language)	"[Ada, C#, C, Fortran, C++, Java, HPF, ZPL, Cray MTA / XMT extensions to C and Fortran.]"	
-Charm (programming language)	"[RTL/2, C, Pascal]"	
+Chapel 	"[Ada, C#, C, Fortran, C++, Java, HPF, ZPL, Cray MTA / XMT extensions to C and Fortran.]"	
+Charm 	"[RTL/2, C, Pascal]"	
 CHILL	"[COBOL, PL/1]"	
 CHIP-8		
 ChucK		
 Cilk	"[C]"	"[OpenMP 3.0, Rayon (Rust library)]"
-Claire (programming language)	"[Smalltalk, SETL, OPS5, Lisp, ML, C, LORE, LAURE]"	
-Clarion (programming language)		
-Clean (programming language)	"[Lean, Miranda, Haskell]"	"[Haskell, Idris]"
-Clipper (programming language)		
+Claire 	"[Smalltalk, SETL, OPS5, Lisp, ML, C, LORE, LAURE]"	
+Clarion 		
+Clean 	"[Lean, Miranda, Haskell]"	"[Haskell, Idris]"
+Clipper 		
 CLIPS		
 CLIST		
 Clojure	"[
 C#, C++, Common Lisp, Erlang, Haskell, Java, ML, Prolog, Racket, Ruby, Scheme, Wolfram Language]"	"[Elixir, Hy, LFE, Pixie, Rhine]"
-CLU (programming language)	"[ALGOL 60, Lisp, Simula, Alphard]"	"[Ada, Argus, C++, Lua, Python, Ruby, Sather, Swift]"
+CLU 	"[ALGOL 60, Lisp, Simula, Alphard]"	"[Ada, Argus, C++, Lua, Python, Ruby, Sather, Swift]"
 CMS-2	"[CS-1, Fortran, JOVIAL and PL/I]"	
 COBOL	"[Initial: AIMACO, COMTRAN, FACT, FLOW-MATIC
 COBOL 2002:[a] C++, Eiffel, Smalltalk]"	"[CobolScript, EGL, PL/I, PL/B]"
 CobolScript		
-Cobra (programming language)	"[Python, Eiffel, C#, Objective-C]"	
+Cobra 	"[Python, Eiffel, C#, Objective-C]"	
 CoffeeScript	"[Haskell, JavaScript, Perl,[citation needed] Python, Ruby, YAML]"	"[MoonScript, LiveScript, JavaScript]"
 Adobe ColdFusion		
 COMAL	"[BASIC, Pascal]"	
@@ -118,26 +118,26 @@ Component Pascal	"[Pascal, Oberon, Oberon-2]"
 COMTRAN	"[FLOW-MATIC]"	"[COBOL]"
 Constraint Handling Rules	"[Prolog]"	
 Control Language	"[Job Control Language, PL/I]"	"[Windows PowerShell]"
-Cool (programming language)	"[Java, ML, Pascal, Sather]"	
+Cool 	"[Java, ML, Pascal, Sather]"	
 Coq		
 CORAL	"[ALGOL, JOVIAL, Fortran]"	
 CorVision	"[Inform]"	
 COWSEL	"[CPL, Lisp]"	"[POP-2]"
-CPL (programming language)	"[ALGOL 60]"	"[BCPL, POP-2]"
+CPL 	"[ALGOL 60]"	"[BCPL, POP-2]"
 Cryptol		
-Crystal (programming language)	"[Ruby, C, Rust, Go, C#, Python]"	
+Crystal 	"[Ruby, C, Rust, Go, C#, Python]"	
 Csound		
-Cuneiform (programming language)	"[Swift (parallel scripting language)]"	
-Curl (programming language)	"[HTML, JavaScript, Lisp]"	
-Curry (programming language)	"[Haskell and Prolog]"	
-Cybil (programming language)		
-Cyclone (programming language)	"[C]"	"[Rust, Project Verona]"
+Cuneiform 	"[Swift (parallel scripting language)]"	
+Curl 	"[HTML, JavaScript, Lisp]"	
+Curry 	"[Haskell and Prolog]"	
+Cybil 		
+Cyclone 	"[C]"	"[Rust, Project Verona]"
 Cypher (query language)		
 Cython	"[C, Python]"	
 CEEMAC		
-D (programming language)	"[C, C++, C#, Eiffel, Java, Python]"	"[Genie, MiniD, Qore, Swift, Vala, C++11, C++14, C++17, C++20, Go, C#]"
-Dart (programming language)	"[C, C++, C#, Erlang, Java, JavaScript, Ruby, Smalltalk, Strongtalk, TypeScript]"	
-Darwin (programming language)	"[Maple]"	
+D 	"[C, C++, C#, Eiffel, Java, Python]"	"[Genie, MiniD, Qore, Swift, Vala, C++11, C++14, C++17, C++20, Go, C#]"
+Dart 	"[C, C++, C#, Erlang, Java, JavaScript, Ruby, Smalltalk, Strongtalk, TypeScript]"	
+Darwin 	"[Maple]"	
 DataFlex		
 Datalog	"[Prolog]"	
 DATATRIEVE		
@@ -148,173 +148,161 @@ Delphi (software)
 DIBOL	"[BASIC, Fortran, COBOL]"	
 Dink Smallwood		
 Sepandar Kamvar		
-Draco (programming language)	"[ALGOL 68, Pascal, C]"	
+Draco 	"[ALGOL 68, Pascal, C]"	
 DRAKON	"[PROL2, DIPOL, LAKS]"	"[QReal DSM platform]"
-Dylan (programming language)	"[CLOS, ALGOL, Scheme, EuLisp]"	"[Lasso, Python, Ruby,Julia]"
-DYNAMO (programming language)		
+Dylan 	"[CLOS, ALGOL, Scheme, EuLisp]"	"[Lasso, Python, Ruby,Julia]"
+DYNAMO 		
 Data Analysis Expressions		
-E (programming language)	"[Joule, Original-E, Java]"	"[Pony]"
-Ease (programming language)	"[occam]"	
+E 	"[Joule, Original-E, Java]"	"[Pony]"
+Ease 	"[occam]"	
 PL/I	"[COBOL, Fortran, ALGOL 60]"	"[Control Language, PL/M, PL/S, PL-6, PL/8,  REXX]"
 Easytrieve		
-eC (programming language)	"[C, C++, Python]"	
+eC 	"[C, C++, Python]"	
 ECMAScript	"[Self, HyperTalk, AWK, C, CoffeeScript, Perl, Python, Java, Scheme]"	
 Edinburgh IMP	"[ALGOL 60, Atlas Autocode]"	
-EGL (programming language)		
-Eiffel (programming language)	"[Ada, Simula, Z]"	"[Ada 2012, Albatross, C#, D, Java, Racket, Ruby, Sather, Scala]"
-ELAN (programming language)	"[ALGOL 68]"	
-Elixir (programming language)	"[Clojure, Erlang, Ruby]"	"[LFE]"
-Elm (programming language)	"[Haskell, Standard ML, OCaml, F#]"	"[Redux, Vue]"
+EGL 		
+Eiffel 	"[Ada, Simula, Z]"	"[Ada 2012, Albatross, C#, D, Java, Racket, Ruby, Sather, Scala]"
+ELAN 	"[ALGOL 68]"	
+Elixir 	"[Clojure, Erlang, Ruby]"	"[LFE]"
+Elm 	"[Haskell, Standard ML, OCaml, F#]"	"[Redux, Vue]"
 Emacs Lisp	"[Common Lisp, Maclisp]"	
-Emerald (programming language)	"[Pascal, Simula, Smalltalk]"	"[Java, Singularity]"
-Epigram (programming language)	"[ALF]"	"[Agda, Idris]"
+Emerald 	"[Pascal, Simula, Smalltalk]"	"[Java, Singularity]"
+Epigram 	"[ALF]"	"[Agda, Idris]"
 Easy Programming Language		
-Erlang (programming language)	"[Lisp, PLEX, Prolog, Smalltalk]"	"[Akka, Clojure, Dart, Elixir, F#, Opa, Oz, Reia, Rust, Scala, Go]"
+Erlang 	"[Lisp, PLEX, Prolog, Smalltalk]"	"[Akka, Clojure, Dart, Elixir, F#, Opa, Oz, Reia, Rust, Scala, Go]"
 rc	"[Bourne shell]"	"[es, The Inferno shell]"
-Escher (programming language)	"[simple theory of types]"	
+Escher 	"[simple theory of types]"	
 Executive Systems Problem Oriented Language	"[ALGOL 60]"	"[NEWP]"
 Esterel		
-Etoys (programming language)	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets]"	"[Tweak, Croquet, Scratch]"
-Euclid (programming language)	"[Pascal]"	"[Mesa, Concurrent Euclid, Turing]"
-Euler (programming language)	"[ALGOL 60]"	
-Euphoria (programming language)	"[BASIC]"	"[Phix]"
+Etoys 	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets]"	"[Tweak, Croquet, Scratch]"
+Euclid 	"[Pascal]"	"[Mesa, Concurrent Euclid, Turing]"
+Euler 	"[ALGOL 60]"	
+Euphoria 	"[BASIC]"	"[Phix]"
 EusLisp Robot Programming Language		
 CMS EXEC		
 EXEC 2		
 Executable UML		
-Ezhil (programming language)	"[Logo, BASIC, Python]"	
-F (programming language)	"[Fortran 95]"	
-F Sharp (programming language)	"[C#, Erlang, Haskell, ML, OCaml, Python, Scala]"	"[C#, Elm, F*, LiveScript]"
-F* (programming language)	"[Coq, Dafny, F#, Lean, OCaml, Standard ML]"	
-Factor (programming language)	"[Joy, Forth, Lisp, Self]"	
-Fantom (programming language)	"[C#, Java, Scala, Ruby, Erlang]"	
-FAUST (programming language)		
-FP (programming language)	"[APL]"	"[FL, Haskell]"
+Ezhil 	"[Logo, BASIC, Python]"	
+F 	"[Fortran 95]"	
+F Sharp 	"[C#, Erlang, Haskell, ML, OCaml, Python, Scala]"	"[C#, Elm, F*, LiveScript]"
+F* 	"[Coq, Dafny, F#, Lean, OCaml, Standard ML]"	
+Factor 	"[Joy, Forth, Lisp, Self]"	
+Fantom 	"[C#, Java, Scala, Ruby, Erlang]"	
+FAUST 		
+FP 	"[APL]"	"[FL, Haskell]"
 fish (Unix shell)		
-Fjölnir (programming language)		
-FL (programming language)	"[FP]"	
+Fjölnir 		
+FL 	"[FP]"	
 FlagShip		
-Flavors (programming language)		
-Flex (programming language)		
-Flix (programming language)	"[F#, Go, Haskell, OCaml, Scala]"	
+Flavors 		
+Flex 		
+Flix 	"[F#, Go, Haskell, OCaml, Scala]"	
 BlooP and FlooP		
 FLOW-MATIC	"[ARITH-MATIC, Laning and Zierler system]"	"[MATH-MATIC, AIMACO, COBOL]"
-FOCAL (programming language)	"[JOSS]"	"[BASIC-PLUS]"
+FOCAL 	"[JOSS]"	"[BASIC-PLUS]"
 FOCUS		
-FOIL (programming language)		
+FOIL 		
 FORMAC		
 Formula language		
-Forth (programming language)		"[Factor, Joy, PostScript, RPL, REBOL]"
+Forth 		"[Factor, Joy, PostScript, RPL, REBOL]"
 Fortran	"[Speedcoding]"	"[ALGOL 58, BASIC, C, Chapel, CMS-2, DOPE, Fortress, PL/I, PACT I, MUMPS, IDL, Ratfor]"
-Fortress (programming language)	"[Fortran, Scala, Haskell]"	
-FP (programming language)	"[APL]"	"[FL, Haskell]"
+Fortress 	"[Fortran, Scala, Haskell]"	
+FP 	"[APL]"	"[FL, Haskell]"
 FoxPro		
 Franz Lisp	"[Lisp, Maclisp, Common Lisp]"	"[Allegro Common Lisp]"
-Futhark (programming language)	"[APL, Haskell, NESL, Standard ML]"	
-F-Script (programming language)	"[Smalltalk, APL]"	
+Futhark 	"[APL, Haskell, NESL, Standard ML]"	
+F-Script 	"[Smalltalk, APL]"	
 GameMaker		
 GameMonkey Script		
 General algebraic modeling system		
 GAP (computer algebra system)		
 G-code		
 Godot (game engine)		
-Genie (programming language)	"[Python, Boo, D, Object Pascal]"	
+Genie 	"[Python, Boo, D, Object Pascal]"	
 Geometric Description Language		
-GEORGE (programming language)		
+GEORGE 		
 OpenGL Shading Language		
 GNU E	"[C++]"	
 GNU Guile	"[Lisp, Scheme, SCM]"	
-Go (programming language)	"[C, Oberon-2, Limbo, Active Oberon, communicating sequential processes, Pascal, Oberon, Smalltalk, Newsqueak, Modula-2, Alef, APL, BCPL, Modula, occam]"	"[Odin, Crystal, Zig]"
-Go! (programming language)	"[Prolog]"	
+Go 	"[C, Oberon-2, Limbo, Active Oberon, communicating sequential processes, Pascal, Oberon, Smalltalk, Newsqueak, Modula-2, Alef, APL, BCPL, Modula, occam]"	"[Odin, Crystal, Zig]"
+Go! 	"[Prolog]"	
 Game Oriented Assembly Lisp	"[Lisp, Scheme,Game Oriented Object Lisp (GOOL)]"	
-Gödel (programming language)		
-Golo (programming language)		
-MAD (programming language)	"[IAL, ALGOL 58]"	
+Gödel 		
+Golo 		
+MAD 	"[IAL, ALGOL 58]"	
 Google Apps Script		
-Gosu (programming language)	"[Java, C#]"	"[Kotlin]"
+Gosu 	"[Java, C#]"	"[Kotlin]"
 IBM 1620		
 GPSS		
 Computer Sciences Corporation		
-GRASS (programming language)		
+GRASS 		
 Grasshopper 3D		
 Apache Groovy	"[Java, Python, Ruby, Smalltalk]"	"[Kotlin]"
-Hack (programming language)	"[PHP, OCaml, Java, C#, Scala, Haskell]"	
-Haggis (programming language)		
+Hack 	"[PHP, OCaml, Java, C#, Scala, Haskell]"	
+Haggis 		
 HAL/S		
-Halide (programming language)		
+Halide 		
 Hamilton C shell		
-Harbour (programming language)	"[dBase, Clipper]"	"[xHarbour]"
+Harbour 	"[dBase, Clipper]"	"[xHarbour]"
 CMS Pipelines	"[Pipeline (Unix)]"	
 Haskell	"[Clean, FP, Gofer, Hope and Hope+, Id, ISWIM, KRC, Lisp, Miranda, ML and Standard ML, Orwell, SASL, Scheme, SISAL]"	"[Agda, Bluespec, C++11/Concepts, C#/LINQ, CAL,[citation needed] Cayenne, Clean, Clojure, CoffeeScript, Curry, Elm, Epigram,[citation needed] Escher, F#, Hack, Idris, Isabelle, Java/Generics, LiveScript, Mercury, Ωmega, PureScript, Python, Raku, Rust, Scala, Swift, Visual Basic 9.0]"
 Haxe	"[EcmaScript, OCaml, Java, JavaScript, C++, PHP, C#, Python, Lua, ActionScript, NekoVM]"	
-Hermes (programming language)		
+Hermes 		
 High Level Assembly		
 High-Level Shader Language		
-Hollywood (programming language)		
+Hollywood 		
 TempleOS		
 Hop (software)	"[Scheme]"	
-Hopscotch (programming language)		
-Hope (programming language)		
-Hume (programming language)		
+Hopscotch 		
+Hope 		
+Hume 		
 HyperTalk	"[Natural language programming, Pascal]"	"[ActionScript, AppleScript, ECMAScript, JavaScript, Lingo, LiveCode, SenseTalk, SuperTalk]"
 Hy	"[Kawa, Clojure, Common Lisp]"	
-Io (programming language)	"[Smalltalk, NewtonScript, Self, Lua, Lisp, Python, Act1]"	"[Ioke, Potion]"
-Icon (programming language)	"[SNOBOL, SL5, ALGOL]"	"[Unicon, Python, Goaldi]"
+Io 	"[Smalltalk, NewtonScript, Self, Lua, Lisp, Python, Act1]"	"[Ioke, Potion]"
+Icon 	"[SNOBOL, SL5, ALGOL]"	"[Unicon, Python, Goaldi]"
 IBM Basic Assembly Language and successors		
 IBM HAScript		
 IBM Informix-4GL		
 IBM RPG	"[9PAC, FARGO]"	
-IDL (programming language)		
-Idris (programming language)	"[Agda, Clean, Coq, Epigram, F#, Haskell, ML, Rust]"	
+IDL 		
+Idris 	"[Agda, Clean, Coq, Epigram, F#, Haskell, ML, Rust]"	
 Inform		
 ISLISP	"[Common Lisp, EuLisp, Le Lisp, Scheme]"	
-J (programming language)	"[APL]"	"[NumPy, SuperCollider]"
+J 	"[APL]"	"[NumPy, SuperCollider]"
 Visual J Sharp	"[Java and Visual J++]"	
 Visual J++		
-JADE (programming language)		
+JADE 		
 Jonathan Blow		
 JAL (compiler)		
 Janus (concurrent constraint programming language)		
 Janus (time-reversible computing programming language)		
 Warcraft III: Reign of Chaos		
-Java (programming language)	"[CLU, Simula67, Lisp, Smalltalk, Ada 83, C++, C#, Eiffel, Mesa, Modula-3, Oberon, Objective-C, UCSD Pascal, Object Pascal]"	"[Ada 2005, BeanShell, C#, Chapel, Clojure, ECMAScript, Fantom, Gambas, Groovy, Hack, Haxe, J#, Kotlin, PHP, Python, Scala, Seed7, Vala, JavaScript, JS++]"
+Java 	"[CLU, Simula67, Lisp, Smalltalk, Ada 83, C++, C#, Eiffel, Mesa, Modula-3, Oberon, Objective-C, UCSD Pascal, Object Pascal]"	"[Ada 2005, BeanShell, C#, Chapel, Clojure, ECMAScript, Fantom, Gambas, Groovy, Hack, Haxe, J#, Kotlin, PHP, Python, Scala, Seed7, Vala, JavaScript, JS++]"
 JavaFX Script		
 JavaScript	"[Java, Scheme, Self, AWK, HyperTalk]"	"[ActionScript, AssemblyScript, CoffeeScript, Dart, Haxe, JS++, Objective-J, Opa, TypeScript]"
-Jess (programming language)		
+Jess 		
 Job Control Language		
 JEAN		
 Join Java	"[Java]"	
 JOSS		"[TELCOMP, CAL, FOCAL, MUMPS]"
-Joule (programming language)	"[Concurrent Logic Programming, Actors]"	"[E]"
+Joule 	"[Concurrent Logic Programming, Actors]"	"[E]"
 JOVIAL	"[ALGOL, SAGE]"	"[CMS-2, Coral 66, SYMPL]"
-Joy (programming language)	"[Scheme, FP, Forth]"	"[Factor, Cat, V, Trith]"
+Joy 	"[Scheme, FP, Forth]"	"[Factor, Cat, V, Trith]"
 JScript		
 JScript .NET	"[JScript, ECMAScript]"	
-Julia (programming language)	"[
-C
-Dylan
-Lisp
-Lua
-Mathematica (strictly its Wolfram Language)
-MATLAB
-Perl
-Python
-R
-Ruby
-Scheme
-]"	
+Julia 	"[C, Dylan, Lisp, Lua, Wolfram Language, MATLAB, Perl, Python, R, Ruby, Scheme]"	
 Jython		
-K (programming language)	"[A+, APL, Scheme]"	"[Q, Shakti]"
-Kaleidoscope (programming language)		
-Karel (programming language)	"[Pascal]"	"[Karel++, AgentSheets, Guido van Robot]"
+K 	"[A+, APL, Scheme]"	"[Q, Shakti]"
+Kaleidoscope 		
+Karel 	"[Pascal]"	"[Karel++, AgentSheets, Guido van Robot]"
 IntelliCorp (software)		
 KiXtart		
 Klerer–May System		
 Knowledge Interchange Format		
 Kojo (learning environment)	"[Logo, Processing]"	
-Kotlin (programming language)	"[C#EiffelGosuGroovyJavaJavaScriptMLPythonScala]"	
+Kotlin 	"[C#EiffelGosuGroovyJavaJavaScriptMLPythonScala]"	
 Kent Recursive Calculator	"[SASL]"	"[Miranda]"
-KRL (programming language)		"[KM, FRL (MIT)]"
+KRL 		"[KM, FRL (MIT)]"
 KUKA Robot Language	"[Pascal]"	
 KL-ONE		
 KornShell		
@@ -323,77 +311,77 @@ Kivy (framework)
 LabVIEW		
 Ladder logic		
 LANSA (development environment)		
-Lasso (programming language)	"[Dylan, Smalltalk, Scala]"	
-Lava (programming language)		
+Lasso 	"[Dylan, Smalltalk, Scala]"	
+Lava 		
 Little Computer 3		
 Lean (proof assistant)	"[MLCoqHaskell]"	
 Lego Mindstorms		
 Little Implementation Language		
 LilyPond		
-Limbo (programming language)	"[C, Pascal, CSP, Alef, Newsqueak]"	"[Stackless Python, Go, Rust]"
+Limbo 	"[C, Pascal, CSP, Alef, Newsqueak]"	"[Stackless Python, Go, Rust]"
 Limnor		
 LINC 4GL		
-Lingo (programming language)		
+Lingo 		
 Language Integrated Query	"[SQL, Haskell]"	
-LIS (programming language)		
+LIS 		
 LISA (Language for Instruction Set Architecture)		
 Language H	"[COBOL]"	
-Lisp (programming language)	"[IPL]"	"[
+Lisp 	"[IPL]"	"[
 CLIPS, CLU, COWSEL, Dylan, Elixir, Forth, Haskell, Io, Ioke, JavaScript, Julia, Logo, Lua, ML, Nim, Nu, OPS5, Perl, POP-2/11, Python, R, Rebol, Ruby, Scala, Swift, Smalltalk, Tcl, Wolfram Language]"
 Lite-C		
 Lithe		
-Little b (programming language)	"[Lisp]"	
+Little b 	"[Lisp]"	
 Ethereum		
-Logo (programming language)	"[Lisp]"	"[AgentSheets, NetLogo, Smalltalk, Etoys, Scratch, Microsoft Small Basic, KTurtle, REBOL, Boxer]"
+Logo 	"[Lisp]"	"[AgentSheets, NetLogo, Smalltalk, Etoys, Scratch, Microsoft Small Basic, KTurtle, REBOL, Boxer]"
 Logtalk	"[Prolog, Smalltalk, Objective-C]"	
 LotusScript		
 LPMud		
-LSE (programming language)		
+LSE 		
 Second Life		
 LiveCode		
-LiveScript (programming language)	"[JavaScript, Haskell, CoffeeScript, F#]"	
-Lua (programming language)	"[C++, CLU, Modula, Scheme, SNOBOL]"	"[GameMonkey, Io, JavaScript, Julia, MiniD, Red, Ring, Ruby, Squirrel, MoonScript, C--]"
-Lucid (programming language)	"[ISWIM]"	"[SISAL, PureData, Lustre]"
-Lustre (programming language)		
+LiveScript 	"[JavaScript, Haskell, CoffeeScript, F#]"	
+Lua 	"[C++, CLU, Modula, Scheme, SNOBOL]"	"[GameMonkey, Io, JavaScript, Julia, MiniD, Red, Ring, Ruby, Squirrel, MoonScript, C--]"
+Lucid 	"[ISWIM]"	"[SISAL, PureData, Lustre]"
+Lustre 		
 LYaPAS		
-Lynx (programming language)		
+Lynx 		
 Power Query		
 M2001		
 m4 (computer language)		
 M Sharp		
 Machine code		
-MAD (programming language)	"[IAL, ALGOL 58]"	
-MAD (programming language)	"[IAL, ALGOL 58]"	
-Magik (programming language)		
+MAD 	"[IAL, ALGOL 58]"	
+MAD 	"[IAL, ALGOL 58]"	
+Magik 		
 Magma (computer algebra system)		
 Máni		
 Maple (software)		
 MAPPER		
 MARK IV (software)		
-Mary (programming language)	"[ALGOL 68]"	
+Mary 	"[ALGOL 68]"	
 MATLAB	"[
 APL, EISPACK, LINPACK, PL/0, Speakeasy]"	"[Julia, Octave, Scilab, INTLAB]"
 Microsoft Macro Assembler		
-MATH-MATIC	"[FLOW-MATIC]"	"[UNICODE (programming language)]"
+MATH-MATIC	"[FLOW-MATIC]"	"[UNICODE ]"
 Maude system		
 Maxima (software)		
 Macsyma		
 Max (software)		
 Autodesk 3ds Max		
 Maya Embedded Language		
-MDL (programming language)	"[Lisp]"	"[ZIL, Planner, Scheme, Common Lisp, Java, Prolog, Smalltalk; actor model, interactive fiction]"
-Mercury (programming language)	"[Prolog, Hope, Haskell]"	
-Mesa (programming language)	"[ALGOL]"	"[Java, Modula-2, Cedar, PostScript]"
+MDL 	"[Lisp]"	"[ZIL, Planner, Scheme, Common Lisp, Java, Prolog, Smalltalk; actor model, interactive fiction]"
+Mercury 	"[Prolog, Hope, Haskell]"	
+Mesa 	"[ALGOL]"	"[Java, Modula-2, Cedar, PostScript]"
 MHEG-5		
 Microassembler		
 Microsoft Power Fx	"[Excel functions, Excel macros, Pascal, Mathematica, Miranda]"	
-MIIS (programming language)		
-Milk (programming language)		
+MIIS 		
+Milk 		
 MIMIC		
-Mirah (programming language)	"[Ruby, Java, Boo]"	
-Miranda (programming language)	"[KRC, ML, SASL, Hope]"	"[Clean, Haskell, Orwell, Microsoft Power Fx]"
+Mirah 	"[Ruby, Java, Boo]"	
+Miranda 	"[KRC, ML, SASL, Hope]"	"[Clean, Haskell, Orwell, Microsoft Power Fx]"
 MIVA Script	"[C, Perl, Java, C++]"	
-ML (programming language)	"[ISWIM]"	"[Clojure, Coq, Cyclone, C++, Elm, F#, F*, Haskell, Idris, Kotlin, Miranda, Nemerle, OCaml, Opa, Erlang, Rust, Scala, Standard ML]"
+ML 	"[ISWIM]"	"[Clojure, Coq, Cyclone, C++, Elm, F#, F*, Haskell, Idris, Kotlin, Miranda, Nemerle, OCaml, Opa, Erlang, Rust, Scala, Standard ML]"
 Model 204		
 Modelica		
 Malbolge	"[Brainfuck,  INTERCAL (Tri-INTERCAL), Befunge]"	"[Dis, Malbolge Unshackled]"
@@ -403,8 +391,8 @@ Modula-3	"[ALGOL, Euclid, Mesa, Modula-2, Modula-2+, Oberon, Pascal]"	"[C#, Java
 System programming language		
 MOO		
 Mortran		
-Mouse (programming language)		
-MPD (programming language)		
+Mouse 		
+MPD 		
 mIRC scripting language		
 MUMPS	"[JOSS]"	"[PSL, Caché ObjectScript, GT.M]"
 MuPAD		
@@ -420,37 +408,37 @@ NetLogo	"[Logo, StarLogo]"
 NetRexx	"[PL/I, REXX, ooREXX, Java]"	
 newLISP	"[C, Common Lisp, Perl, Scheme]"	
 NEWP	"[ALGOL, Executive Systems Problem Oriented Language]"	
-Newspeak (programming language)	"[Smalltalk, Self, BETA, E, Nineteen Eighty-Four]"	
+Newspeak 	"[Smalltalk, Self, BETA, E, Nineteen Eighty-Four]"	
 NewtonScript	"[Self, Dylan]"	"[Io]"
 Nial	"[APL, Lisp]"	
 Keith Packard		
 Keith Packard		
-Nim (programming language)	"[Ada, Modula-3, Lisp, C++, Object Pascal, Python, Oberon, Rust]"	
+Nim 	"[Ada, Modula-3, Lisp, C++, Object Pascal, Python, Oberon, Rust]"	
 Nix (package manager)		
 Nord Programming Language		
 Not eXactly C		
 Not Quite C		
 Nullsoft Scriptable Install System		
-Nu (programming language)	"[Lisp, Objective-C, Ruby]"	
+Nu 	"[Lisp, Objective-C, Ruby]"	
 NWScript	"[C, Java]"	
 Lego Mindstorms NXT		
 o:XML		
-Oak (programming language)		
-Oberon (programming language)	"[Modula-2]"	"[Oberon-2, Oberon-07, Active Oberon, Component Pascal, Zonnon, Go, Nim]"
-OBJ (programming language)		
+Oak 		
+Oberon 	"[Modula-2]"	"[Oberon-2, Oberon-07, Active Oberon, Component Pascal, Zonnon, Go, Nim]"
+OBJ 		
 Object Lisp		
-Logo (programming language)	"[Lisp]"	"[AgentSheets, NetLogo, Smalltalk, Etoys, Scratch, Microsoft Small Basic, KTurtle, REBOL, Boxer]"
+Logo 	"[Lisp]"	"[AgentSheets, NetLogo, Smalltalk, Etoys, Scratch, Microsoft Small Basic, KTurtle, REBOL, Boxer]"
 Object REXX	"[Rexx, Smalltalk]"	"[NetRexx]"
 Object Pascal	"[Pascal, Simula, Smalltalk]"	"[C#, Genie, Java, Nim, C/AL]"
 Objective-C	"[C, Smalltalk]"	"[Groovy, Java, Nu, Objective-J, TOM, Swift]"
 Obliq	"[Modula-3, Self, Oberon]"	
 OCaml	"[C, Caml, Modula-3, Pascal, Standard ML]"	"[ATS, Coq, Elm, F#, F*, Haxe, Opa, Rust, Scala]"
-occam (programming language)	"[Communicating sequential processes]"	"[Ease, Go, Python]"
+occam 	"[Communicating sequential processes]"	"[Ease, Go, Python]"
 occam-π	"[occam]"	
 GNU Octave		
 OmniMark		
-Opa (programming language)	"[OCaml, Erlang, JavaScript]"	
-Opal (programming language)		
+Opa 	"[OCaml, Erlang, JavaScript]"	
+Opal 		
 Open Programming Language		
 OpenCL		
 OpenEdge Advanced Business Language		
@@ -458,34 +446,34 @@ OpenVera
 OpenQASM		
 OPS5		
 OptimJ	"[Java]"	
-Orc (programming language)	"[Haskell, ML, Oz, Smalltalk, Pict]"	
+Orc 	"[Haskell, ML, Oz, Smalltalk, Pict]"	
 ORCA/Modula-2		
 Oriel (scripting language)		
-Orwell (programming language)	"[Miranda]"	"[Haskell]"
-Oxygene (programming language)	"[Delphi's Object Pascal, C#]"	
-Oz (programming language)	"[Erlang, Lisp, Prolog]"	"[Alice, Scala]"
-P (programming language)		
-P4 (programming language)		
+Orwell 	"[Miranda]"	"[Haskell]"
+Oxygene 	"[Delphi's Object Pascal, C#]"	
+Oz 	"[Erlang, Lisp, Prolog]"	"[Alice, Scala]"
+P 		
+P4 		
 P′′		"[Brainfuck]"
-ParaSail (programming language)	"[Modula, Ada, Pascal, ML]"	"[Nim]"
+ParaSail 	"[Modula, Ada, Pascal, ML]"	"[Nim]"
 PARI/GP		
-Pascal (programming language)	"[ALGOL W, Simula 67]"	"[Ada, C/AL, Component Pascal, Go, Java, Modula, Modula-2, Modula-3, Oberon, Oberon-2, Object Pascal, Oxygene, Power Fx, Seed7, Standard ML, VHDL, Structured text]"
+Pascal 	"[ALGOL W, Simula 67]"	"[Ada, C/AL, Component Pascal, Go, Java, Modula, Modula-2, Modula-3, Oberon, Oberon-2, Object Pascal, Oxygene, Power Fx, Seed7, Standard ML, VHDL, Structured text]"
 Pascal Script	"[Pascal, Object Pascal]"	
 PCASTL	"[C, R]"	
 Programming Computable Functions		
-PEARL (programming language)		
+PEARL 		
 PeopleCode		
 Perl	"[AWK, BASIC, C, C++, Lisp, sed, Unix shell]"	"[CoffeeScript,[citation needed] Groovy,[citation needed] JavaScript, Julia, LPC, PHP, Python, Raku, Ruby, PowerShell]"
 Perl Data Language	"[APL, IDL, Perl]"	
 Pharo	"[Smalltalk (Squeak)]"	
 PHP	"[Perl, HTML, C, C++, Java,[citation needed] Tcl, JavaScript, Hack]"	"[Hack, JSP, ASP]"
-Pico (programming language)	"[Scheme]"	
+Pico 	"[Scheme]"	
 PicoLisp		
-Pict (programming language)	"[ML]"	"[Orc, Nomadic Pict]"
+Pict 	"[ML]"	"[Orc, Nomadic Pict]"
 MUD		
 PILOT		
 CMS Pipelines	"[Pipeline (Unix)]"	
-Pizza (programming language)	"[Java]"	"[Generic Java, Scala]"
+Pizza 	"[Java]"	"[Generic Java, Scala]"
 PL-11		
 PL/0		
 Programming Language for Business	"[COBOL]"	
@@ -498,16 +486,16 @@ PL/SQL
 PL360	"[ALGOL, Executive Systems Problem Oriented Language (ESPOL)]"	"[ALGOL W]"
 PLANC	"[Nord Programming Language]"	
 Plankalkül	"[Begriffsschrift]"	"[Superplan by Heinz Rutishauser,  ALGOL 58]"
-Planner (programming language)		"[Prolog]"
-PLEX (programming language)		"[Erlang]"
+Planner 		"[Prolog]"
+PLEX 		"[Erlang]"
 PLEXIL		
-Plus (programming language)	"[SUE, Pascal]"	
+Plus 	"[SUE, Pascal]"	
 POP-11		
 POP-2		
 PostScript	"[Mesa, Interpress,  Lisp]"	"[PDF]"
 Amiga E		
 POV-Ray		
-PowerHouse (programming language)		
+PowerHouse 		
 PowerBuilder		
 PowerShell	"[Python, Ksh, Perl, C#, CL, DCL, SQL, Tcl, Tk, Chef, Puppet]"	
 Polymorphic Programming Language		
@@ -522,91 +510,91 @@ PROSE modeling language
 Protel		
 ProvideX	"[Business Basic]"	
 Pro*C		
-Pure (programming language)	"[Q, Haskell, Lisp, Alice, MATLAB]"	
+Pure 	"[Q, Haskell, Lisp, Alice, MATLAB]"	
 Pure Data		
 PureScript	"[Haskell, JavaScript]"	
 PWCT		
-Python (programming language)	"[ABC, Ada, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, Modula-3, Perl, Standard ML, Influenced, Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift]"	"[Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift]"
+Python 	"[ABC, Ada, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, Modula-3, Perl, Standard ML, Influenced, Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift]"	"[Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift]"
 Q (programming language from Kx Systems)	"[A+, APL, Scheme, k]"	
 Q Sharp	"[C#, F#, Python]"	
-Qalb (programming language)	"[Scheme]"	
+Qalb 	"[Scheme]"	
 Quantum Computation Language		
 QtScript		
 QuakeC	"[C]"	
 Quantum programming		
 .QL	"[Datalog]"	
-R (programming language)	"[Lisp, S, Scheme]"	"[Julia]"
+R 	"[Lisp, S, Scheme]"	"[Julia]"
 R++		
-Racket (programming language)	"[Eiffel, Scheme]"	"[Clojure, Rust,[better source needed]  Scheme]"
-Raku (programming language)	"[Perl, Ruby, Smalltalk, Haskell, JavaScript"	"[Perl, Haskell, AntLang]"
+Racket 	"[Eiffel, Scheme]"	"[Clojure, Rust,[better source needed]  Scheme]"
+Raku 	"[Perl, Ruby, Smalltalk, Haskell, JavaScript"	"[Perl, Haskell, AntLang]"
 RAPID	"[ARLA, C]"	
 Rapira	"[ALGOL, POP-2, SETL]"	
 Ratfor	"[Fortran, C]"	
 Ratfor	"[Fortran, C]"	
 rc	"[Bourne shell]"	"[es, The Inferno shell.]"
-Reason (programming language)		
+Reason 		
 Rebol	"[Self, Forth, Lisp, Logo]"	"[JSON, Red]"
-Red (programming language)	"[Rebol, Scala, Lua]"	
+Red 	"[Rebol, Scala, Lua]"	
 Core War		
 Refal		
 Rexx	"[PL/I, ALGOL, EXEC, EXEC 2]"	"[NetRexx, Object REXX]"
-Ring (programming language)	"[Lua, Python, Ruby, C, C#, BASIC, QML, xBase, Supernova]"	"[SimpleLang, DragonLang ]"
-ROOP (programming language)		
+Ring 	"[Lua, Python, Ruby, C, C#, BASIC, QML, xBase, Supernova]"	"[SimpleLang, DragonLang ]"
+ROOP 		
 IBM RPG	"[9PAC, FARGO]"	
-RPL (programming language)	"[RPN, Forth, Lisp]"	
+RPL 	"[RPN, Forth, Lisp]"	
 Robot Battle		
 RTL/2	"[ALGOL 68]"	
-Ruby (programming language)	"[Ada, Basic, C++, CLU, Dylan, Eiffel, Lisp, Lua, Perl, Python, Smalltalk]"	"[Clojure, CoffeeScript, Crystal, D, Elixir, Groovy, Ioke, Julia, Mirah, Nu, Ring, Rust, Swift]"
-Rust (programming language)	"[AlefC#C++CycloneErlangHaskellLimboNewsqueakOCamlRubySchemeStandard MLSwift]"	"[IdrisSparkSwiftProject VeronaZig]"
-S (programming language)	"[C, APL, PPL, Fortran]"	
+Ruby 	"[Ada, Basic, C++, CLU, Dylan, Eiffel, Lisp, Lua, Perl, Python, Smalltalk]"	"[Clojure, CoffeeScript, Crystal, D, Elixir, Groovy, Ioke, Julia, Mirah, Nu, Ring, Rust, Swift]"
+Rust 	"[AlefC#C++CycloneErlangHaskellLimboNewsqueakOCamlRubySchemeStandard MLSwift]"	"[IdrisSparkSwiftProject VeronaZig]"
+S 	"[C, APL, PPL, Fortran]"	
 LiveJournal		
-S3 (programming language)	"[ALGOL 68]"	
+S3 	"[ALGOL 68]"	
 S-Lang		
 S-PLUS		
-SA-C (programming language)		
+SA-C 		
 SabreTalk		
-SAIL (programming language)		
-SAKO (programming language)		
+SAIL 		
+SAKO 		
 SAS (software)		
-SASL (programming language)	"[ISWIM]"	"[KRC, Miranda, Haskell]"
+SASL 	"[ISWIM]"	"[KRC, Miranda, Haskell]"
 Sather	"[Eiffel, CLU, Common Lisp, Scheme]"	"[Cool]"
-Sawzall (programming language)		
-Scala (programming language)	"[Common Lisp, Eiffel, Erlang, F#, Haskell, Java, OCaml, Oz, Pizza, Scheme, Smalltalk, Standard ML]"	"[Ceylon, Chisel, Fantom, F#, C#, Kotlin, Lasso, Red, Flix]"
-Scheme (programming language)	"[ALGOL, Lisp, MDL]"	"[Clojure, Common Lisp, Dylan, EuLisp, Haskell, Hop, JavaScript, Julia, Lua, MultiLisp, Python, R, Racket, Ruby, Rust, S, Scala, T]"
+Sawzall 		
+Scala 	"[Common Lisp, Eiffel, Erlang, F#, Haskell, Java, OCaml, Oz, Pizza, Scheme, Smalltalk, Standard ML]"	"[Ceylon, Chisel, Fantom, F#, C#, Kotlin, Lasso, Red, Flix]"
+Scheme 	"[ALGOL, Lisp, MDL]"	"[Clojure, Common Lisp, Dylan, EuLisp, Haskell, Hop, JavaScript, Julia, Lua, MultiLisp, Python, R, Racket, Ruby, Rust, S, Scala, T]"
 Scilab		
-Scratch (programming language)	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets, AgentCubes, Etoys]"	"[Catrobat,
+Scratch 	"[Logo, Smalltalk, HyperCard, StarLogo, AgentSheets, AgentCubes, Etoys]"	"[Catrobat,
 ScratchJr, Snap!, mBlock, Turtlestitch]"
 Script.NET	"[JavaScript]"	
 sed	"[ed]"	"[Perl, AWK]"
 Seed7	"[Pascal, Modula-2, Ada, ALGOL 68, C, C++, Java]"	
-Self (programming language)	"[Smalltalk, APL]"	"[NewtonScript, JavaScript, Io, Agora, Squeak, Lua, Factor, REBOL]"
+Self 	"[Smalltalk, APL]"	"[NewtonScript, JavaScript, Io, Agora, Squeak, Lua, Factor, REBOL]"
 SenseTalk	"[xTalk, HyperTalk]"	
 SequenceL		
 Ethereum		
 SETL	"[ALGOL 60]"	"[SETL2, ISETL, SETLX, ABC]"
 Short Code (computer language)	"[ENIAC Short Code]"	"[Intermediate programming language, OMNIBAC Symbolic Assembler]"
 Superbase (database)		
-SIGNAL (programming language)		
+SIGNAL 		
 SiMPLE		
 SIMSCRIPT		
 Simula	"[ALGOL 60, Simscript]"	"[All subsequent object-oriented programming languages]"
 Simulink		
 SISAL	"[VAL, Pascal, C, Fortran]"	"[Haskell,[citation needed] SAC]"
 Cadence SKILL	"[Scheme, Common Lisp, CLOS]"	
-SLIP (programming language)		
+SLIP 		
 SMALL	"[ALGOL]"	
 Smalltalk	"[Lisp, Simula, Euler, IMP, Planner, Logo, Sketchpad, ARPAnet, Burroughs B5000, Influenced, AppleScript, Common Lisp Object System, Dart, Dylan, Erlang, Etoys, Go, Groovy, Io, Ioke, Java, Lasso, Logtalk, Newspeak, NewtonScript, Object REXX, Objective-C, PHP 5, Python, Raku, Ruby, Scala, Scratch, Self, Swift]"	"[AppleScript, Common Lisp Object System, Dart, Dylan, Erlang, Etoys, Go, Groovy, Io, Ioke, Java, Lasso, Logtalk, Newspeak, NewtonScript, Object REXX, Objective-C, PHP 5, Python, Raku, Ruby, Scala, Scratch, Self, Swift]"
 Standard ML	"[ML, Hope, Pascal, Influenced, Elm, F#, F*, Haskell, OCaml, Python, Rust, Scala]"	"[Elm, F#, F*, Haskell, OCaml, Python, Rust, Scala]"
 Strongtalk	"[Smalltalk, Self, Influenced, Java HotSpot]"	"[Java HotSpot]"
-Snap! (programming language)	"[Scratch, Scheme, Logo, Smalltalk, Influenced, BeetleBlocks, NetsBlox, Dragme IDE, Turtlestitch]"	"[BeetleBlocks, NetsBlox, Dragme IDE, Turtlestitch]"
+Snap! 	"[Scratch, Scheme, Logo, Smalltalk, Influenced, BeetleBlocks, NetsBlox, Dragme IDE, Turtlestitch]"	"[BeetleBlocks, NetsBlox, Dragme IDE, Turtlestitch]"
 SNOBOL	"[COMIT, Influenced, AWK, SL5, Icon, bs, Lua]"	"[AWK, SL5, Icon, bs, Lua]"
 SPITBOL		
-Snowball (programming language)		
+Snowball 		
 Secure Operations Language		
 Solidity	"[JavaScript, C++, Python]"	
 SOPHAEROS		
-Source (programming language)	"[JavaScript, Scheme]"	
-SPARK (programming language)	"[Ada, Eiffel]"	
+Source 	"[JavaScript, Scheme]"	
+SPARK 	"[Ada, Eiffel]"	
 Speakeasy (computational environment)		
 Speedcoding	"[Assembly language, machine code, Influenced, Fortran, ALGOL 58, BASIC, C, PL/I, PACT I, MUMPS, Ratfor]"	"[Fortran, ALGOL 58, BASIC, C, PL/I, PACT I, MUMPS, Ratfor]"
 Parallax Propeller		
@@ -615,28 +603,28 @@ IBM 1401 Symbolic Programming System
 SQL	"[Datalog, Influenced, CQL, LINQ, SPARQL, SOQL, PowerShell, JPQL, jOOQ, N1QL]"	"[CQL, LINQ, SPARQL, SOQL, PowerShell, JPQL, jOOQ, N1QL]"
 SQR		
 Squeak	"[Smalltalk, Lisp, Logo; Sketchpad, Simula; Self, Influenced, Etoys, Tweak, Croquet, Scratch]"	"[Etoys, Tweak, Croquet, Scratch]"
-Squirrel (programming language)	"[C++, JavaScript, Lua, Python, Influenced, MiniD]"	"[MiniD]"
-SR (programming language)		
+Squirrel 	"[C++, JavaScript, Lua, Python, Influenced, MiniD]"	"[MiniD]"
+SR 		
 S/SL programming language		
 StarLogo	"[Logo, Influenced, NetLogo, Etoys]"	"[NetLogo, Etoys]"
-Strand (programming language)		
+Strand 		
 Stata		
 Stateflow		
-Subtext (programming language)		
+Subtext 		
 Superbase (database)		
 SuperCollider		
 Superplan	"[Plankalkül]"	"[ALGOL 58]"
 SuperTalk		
-Swift (programming language)	"[Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, D]"	"[Rust]"
+Swift 	"[Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, D]"	"[Rust]"
 Swift (parallel scripting language)	"[C syntax, functional programming]"	"[Cuneiform]"
 SYMPL		
-T (programming language)	"[Scheme]"	"[EuLisp, Joule]"
+T 	"[Scheme]"	"[EuLisp, Joule]"
 TACL		
-TACPOL (programming language)		
+TACPOL 		
 TADS		
 Transaction Application Language		
 Tcl	"[AWK, Lisp]"	"[PHP, PowerShell, Tea]"
-Tea (programming language)	"[Tcl, Java, Scheme]"	
+Tea 	"[Tcl, Java, Scheme]"	
 TECO (text editor)		
 TELCOMP	"[JOSS]"	"[MUMPS]"
 TeX		
@@ -644,27 +632,27 @@ Text Executive Programming Language
 Tensilica Instruction Extension		
 TMG (language)		"[TROL (by Donald Knuth)]"
 Tom (pattern matching language)		
-Toi (programming language)		
-Clarion (programming language)		
+Toi 		
+Clarion 		
 DEC Text Processing Utility		
-TRAC (programming language)	"[Macro SAP]"	"[SAM76, ML/I]"
-TTM (programming language)	"[GAP, GPM, TRAC]"	
+TRAC 	"[Macro SAP]"	"[SAM76, ML/I]"
+TTM 	"[GAP, GPM, TRAC]"	
 Transact-SQL		
 LiveCode		
 TTCN		
-Turing (programming language)	"[Euclid, Pascal, SP/k]"	
+Turing 	"[Euclid, Pascal, SP/k]"	
 TUTOR		"[TenCORE, USE (Regency Systems)]"
-TXL (programming language)		
+TXL 		
 TypeScript	"[C#, Java, JavaScript, ActionScript]"	"[AtScript, AssemblyScript]"
 Tynker		
 Ubercode		
 UCSD Pascal		
 Umple	"[Java, C++, UML, Ruby, PHP]"	
-Unicon (programming language)	"[Icon]"	
-Uniface (programming language)		
-UNITY (programming language)		
+Unicon 	"[Icon]"	
+Uniface 		
+UNITY 		
 Unreal Engine		
-Vala (programming language)	"[C, C++, C#, D, Java, Boo]"	
+Vala 	"[C, C++, C#, D, Java, Boo]"	
 Vim (text editor)		
 Ethereum		
 DataFlex		
@@ -677,12 +665,12 @@ Visual Prolog
 WATFIV		
 WebAssembly	"[asm.jsPNaCl]"	
 WebDNA		
-Whiley (programming language)	"[Java, C, Python, Rust]"	
+Whiley 	"[Java, C, Python, Rust]"	
 Winbatch
 Wolfram Language	"[APL, C, C++, FORTRAN, Lisp, Pascal, Prolog, Schoonschip, Simula, Smalltalk, SMP]"	"Jupyter, Clojure, Julia"
-Wyvern (programming language)		
+Wyvern 		
 Microsoft Dynamics AX		
-X10 (programming language)	"[C++, Java]"	
+X10 	"[C++, Java]"	
 XBase++		
 XBL		
 XMOS		
@@ -691,7 +679,7 @@ xHarbour
 Christophe de Dinechin		
 Xojo		
 XOTcl	"[Tcl, OTcl]"	
-XOD (programming language)		
+XOD 		
 XPL		
 XPL0		
 XQuery	"[XPath, SQL, XSLT]"	
@@ -699,16 +687,16 @@ XSB	"[Prolog, PSB-Prolog, SB-Prolog]"
 XSharp		
 XSLT	"[DSSSL]"	
 Xtend	"[Java, Scala, Groovy, Smalltalk, Xpand]"	
-Yorick (programming language)		
+Yorick 		
 Yahoo! Query Language		
 Yoix	"[C, Java, PostScript]"	
 Z notation		
 Z shell		
 Zebra Programming Language	"[ANSI BASIC]"	
-Zeno (programming language)		
+Zeno 		
 Lisp Machine Lisp	"[Lisp, Maclisp, Interlisp]"	"[Common Lisp]"
-Zig (programming language)	"[C, C++, LLVM IR, Go, Rust, JavaScript[citation needed]]"	
+Zig 	"[C, C++, LLVM IR, Go, Rust, JavaScript[citation needed]]"	
 Zonnon	"[Oberon, Pascal]"	
 ZOPL		
-ZPL (programming language)	"[C]"	"[Chapel]"
+ZPL 	"[C]"	"[Chapel]"
 Z++		
