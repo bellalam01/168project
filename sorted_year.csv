@@ -1,0 +1,697 @@
+Year,Language
+1947,Assembly language
+1948,Plankalkül
+1950,Short Code (computer language)
+1950,G-code
+1951,Superplan
+1953,Speedcoding
+1955,FLOW-MATIC
+1956,APT (programming language)
+1957,COMTRAN
+1957,Fortran
+1957,MATH-MATIC
+1957,COMIT
+1958,ALGOL 58
+1958,Lisp (programming language)
+1959,MAD (programming language)
+1959,IBM RPG
+1959,MAD (programming language)
+1959,COBOL
+1959,MAD (programming language)
+1959,IBM RPG
+1960,ALGOL 60
+1960,JOVIAL
+1962,Simula
+1962,SNOBOL
+1962,Language H
+1963,TMG (language)
+1963,CPL (programming language)
+1963,JOSS
+1964,TRAC (programming language)
+1964,COWSEL
+1964,CORAL
+1964,LYaPAS
+1964,BASIC
+1964,PL/I
+1964,P′′
+1964,PL/I
+1965,TELCOMP
+1965,Euler (programming language)
+1966,ALGOL W
+1966,Edinburgh IMP
+1966,Executive Systems Problem Oriented Language
+1966,MUMPS
+1966,PL360
+1967,Logo (programming language)
+1967,Logo (programming language)
+1967,BCPL
+1968,ALGOL 68
+1968,FOCAL (programming language)
+1968,TTM (programming language)
+1968,CMS-2
+1968,Refal
+1968,Аналитик
+1969,SETL
+1969,Planner (programming language)
+1969,TUTOR
+1969,B (programming language)
+1970,Pascal (programming language)
+1970,PL/C
+1970,PLEX (programming language)
+1970,DIBOL
+1970,BLISS
+1970,Forth (programming language)
+1970,MATLAB
+1970,Euclid (programming language)
+1971,MDL (programming language)
+1971,Babbage (programming language)
+1971,Mary (programming language)
+1972,SASL (programming language)
+1972,C (programming language)
+1972,Prolog
+1972,Smalltalk
+1972,RTL/2
+1972,Programming Language for Business
+1973,PL/M
+1973,ML (programming language)
+1974,sed
+1974,SQL
+1974,SP/k
+1974,ELAN (programming language)
+1974,Nord Programming Language
+1975,Modula
+1975,CLU (programming language)
+1975,Scheme (programming language)
+1975,COMAL
+1976,Ratfor
+1976,S (programming language)
+1976,Lucid (programming language)
+1976,KRL (programming language)
+1976,Mesa (programming language)
+1976,Plus (programming language)
+1976,Ratfor
+1976,Lisp Machine Lisp
+1977,FP (programming language)
+1977,FP (programming language)
+1977,m4 (computer language)
+1977,Icon (programming language)
+1977,IDL (programming language)
+1977,AWK
+1978,Control Language
+1978,Modula-2
+1979,Rexx
+1979,dBase
+1980,Franz Lisp
+1980,Draco (programming language)
+1980,Emerald (programming language)
+1980,Fjölnir (programming language)
+1980,CHILL
+1980,SMALL
+1980,Ada (programming language)
+1981,Nial
+1981,Kent Recursive Calculator
+1981,Karel (programming language)
+1982,Turing (programming language)
+1982,PostScript
+1982,T (programming language)
+1982,Rapira
+1982,Janus (time-reversible computing programming language)
+1983,Prograph
+1983,Standard ML
+1983,occam (programming language)
+1983,ABAP
+1983,SISAL
+1984,PROMAL
+1984,RPL (programming language)
+1984,Open Programming Language
+1984,Objective-C
+1984,Common Lisp
+1984,Orwell (programming language)
+1985,Clipper (programming language)
+1985,CLIPS
+1985,Caml
+1985,Emacs Lisp
+1985,Miranda (programming language)
+1985,AMPL
+1985,C++
+1986,CMS Pipelines
+1986,Eiffel (programming language)
+1986,Datalog
+1986,AutoLISP
+1986,Object Pascal
+1986,Clarion (programming language)
+1986,Erlang (programming language)
+1986,CMS Pipelines
+1986,Clarion (programming language)
+1986,CorVision
+1986,AutoLISP
+1987,Oberon (programming language)
+1987,Perl
+1987,Self (programming language)
+1987,C*
+1987,Clean (programming language)
+1987,ABC (programming language)
+1987,HyperTalk
+1988,Object REXX
+1988,TADS
+1988,Tcl
+1988,PicoLisp
+1988,Modula-3
+1988,A+ (programming language)
+1988,Wolfram Language
+1988,Napier88
+1989,SequenceL
+1989,rc
+1989,rc
+1989,FL (programming language)
+1990,J (programming language)
+1990,Escher (programming language)
+1990,Janus (concurrent constraint programming language)
+1990,AMOS (programming language)
+1990,Aldor
+1990,Cadence SKILL
+1990,Sather
+1990,Haskell
+1991,GNU E
+1991,Darwin (programming language)
+1991,newLISP
+1991,Oriel (scripting language)
+1991,Ease (programming language)
+1991,Constraint Handling Rules
+1991,Oz (programming language)
+1992,Alef (programming language)
+1992,ProvideX
+1992,SenseTalk
+1992,Dylan (programming language)
+1992,Cecil (programming language)
+1992,Gödel (programming language)
+1993,ZPL (programming language)
+1993,NewtonScript
+1993,K (programming language)
+1993,Obliq
+1993,AppleScript
+1993,GNU Guile
+1993,NESL
+1993,R (programming language)
+1993,Euphoria (programming language)
+1993,Lua (programming language)
+1994,Claire (programming language)
+1994,RAPID
+1994,Cilk
+1995,mIRC scripting language
+1995,Racket (programming language)
+1995,Limbo (programming language)
+1995,Ruby (programming language)
+1995,Lasso (programming language)
+1996,Cool (programming language)
+1996,OCaml
+1996,Yorick (programming language)
+1996,Joule (programming language)
+1996,Etoys (programming language)
+1996,NetRexx
+1996,QuakeC
+1996,Perl Data Language
+1996,Squeak
+1996,MIVA Script
+1996,DRAKON
+1996,Charm (programming language)
+1996,JScript
+1997,Pico (programming language)
+1997,Modelica
+1997,C--
+1997,Alma-0
+1997,Caché ObjectScript
+1997,LISA (Language for Instruction Set Architecture)
+1997,Tea (programming language)
+1997,ECMAScript
+1997,Rebol
+1997,E (programming language)
+1997,Component Pascal
+1998,ActionScript
+1998,Curl (programming language)
+1998,XSLT
+1998,Malbolge
+1998,Logtalk
+1999,NetLogo
+1999,Harbour (programming language)
+1999,BeanShell
+1999,AutoIt
+2,Swift (programming language)
+20,Python (programming language)
+20,Scala (programming language)
+2000,Yoix
+2000,Pascal Script
+2000,XOTcl
+2000,Alice (programming language)
+2000,Join Java
+2000,C Sharp (programming language)
+2001,StarLogo
+2001,Processing
+2001,Processing
+2001,Joy (programming language)
+2002,NWScript
+2002,Cyclone (programming language)
+2002,Io (programming language)
+2003,Nemerle
+2003,Boo (programming language)
+2003,Apache Groovy
+2003,Factor (programming language)
+2003,Sawzall (programming language)
+2003,Scratch (programming language)
+2003,Go! (programming language)
+2003,ChucK
+2003,Q (programming language from Kx Systems)
+2003,AngelScript
+2004,Epigram (programming language)
+2004,Easy Programming Language
+2004,Little b (programming language)
+2004,eC (programming language)
+2004,A Sharp (.NET)
+2004,Orc (programming language)
+2004,X10 (programming language)
+2005,Fantom (programming language)
+2005,F Sharp (programming language)
+2005,PLEXIL
+2005,Oxygene (programming language)
+2005,Seed7
+2005,Haxe
+2006,Vala (programming language)
+2006,Cobra (programming language)
+2006,Newspeak (programming language)
+2006,PowerShell
+2006,Fortress (programming language)
+2006,AmbientTalk
+2006,Hop (software)
+2006,OptimJ
+2006,Strongtalk
+2007,XQuery
+2007,Swift (parallel scripting language)
+2007,Lite-C
+2007,.QL
+2007,Clojure
+2007,Grasshopper 3D
+2007,Nu (programming language)
+2007,Idris (programming language)
+2007,Ezhil (programming language)
+2007,Visual J Sharp
+2007,Agda (programming language)
+2008,Boomerang (programming language)
+2008,Genie (programming language)
+2008,Umple
+2008,PCASTL
+2008,Nim (programming language)
+2008,Pure (programming language)
+2008,Pharo
+2009,Chapel (programming language)
+2009,ParaSail (programming language)
+2009,CoffeeScript
+2009,Go (programming language)
+2010,Kojo (learning environment)
+2010,Whiley (programming language)
+2010,Catrobat
+2011,Red (programming language)
+2011,LiveScript (programming language)
+2011,Dart (programming language)
+2011,Opa (programming language)
+2011,Snap! (programming language)
+2011,Xtend
+2011,Ceylon (programming language)
+2012,Halide (programming language)
+2012,Golo (programming language)
+2012,Elixir (programming language)
+2012,M Sharp
+2012,Julia (programming language)
+2012,TypeScript
+2012,P (programming language)
+2012,Qalb (programming language)
+2013,Hy
+2013,Cuneiform (programming language)
+2013,Lean (proof assistant)
+2013,Zonnon
+2013,P4 (programming language)
+2013,PureScript
+2014,Crystal (programming language)
+2014,Futhark (programming language)
+2014,Hack (programming language)
+2016,Reason (programming language)
+2016,XOD (programming language)
+2017,WebAssembly
+2017,Ballerina (programming language)
+2017,Source (programming language)
+2017,Q Sharp
+2019,Project Verona
+2021,Microsoft Power Fx
+22,Kotlin (programming language)
+23,Java (programming language)
+25,Raku (programming language)
+25,Ring (programming language)
+26,PWCT
+27,APL (programming language)
+28,F-Script (programming language)
+28,Cython
+29,Arc (programming language)
+3,Game Oriented Assembly Lisp
+3,Bosque (programming language)
+30,Elm (programming language)
+4,JavaScript
+6,Squirrel (programming language)
+7,Rust (programming language)
+8,PHP
+8,Mercury (programming language)
+8,Axum (programming language)
+8,D (programming language)
+8,Zig (programming language)
+year,language
+,A-0 System
+,A++
+,ABC ALGOL
+,ACC (programming language)
+,Rational Synergy
+,Distributed Application Specification Language
+,Action! (programming language)
+,Actor (programming language)
+,ISO/IEC 8652
+,Haystack (MIT project)
+,AdvPL
+,Keysight VEE
+,Agora (programming language)
+,AIMMS
+,Algebraic Logic Functional programming language
+,Amiga E
+,Apache Pig
+,App Inventor for Android
+,ARexx
+,Argus (programming language)
+,AutoHotkey
+,Averest
+,Bash (Unix shell)
+,Batch file
+,bc (programming language)
+,BETA (programming language)
+,Blockly
+,BlooP and FlooP
+,C/AL
+,C shell
+,Carbon (programming language)
+,Lennart Augustsson
+,CDuce
+,CESIL
+,Céu (programming language)
+,CFEngine
+,Cg (programming language)
+,Ch (computer programming)
+,CHIP-8
+,CLIST
+,CobolScript
+,Adobe ColdFusion
+,Common Intermediate Language
+,COMPASS
+,Coq
+,Cryptol
+,Csound
+,Curry (programming language)
+,Cybil (programming language)
+,Cypher (query language)
+,CEEMAC
+,DataFlex
+,DATATRIEVE
+,dc (computer program)
+,DIGITAL Command Language
+,Delphi (software)
+,Dink Smallwood
+,Sepandar Kamvar
+,DYNAMO (programming language)
+,Data Analysis Expressions
+,Easytrieve
+,EGL (programming language)
+,Esterel
+,EusLisp Robot Programming Language
+,CMS EXEC
+,EXEC 2
+,Executable UML
+,F (programming language)
+,F* (programming language)
+,FAUST (programming language)
+,fish (Unix shell)
+,FlagShip
+,Flavors (programming language)
+,Flex (programming language)
+,Flix (programming language)
+,BlooP and FlooP
+,FOCUS
+,FOIL (programming language)
+,FORMAC
+,Formula language
+,FoxPro
+,GameMaker
+,GameMonkey Script
+,General algebraic modeling system
+,GAP (computer algebra system)
+,Godot (game engine)
+,Geometric Description Language
+,GEORGE (programming language)
+,OpenGL Shading Language
+,Google Apps Script
+,Gosu (programming language)
+,IBM 1620
+,GPSS
+,Computer Sciences Corporation
+,GRASS (programming language)
+,Haggis (programming language)
+,HAL/S
+,Hamilton C shell
+,Hermes (programming language)
+,High Level Assembly
+,High-Level Shader Language
+,Hollywood (programming language)
+,TempleOS
+,Hopscotch (programming language)
+,Hope (programming language)
+,Hume (programming language)
+,IBM Basic Assembly Language and successors
+,IBM HAScript
+,IBM Informix-4GL
+,Inform
+,ISLISP
+,Visual J++
+,JADE (programming language)
+,Jonathan Blow
+,JAL (compiler)
+,Warcraft III: Reign of Chaos
+,JavaFX Script
+,Jess (programming language)
+,Job Control Language
+,JEAN
+,JScript .NET
+,Jython
+,Kaleidoscope (programming language)
+,IntelliCorp (software)
+,KiXtart
+,Klerer–May System
+,Knowledge Interchange Format
+,KUKA Robot Language
+,KL-ONE
+,KornShell
+,Kodu Game Lab
+,Kivy (framework)
+,LabVIEW
+,Ladder logic
+,LANSA (development environment)
+,Lava (programming language)
+,Little Computer 3
+,Lego Mindstorms
+,Little Implementation Language
+,LilyPond
+,Limnor
+,LINC 4GL
+,Lingo (programming language)
+,Language Integrated Query
+,LIS (programming language)
+,Lithe
+,Ethereum
+,LotusScript
+,LPMud
+,LSE (programming language)
+,Second Life
+,LiveCode
+,Lustre (programming language)
+,Lynx (programming language)
+,Power Query
+,M2001
+,Machine code
+,Magik (programming language)
+,Magma (computer algebra system)
+,Máni
+,Maple (software)
+,MAPPER
+,MARK IV (software)
+,Microsoft Macro Assembler
+,Maude system
+,Maxima (software)
+,Macsyma
+,Max (software)
+,Autodesk 3ds Max
+,Maya Embedded Language
+,MHEG-5
+,Microassembler
+,MIIS (programming language)
+,Milk (programming language)
+,MIMIC
+,Mirah (programming language)
+,Model 204
+,System programming language
+,MOO
+,Mortran
+,Mouse (programming language)
+,MPD (programming language)
+,MuPAD
+,Ethereum
+,Mystic BBS
+,Netwide Assembler
+,NekoVM
+,Net.Data
+,NEWP
+,Keith Packard
+,Keith Packard
+,Nix (package manager)
+,Not eXactly C
+,Not Quite C
+,Nullsoft Scriptable Install System
+,Lego Mindstorms NXT
+,o:XML
+,Oak (programming language)
+,OBJ (programming language)
+,Object Lisp
+,occam-π
+,GNU Octave
+,OmniMark
+,Opal (programming language)
+,OpenCL
+,OpenEdge Advanced Business Language
+,OpenVera
+,OpenQASM
+,OPS5
+,ORCA/Modula-2
+,PARI/GP
+,Programming Computable Functions
+,PEARL (programming language)
+,PeopleCode
+,Pict (programming language)
+,MUD
+,PILOT
+,Pizza (programming language)
+,PL-11
+,PL/0
+,PL/P
+,IBM PL/S
+,PL/SQL
+,PLANC
+,POP-11
+,POP-2
+,Amiga E
+,POV-Ray
+,PowerHouse (programming language)
+,PowerBuilder
+,Polymorphic Programming Language
+,Promela
+,PROSE modeling language
+,Protel
+,Pro*C
+,Pure Data
+,Quantum Computation Language
+,QtScript
+,Quantum programming
+,R++
+,Core War
+,ROOP (programming language)
+,Robot Battle
+,LiveJournal
+,S3 (programming language)
+,S-Lang
+,S-PLUS
+,SA-C (programming language)
+,SabreTalk
+,SAIL (programming language)
+,SAKO (programming language)
+,SAS (software)
+,Scilab
+,Script.NET
+,Ethereum
+,Superbase (database)
+,SIGNAL (programming language)
+,SiMPLE
+,SIMSCRIPT
+,Simulink
+,SLIP (programming language)
+,SPITBOL
+,Snowball (programming language)
+,Secure Operations Language
+,Solidity
+,SOPHAEROS
+,SPARK (programming language)
+,Speakeasy (computational environment)
+,Parallax Propeller
+,IBM 1401 Symbolic Programming System
+,SQR
+,SR (programming language)
+,S/SL programming language
+,Strand (programming language)
+,Stata
+,Stateflow
+,Subtext (programming language)
+,Superbase (database)
+,SuperCollider
+,SuperTalk
+,SYMPL
+,TACL
+,TACPOL (programming language)
+,Transaction Application Language
+,TECO (text editor)
+,TeX
+,Text Executive Programming Language
+,Tensilica Instruction Extension
+,Tom (pattern matching language)
+,Toi (programming language)
+,DEC Text Processing Utility
+,Transact-SQL
+,LiveCode
+,TTCN
+,TXL (programming language)
+,Tynker
+,Ubercode
+,UCSD Pascal
+,Unicon (programming language)
+,Uniface (programming language)
+,UNITY (programming language)
+,Unreal Engine
+,Vim (text editor)
+,Ethereum
+,DataFlex
+,Visual DialogScript
+,Visual FoxPro
+,Visual J++
+,Visual Objects
+,Visual Prolog
+,WATFIV
+,WebDNA
+,List of programming languages by type
+,Wyvern (programming language)
+,Microsoft Dynamics AX
+,XBase++
+,XBL
+,XMOS
+,XMOS
+,xHarbour
+,Christophe de Dinechin
+,Xojo
+,XPL
+,XPL0
+,XSB
+,XSharp
+,Yahoo! Query Language
+,Z notation
+,Z shell
+,Zebra Programming Language
+,Zeno (programming language)
+,ZOPL
+,Z++
