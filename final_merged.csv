@@ -182,7 +182,6 @@
 192,FL ,"[FP]",,1989,FL (programming language)
 119,Coq,,,1989,Coq
 566,SequenceL,,,1989,SequenceL
-170,rc,"[Bourne shell]","[es, The Inferno shell]",1989,rc
 56,Bash ,,,1989,Bash (Unix shell)
 577,Cadence SKILL,"[Scheme, Common Lisp, CLOS]",,1990,Cadence SKILL
 171,Escher      ,,,1990,Escher (programming language)
@@ -341,7 +340,6 @@ ScratchJr, Snap!, mBlock, Turtlestitch]",2003,Scratch (programming language)
 252,Hop ,"[Scheme]",,2006,Hop (software)
 31,AmbientTalk,"[Smalltalk, Self, Scheme, E, ABCL]","[ECMAScript Harmony]",2006,AmbientTalk
 495,PowerShell,"[Python, Ksh, Perl, C#, CL, DCL, SQL, Tcl, Tk, Chef, Puppet]",,2006,PowerShell
-613,Swift,"[C syntax, functional programming]","[Cuneiform]",2007,Swift (parallel scripting language)
 679,XQuery,"[XPath, SQL, XSLT]",,2007,XQuery
 327,Lite-C,,,2007,Lite-C
 236,Grasshopper 3D,,,2007,Grasshopper 3D

@@ -1,675 +1,673 @@
 ,Language,Influenced By,Influenced,Year
-695,Z++,,,1.0
-519,JEAN,,,1.0
-518,Job Control Language,,,1.0
-517,Jess,,,1.0
-516,JavaFX Script,,,1.0
-515,Warcraft III: Reign of Chaos,,,1.0
-514,JAL,,,1.0
-513,Jonathan Blow,,,1.0
-512,JADE,,,1.0
-511,Visual J++,,,1.0
-509,Inform,,,1.0
-508,IBM HAScript,,,1.0
-507,IBM Basic Assembly Language and successors,,,1.0
-521,Kaleidoscope,,,1.0
-506,Hume,,,1.0
-504,Hopscotch,,,1.0
-503,High-Level Shader Language,,,1.0
-502,High Level Assembly,,,1.0
-501,Hermes,,,1.0
-500,HAL/S,,,1.0
-499,Haggis,,,1.0
-498,GRASS,,,1.0
-497,Computer Sciences Corporation,,,1.0
-496,GPSS,,,1.0
-495,IBM 1620,,,1.0
-493,OpenGL Shading Language,,,1.0
-492,GEORGE,,,1.0
-505,Hope,,,1.0
-522,IntelliCorp,,,1.0
-523,Klerer–May System,,,1.0
-524,Knowledge Interchange Format,,,1.0
-553,Macsyma,,,1.0
-552,Maude system,,,1.0
-551,MARK IV,,,1.0
-550,MAPPER,,,1.0
-549,Máni,,,1.0
-548,Magma,,,1.0
-547,Magik,,,1.0
-546,Machine code,,,1.0
-545,M2001,,,1.0
-544,Power Query,,,1.0
-543,Lynx,,,1.0
-542,Lustre,,,1.0
-541,LSE,,,1.0
-540,LPMud,,,1.0
-539,LotusScript,,,1.0
-538,Lithe,,,1.0
-537,LIS,,,1.0
-535,Lingo,,,1.0
-534,LINC 4GL,,,1.0
-533,Limnor,,,1.0
-532,Little Implementation Language,,,1.0
-531,Lego Mindstorms,,,1.0
-530,Little Computer 3,,,1.0
-529,Lava,,,1.0
-528,LANSA,,,1.0
-527,Ladder logic,,,1.0
-526,KL-ONE,,,1.0
-491,Geometric Description Language,,,1.0
-490,GAP,,,1.0
-489,General algebraic modeling system,,,1.0
-488,GameMonkey Script,,,1.0
-453,Common Intermediate Language,,,1.0
-452,CobolScript,,,1.0
-451,CLIST,,,1.0
-450,CHIP-8,,,1.0
-448,Céu,,,1.0
-447,CESIL,,,1.0
-446,CDuce,,,1.0
-445,Lennart Augustsson,,,1.0
-442,BlooP and FlooP,,,1.0
-440,Batch file,,,1.0
-439,Averest,,,1.0
-438,Argus,,,1.0
-437,ARexx,,,1.0
-436,Salesforce,,,1.0
-435,Amiga E,,,1.0
-434,Algebraic Logic Functional programming language,,,1.0
-433,AIMMS,,,1.0
-432,Agora,,,1.0
-431,Keysight VEE,,,1.0
-430,AdvPL,,,1.0
-429,Haystack,,,1.0
-428,ISO/IEC 8652,,,1.0
-427,Actor,,,1.0
-426,Distributed Application Specification Language,,,1.0
-425,ACC,,,1.0
-424,ABC ALGOL,,,1.0
-423,A++,,,1.0
-454,COMPASS,,,1.0
-554,Max,,,1.0
-455,Cryptol,,,1.0
-457,Cybil,,,1.0
-487,FoxPro,,,1.0
-486,Formula language,,,1.0
-485,FORMAC,,,1.0
-484,FOIL,,,1.0
-483,FOCUS,,,1.0
-480,Flex,,,1.0
-479,Flavors,,,1.0
-478,FlagShip,,,1.0
-476,F,,,1.0
-475,Executable UML,,,1.0
-474,EXEC 2,,,1.0
-473,CMS EXEC,,,1.0
-472,EusLisp Robot Programming Language,,,1.0
-471,Esterel,,,1.0
-470,EGL,,,1.0
-469,Easytrieve,,,1.0
-468,Data Analysis Expressions,,,1.0
-467,DYNAMO,,,1.0
-466,Sepandar Kamvar,,,1.0
-465,Dink Smallwood,,,1.0
-464,Delphi,,,1.0
-463,DIGITAL Command Language,,,1.0
-462,dc,,,1.0
-461,DATATRIEVE,,,1.0
-460,DataFlex,,,1.0
-459,CEEMAC,,,1.0
-458,Cypher,,,1.0
-456,Curry,,,1.0
-422,A-0 System,,,1.0
-555,Maya Embedded Language,,,1.0
-557,Microassembler,,,1.0
-657,Toi,,,1.0
-656,Tom,,,1.0
-655,Tensilica Instruction Extension,,,1.0
-654,Text Executive Programming Language,,,1.0
-653,Transaction Application Language,,,1.0
-652,TACPOL,,,1.0
-651,TACL,,,1.0
-650,SYMPL,,,1.0
-649,SuperTalk,,,1.0
-648,Subtext,,,1.0
-647,Stateflow,,,1.0
-646,Strand,,,1.0
-658,DEC Text Processing Utility,,,1.0
-645,S/SL programming language,,,1.0
-643,SQR,,,1.0
-642,IBM 1401 Symbolic Programming System,,,1.0
-641,Parallax Propeller,,,1.0
-640,Speakeasy,,,1.0
-638,SOPHAEROS,,,1.0
-636,Secure Operations Language,,,1.0
-635,Snowball,,,1.0
-634,SPITBOL,,,1.0
-633,SLIP,,,1.0
-632,Simulink,,,1.0
-631,SIMSCRIPT,,,1.0
-630,SiMPLE,,,1.0
-644,SR,,,1.0
-659,Transact-SQL,,,1.0
-660,TTCN,,,1.0
-661,TXL,,,1.0
-693,Zeno,,,1.0
-692,Zebra Programming Language,,,1.0
-691,Z notation,,,1.0
-690,Yahoo! Query Language,,,1.0
-689,XSharp,,,1.0
-687,XPL0,,,1.0
-686,XPL,,,1.0
-685,Xojo,,,1.0
-684,Christophe de Dinechin,,,1.0
-683,xHarbour,,,1.0
-681,XMOS,,,1.0
-680,XBL,,,1.0
-679,XBase++,,,1.0
-678,Microsoft Dynamics AX,,,1.0
-677,Wyvern,,,1.0
-676,Winbatch,,,1.0
-675,WebDNA,,,1.0
-674,WATFIV,,,1.0
-673,Visual Prolog,,,1.0
-672,Visual Objects,,,1.0
-670,Visual FoxPro,,,1.0
-669,Visual DialogScript,,,1.0
-667,Unreal Engine,,,1.0
-666,UNITY,,,1.0
-665,Uniface,,,1.0
-663,Ubercode,,,1.0
-662,Tynker,,,1.0
-629,SIGNAL,,,1.0
-627,Scilab,,,1.0
-626,SAKO,,,1.0
-625,SAIL,,,1.0
-588,PARI/GP,,,1.0
-587,OPS5,,,1.0
-586,OpenQASM,,,1.0
-585,OpenVera,,,1.0
-584,OpenEdge Advanced Business Language,,,1.0
-583,Opal,,,1.0
-582,OmniMark,,,1.0
-580,Object Lisp,,,1.0
-579,OBJ,,,1.0
-578,Oak,,,1.0
-577,o:XML,,,1.0
-576,Lego Mindstorms NXT,,,1.0
-575,Not Quite C,,,1.0
-574,Not eXactly C,,,1.0
-572,Keith Packard,,,1.0
-570,Net.Data,,,1.0
-569,Mystic BBS,,,1.0
-568,MuPAD,,,1.0
-567,MPD,,,1.0
-566,Mouse,,,1.0
-565,Mortran,,,1.0
-564,MOO,,,1.0
-563,System programming language,,,1.0
-562,Model 204,,,1.0
-560,MIMIC,,,1.0
-559,Milk,,,1.0
-558,MIIS,,,1.0
-589,Programming Computable Functions,,,1.0
-556,MHEG-5,,,1.0
-590,PEARL,,,1.0
-593,MUD,,,1.0
-624,SabreTalk,,,1.0
-623,SA-C,,,1.0
-622,S-PLUS,,,1.0
-621,S-Lang,,,1.0
-619,LiveJournal,,,1.0
-618,Robot Battle,,,1.0
-617,ROOP,,,1.0
-616,Core War,,,1.0
-615,R++,,,1.0
-614,Quantum programming,,,1.0
-613,QtScript,,,1.0
-612,Quantum Computation Language,,,1.0
-611,Pure Data,,,1.0
-610,Pro*C,,,1.0
-609,Protel,,,1.0
-608,PROSE modeling language,,,1.0
-607,Promela,,,1.0
-606,Polymorphic Programming Language,,,1.0
-605,PowerHouse,,,1.0
-603,POP-2,,,1.0
-602,POP-11,,,1.0
-600,PL/SQL,,,1.0
-599,IBM PL/S,,,1.0
-598,PL/P,,,1.0
-597,PL/0,,,1.0
-596,PL-11,,,1.0
-594,PILOT,,,1.0
-591,PeopleCode,,,1.0
-694,ZOPL,,,1.0
-0,Assembly language,,,1947.0
-1,Plankalkül,,"[Superplan, ALGOL 58]",1948.0
+693,Z++,,,1.0
+517,JEAN,,,1.0
+516,Job Control Language,,[Control Language],1.0
+515,Jess,,,1.0
+514,JavaFX Script,,,1.0
+513,Warcraft III: Reign of Chaos,,,1.0
+512,JAL,,,1.0
+511,Jonathan Blow,,,1.0
+510,JADE,,,1.0
+509,Visual J++,,,1.0
+507,Inform,,[CorVision],1.0
+506,IBM HAScript,,,1.0
+519,Kaleidoscope,,,1.0
+505,IBM Basic Assembly Language and successors,,,1.0
+503,Hope,,"[Miranda, Mercury, Standard ML]",1.0
+502,Hopscotch,,,1.0
+501,High-Level Shader Language,,,1.0
+500,High Level Assembly,,,1.0
+499,Hermes,,,1.0
+498,HAL/S,,,1.0
+497,Haggis,,,1.0
+495,Computer Sciences Corporation,,,1.0
+494,GPSS,,,1.0
+493,IBM 1620,,,1.0
+491,OpenGL Shading Language,,,1.0
+504,Hume,,,1.0
+490,GEORGE,,,1.0
+520,IntelliCorp,,,1.0
+522,Knowledge Interchange Format,,,1.0
+550,Maude system,,,1.0
+549,MARK IV,,,1.0
+548,MAPPER,,,1.0
+547,Máni,,,1.0
+546,Magma,,,1.0
+545,Magik,,,1.0
+544,Machine code,,,1.0
+543,M2001,,,1.0
+542,Power Query,,,1.0
+541,Lynx,,,1.0
+539,LSE,,,1.0
+521,Klerer–May System,,,1.0
+538,LPMud,,,1.0
+536,Lithe,,,1.0
+535,LIS,,,1.0
+532,LINC 4GL,,,1.0
+531,Limnor,,,1.0
+530,Little Implementation Language,,,1.0
+529,Lego Mindstorms,,,1.0
+528,Little Computer 3,,,1.0
+527,Lava,,,1.0
+526,LANSA,,,1.0
+525,Ladder logic,,,1.0
+524,KL-ONE,,,1.0
+537,LotusScript,,,1.0
+489,Geometric Description Language,,,1.0
+488,GAP,,[TTM],1.0
+487,General algebraic modeling system,,,1.0
+451,Common Intermediate Language,,,1.0
+449,CLIST,,,1.0
+448,CHIP-8,,,1.0
+446,Céu,,,1.0
+445,CESIL,,,1.0
+444,CDuce,,,1.0
+443,Lennart Augustsson,,,1.0
+440,BlooP and FlooP,,,1.0
+438,Batch file,,,1.0
+437,Averest,,,1.0
+435,ARexx,,,1.0
+452,COMPASS,,,1.0
+434,Salesforce,,,1.0
+432,Algebraic Logic Functional programming language,,,1.0
+431,AIMMS,,,1.0
+429,Keysight VEE,,,1.0
+428,AdvPL,,,1.0
+427,Haystack,,,1.0
+426,ISO/IEC 8652,,,1.0
+425,Actor,,,1.0
+424,Distributed Application Specification Language,,,1.0
+423,ACC,,,1.0
+422,ABC ALGOL,,,1.0
+421,A++,,,1.0
+433,Amiga E,,,1.0
+453,Cryptol,,,1.0
+455,Cybil,,,1.0
+456,Cypher,,,1.0
+486,GameMonkey Script,,,1.0
+484,Formula language,,,1.0
+483,FORMAC,,,1.0
+482,FOIL,,,1.0
+481,FOCUS,,,1.0
+478,Flex,,,1.0
+477,Flavors,,,1.0
+476,FlagShip,,,1.0
+474,F,,,1.0
+473,Executable UML,,,1.0
+472,EXEC 2,,[Rexx],1.0
+471,CMS EXEC,,,1.0
+470,EusLisp Robot Programming Language,,,1.0
+469,Esterel,,,1.0
+467,Easytrieve,,,1.0
+466,Data Analysis Expressions,,,1.0
+465,DYNAMO,,,1.0
+464,Sepandar Kamvar,,,1.0
+463,Dink Smallwood,,,1.0
+462,Delphi,,,1.0
+461,DIGITAL Command Language,,,1.0
+460,dc,,,1.0
+459,DATATRIEVE,,,1.0
+458,DataFlex,,,1.0
+457,CEEMAC,,,1.0
+551,Macsyma,,,1.0
+420,A-0 System,,,1.0
+552,Max,,,1.0
+554,MHEG-5,,,1.0
+655,Toi,,,1.0
+654,Tom,,,1.0
+653,Tensilica Instruction Extension,,,1.0
+652,Text Executive Programming Language,,,1.0
+651,Transaction Application Language,,,1.0
+650,TACPOL,,,1.0
+649,TACL,,,1.0
+646,Subtext,,,1.0
+645,Stateflow,,,1.0
+643,S/SL programming language,,,1.0
+642,SR,,,1.0
+656,DEC Text Processing Utility,,,1.0
+641,SQR,,,1.0
+639,Parallax Propeller,,,1.0
+636,SOPHAEROS,,,1.0
+634,Secure Operations Language,,,1.0
+633,Snowball,,,1.0
+632,SPITBOL,,,1.0
+631,SLIP,,,1.0
+630,Simulink,,,1.0
+629,SIMSCRIPT,,,1.0
+628,SiMPLE,,,1.0
+627,SIGNAL,,,1.0
+624,SAKO,,,1.0
+640,IBM 1401 Symbolic Programming System,,,1.0
+623,SAIL,,,1.0
+657,Transact-SQL,,,1.0
+659,TXL,,,1.0
+691,Zeno,,,1.0
+690,Zebra Programming Language,,,1.0
+689,Z notation,,,1.0
+688,Yahoo! Query Language,,,1.0
+687,XSharp,,,1.0
+685,XPL0,,,1.0
+684,XPL,,[PL/M],1.0
+683,Xojo,,,1.0
+682,Christophe de Dinechin,,,1.0
+679,XMOS,,,1.0
+678,XBL,,,1.0
+658,TTCN,,,1.0
+677,XBase++,,,1.0
+675,Wyvern,,,1.0
+674,Winbatch,,,1.0
+673,WebDNA,,,1.0
+672,WATFIV,,,1.0
+670,Visual Objects,,,1.0
+667,Visual DialogScript,,,1.0
+665,Unreal Engine,,,1.0
+664,UNITY,,,1.0
+663,Uniface,,,1.0
+661,Ubercode,,,1.0
+660,Tynker,,,1.0
+676,Microsoft Dynamics AX,,,1.0
+622,SabreTalk,,,1.0
+621,SA-C,,,1.0
+620,S-PLUS,,,1.0
+582,OpenEdge Advanced Business Language,,,1.0
+581,Opal,,,1.0
+580,OmniMark,,,1.0
+578,Object Lisp,,,1.0
+577,OBJ,,,1.0
+576,Oak,,,1.0
+575,o:XML,,,1.0
+574,Lego Mindstorms NXT,,,1.0
+573,Not Quite C,,,1.0
+572,Not eXactly C,,,1.0
+570,Keith Packard,,,1.0
+583,OpenVera,,,1.0
+568,Net.Data,,,1.0
+566,MuPAD,,,1.0
+565,MPD,,,1.0
+564,Mouse,,,1.0
+563,Mortran,,,1.0
+562,MOO,,,1.0
+561,System programming language,,,1.0
+560,Model 204,,,1.0
+558,MIMIC,,,1.0
+557,Milk,,,1.0
+556,MIIS,,,1.0
+555,Microassembler,,,1.0
+567,Mystic BBS,,,1.0
+584,OpenQASM,,,1.0
+586,PARI/GP,,,1.0
+587,Programming Computable Functions,,,1.0
+619,S-Lang,,,1.0
+617,LiveJournal,,,1.0
+616,Robot Battle,,,1.0
+615,ROOP,,,1.0
+614,Core War,,,1.0
+613,R++,,,1.0
+612,Quantum programming,,,1.0
+611,QtScript,,,1.0
+610,Quantum Computation Language,,,1.0
+609,Pure Data,,,1.0
+608,Pro*C,,,1.0
+607,Protel,,,1.0
+606,PROSE modeling language,,,1.0
+605,Promela,,,1.0
+604,Polymorphic Programming Language,,,1.0
+603,PowerHouse,,,1.0
+600,POP-11,,,1.0
+597,IBM PL/S,,,1.0
+596,PL/P,,,1.0
+595,PL/0,,[MATLAB],1.0
+594,PL-11,,,1.0
+592,PILOT,,,1.0
+591,MUD,,,1.0
+589,PeopleCode,,,1.0
+588,PEARL,,,1.0
+553,Maya Embedded Language,,,1.0
+692,ZOPL,,,1.0
+0,Assembly language,,[Speedcoding],1947.0
+1,Plankalkül,,"[ALGOL 58, Superplan]",1948.0
 2,Short Code,,,1950.0
 3,G-code,,,1950.0
 4,Superplan,[Plankalkül],[ALGOL 58],1951.0
-5,Speedcoding,"[Assembly language, Fortran, ALGOL 58, BASIC, C, PL/I, MUMPS, Ratfor]","[Fortran, ALGOL 58, BASIC, C, PL/I, MUMPS, Ratfor]",1953.0
-6,FLOW-MATIC,,"[MATH-MATIC, COBOL, COMTRAN]",1955.0
+5,Speedcoding,[Assembly language],"[Ratfor, BASIC, PL/I, Fortran, MUMPS, C, ALGOL 58]",1953.0
+6,FLOW-MATIC,,"[COMTRAN, COBOL, MATH-MATIC]",1955.0
 7,APT,,,1956.0
-8,MATH-MATIC,[FLOW-MATIC],,1957.0
-9,COMIT,,[SNOBOL],1957.0
+11,Fortran,[Speedcoding],"[Ratfor, SISAL, Fortress, Chapel, BASIC, PL/I, DIBOL, IDL, S, CMS-2, MUMPS, CORAL, C, ALGOL 58]",1957.0
 10,COMTRAN,[FLOW-MATIC],[COBOL],1957.0
-11,Fortran,[Speedcoding],"[ALGOL 58, BASIC, C, Chapel, CMS-2, Fortress, PL/I, MUMPS, IDL, Ratfor, Speedcoding, CORAL, DIBOL, S, SISAL]",1957.0
-12,Lisp,,"[CLIPS, CLU, COWSEL, Dylan, Elixir, Forth, Haskell, Io, JavaScript, Julia, Logo, Lua, ML, Nim, Nu, OPS5, Perl, Python, R, Rebol, Ruby, Scala, Swift, Smalltalk, Tcl, Wolfram Language, MDL, Scheme, Lisp Machine Lisp, Franz Lisp, Nial, Common Lisp, RPL, AutoLISP, Erlang, C*, Oz, GNU Guile, Claire, Java, Squeak, Curl, Game Oriented Assembly Lisp, Factor, Nemerle, Little b, Arc, Pure, Ceylon]",1958.0
-13,ALGOL 58,"[Plankalkül, Superplan, Speedcoding, Fortran]",,1958.0
+9,COMIT,,[SNOBOL],1957.0
+8,MATH-MATIC,[FLOW-MATIC],,1957.0
+12,Lisp,,"[COWSEL, JavaScript, OPS5, Nial, Claire, Ruby, Little b, Lua, Game Oriented Assembly Lisp, Common Lisp, Forth, Logo, Scala, Swift, Arc, Smalltalk, Tcl, Nim, Oz, GNU Guile, AutoLISP, Julia, Perl, Erlang, CLIPS, Io, Nu, ML, R, Nemerle, Scheme, Squeak, Pure, Java, Curl, Rebol, Haskell, Franz Lisp, C*, Elixir, Ceylon, Dylan, Python, Wolfram Language, CLU, RPL, Lisp Machine Lisp, Factor, MDL]",1958.0
+13,ALGOL 58,"[Speedcoding, Fortran, Plankalkül, Superplan]","[MAD, ALGOL 60]",1958.0
 14,MAD,[ALGOL 58],,1959.0
-15,COBOL,"[COMTRAN, FLOW-MATIC, C++, Eiffel, Smalltalk]","[CobolScript, EGL, PL/I, Language H, DIBOL, Programming Language for Business, CHILL, ABAP]",1959.0
+15,COBOL,"[COMTRAN, FLOW-MATIC]","[CobolScript, ABAP, Language H, CHILL, DIBOL, PL/I, Programming Language for Business, EGL]",1959.0
 16,IBM RPG,,,1959.0
-20,JOVIAL,,"[CMS-2, SYMPL, CORAL]",1960.0
-21,ALGOL 60,[ALGOL 58],"[Simula, CPL, Pascal, Ada, C, PL/I, BASIC, Euler, Edinburgh IMP, Executive Systems Problem Oriented Language, ALGOL W, ALGOL 68, SETL, CLU, Napier88]",1960.0
+20,JOVIAL,,"[CORAL, SYMPL, CMS-2]",1960.0
+21,ALGOL 60,[ALGOL 58],"[Edinburgh IMP, ALGOL W, Simula, BASIC, PL/I, Napier88, CPL, ALGOL 68, Euler, Executive Systems Problem Oriented Language, CLU, C, SETL, Ada, Pascal]",1960.0
+23,SNOBOL,[COMIT],"[AWK, Lua, Icon]",1962.0
+24,Simula,[ALGOL 60],"[Smalltalk, Eiffel, C++, BETA, Wolfram Language, Emerald, CLU, Object Pascal]",1962.0
 22,Language H,[COBOL],,1962.0
-23,SNOBOL,"[COMIT, AWK, Icon, Lua]","[AWK, Icon, Lua]",1962.0
-24,Simula,[ALGOL 60],,1962.0
 25,TECO,,,1962.0
-26,CPL,[ALGOL 60],"[BCPL, POP-2, COWSEL]",1963.0
-27,JOSS,,"[TELCOMP, FOCAL, MUMPS, BASIC]",1963.0
-28,TMG,,,1963.0
+28,TMG,,[B],1963.0
+27,JOSS,,"[TELCOMP, BASIC, FOCAL, MUMPS]",1963.0
+26,CPL,[ALGOL 60],"[COWSEL, POP-2, BCPL]",1963.0
 36,P′′,,,1964.0
-35,LYaPAS,,,1964.0
-33,COWSEL,"[CPL, Lisp]",[POP-2],1964.0
+29,PL/I,"[ALGOL 60, COBOL, Speedcoding, Fortran]","[SP/k, PL/M, NetRexx, PL/C, Rexx, Control Language, C, B]",1964.0
+31,TRAC,,[TTM],1964.0
+32,BASIC,"[Fortran, Speedcoding, JOSS, ALGOL 60]","[Euphoria, COMAL, Ezhil, DIBOL, Perl, Ring, GRASS, AutoIt]",1964.0
+33,COWSEL,"[Lisp, CPL]",[POP-2],1964.0
 34,CORAL,"[JOVIAL, Fortran]",,1964.0
-31,TRAC,,,1964.0
-29,PL/I,"[COBOL, Fortran, ALGOL 60, Speedcoding]","[Control Language, PL/M, Speedcoding, B, PL/C, C, SP/k, Rexx, NetRexx]",1964.0
-32,BASIC,"[ALGOL 60, JOSS, Speedcoding, Fortran]","[COMAL, GRASS, Speedcoding, DIBOL, Perl, Euphoria, AutoIt, Ezhil, Ring]",1964.0
+35,LYaPAS,,,1964.0
+38,Euler,[ALGOL 60],[Smalltalk],1965.0
 37,TELCOMP,[JOSS],[MUMPS],1965.0
-38,Euler,[ALGOL 60],,1965.0
-44,APL,,"[A+, C++, FP, J, K, MATLAB, Nial, Python, S, Speakeasy, Wolfram Language, Self, Perl Data Language, Q, Go, F-Script, Futhark]",1966.0
-42,PL360,,[ALGOL W],1966.0
-41,MUMPS,"[JOSS, Speedcoding, Fortran, TELCOMP]","[Caché ObjectScript, Speedcoding]",1966.0
-43,ALGOL W,"[ALGOL 60, PL360]","[Pascal, Modula-2]",1966.0
 39,Edinburgh IMP,[ALGOL 60],,1966.0
 40,Executive Systems Problem Oriented Language,[ALGOL 60],[NEWP],1966.0
-45,BCPL,"[CPL, Babbage]","[B, C, Go, C++]",1967.0
-46,Logo,[Lisp],"[NetLogo, Smalltalk, Etoys, Scratch, Rebol, StarLogo, Ezhil, Kojo, Snap!]",1967.0
-48,CMS-2,"[Fortran, JOVIAL]",,1968.0
-49,Refal,,,1968.0
-50,Аналитик,,,1968.0
-51,TTM,"[GAP, TRAC]",,1968.0
+41,MUMPS,"[TELCOMP, Speedcoding, JOSS, Fortran]",[Caché ObjectScript],1966.0
+42,PL360,,[ALGOL W],1966.0
+43,ALGOL W,"[PL360, ALGOL 60]","[Modula-2, Pascal]",1966.0
+44,APL,,"[Perl Data Language, FP, A+, Self, C++, Nial, Speakeasy, Q, Go, MATLAB, F-Script, Python, S, K, Wolfram Language, J, Futhark]",1966.0
+46,Logo,[Lisp],"[Etoys, Rebol, Smalltalk, Ezhil, Snap!, NetLogo, Scratch, StarLogo, Kojo]",1967.0
+45,BCPL,[CPL],"[Go, C, B, C++]",1967.0
 52,FOCAL,[JOSS],,1968.0
-53,ALGOL 68,[ALGOL 60],"[C, C++, KornShell, Bash, Ada, Python, Seed7, Mary, S3, RTL/2, ELAN, Draco, ABC]",1968.0
+51,TTM,"[GAP, TRAC]",,1968.0
+50,Аналитик,,,1968.0
+48,CMS-2,"[JOVIAL, Fortran]",,1968.0
+53,ALGOL 68,[ALGOL 60],"[Mary, KornShell, C++, ELAN, Seed7, Bash, Python, Draco, ABC, C, RTL/2, Ada, S3]",1968.0
+49,Refal,,,1968.0
 57,TUTOR,,,1969.0
-56,SETL,[ALGOL 60],"[ABC, Rapira, Claire]",1969.0
-54,B,"[BCPL, PL/I, TMG]",[C],1969.0
 55,Planner,,"[Prolog, Smalltalk]",1969.0
-65,DIBOL,"[BASIC, Fortran, COBOL]",,1970.0
-58,Forth,,"[Factor, Joy, PostScript, RPL, Rebol]",1970.0
-59,MATLAB,"[APL, PL/0, Speakeasy]","[Julia, Scilab, Pure]",1970.0
+56,SETL,[ALGOL 60],"[Rapira, Claire, ABC]",1969.0
+54,B,"[TMG, PL/I, BCPL]",[C],1969.0
+65,DIBOL,"[COBOL, BASIC, Fortran]",,1970.0
+58,Forth,[Lisp],"[Rebol, Joy, Factor, RPL, PostScript]",1970.0
+59,MATLAB,"[PL/0, APL]","[Scilab, Pure, Julia]",1970.0
 60,PL/C,[PL/I],,1970.0
-61,Pascal,"[ALGOL W, ALGOL 60]","[Ada, C/AL, Component Pascal, Go, Java, Modula, Modula-2, Modula-3, Oberon, Object Pascal, Oxygene, Seed7, Standard ML, Euclid, COMAL, Plus, Emerald, Draco, Karel, Turing, SISAL, HyperTalk, Wolfram Language, Aldor, Limbo, Charm, OCaml, Cool, Pascal Script, ParaSail, Zonnon, Microsoft Power Fx, KUKA Robot Language]",1970.0
+61,Pascal,"[ALGOL W, ALGOL 60]","[Zonnon, Aldor, Go, Turing, Charm, Pascal Script, Seed7, Draco, C/AL, Cool, Oxygene, Karel, Component Pascal, HyperTalk, Ada, COMAL, Oberon, KUKA Robot Language, Modula, Modula-3, Plus, Euclid, OCaml, Emerald, Microsoft Power Fx, Java, Standard ML, SISAL, ParaSail, Wolfram Language, Modula-2, Limbo, Object Pascal]",1970.0
 62,PLEX,,[Erlang],1970.0
-63,Euclid,[Pascal],"[Mesa, Turing, Modula-2, Modula-3]",1970.0
+63,Euclid,[Pascal],"[Modula-3, Modula-2, Mesa, Turing]",1970.0
 64,BLISS,,,1970.0
+66,MDL,[Lisp],"[Scheme, Prolog, Java, Common Lisp]",1971.0
+67,Babbage,,,1971.0
 68,Mary,[ALGOL 68],,1971.0
-67,Babbage,,[BCPL],1971.0
-66,MDL,[Lisp],"[Planner, Scheme, Common Lisp, Java, Prolog]",1971.0
-69,SAS,,,1972.0
-70,Prolog,"[Planner, MDL]","[Clojure, Datalog, Erlang, Logtalk, Mercury, Oz, Strand, Visual Prolog, XSB, Wolfram Language, Constraint Handling Rules, Go!]",1972.0
-71,Smalltalk,"[Lisp, Simula, Euler, Planner, Logo, AppleScript, Dart, Dylan, Erlang, Etoys, Go, Io, Java, Lasso, Logtalk, Newspeak, NewtonScript, Object REXX, Objective-C, Python, Raku, Ruby, Scala, Scratch, Self, Swift]","[AppleScript, Dart, Dylan, Erlang, Etoys, Go, Io, Java, Lasso, Logtalk, Newspeak, NewtonScript, Object REXX, Objective-C, Python, Raku, Ruby, Scala, Scratch, Self, Swift, COBOL, Emerald, Ada, C++, Object Pascal, Wolfram Language, Claire, Squeak, Strongtalk, Apache Groovy, Orc, AmbientTalk, Pharo, F-Script, Xtend, Ceylon, Snap!]",1972.0
+73,C,"[PL/I, ALGOL 68, Speedcoding, Fortran, BCPL, B, ALGOL 60]","[Ratfor, Cilk, JavaScript, RAPID, Claire, Go, Charm, QuakeC, Seed7, C--, Draco, ECMAScript, Cyclone, Cg, Nim, AWK, PHP, Julia, Perl, Yoix, Rust, newLISP, MIVA Script, PCASTL, Dart, OCaml, Processing, Alef, Chapel, ZPL, eC, PROMAL, Objective-C, Crystal, Vala, D, Ring, Cython, AMPL, Java, SISAL, NWScript, Whiley, C++, Zig, Python, S, Wolfram Language, Limbo]",1972.0
 72,SASL,,"[Miranda, Haskell, Kent Recursive Calculator]",1972.0
-73,C,"[B, ALGOL 68, PL/I, Speedcoding, Fortran, ALGOL 60, BCPL]","[AMPL, AWK, C++, C--, Objective-C, D, Go, Java, JavaScript, Julia, Limbo, Perl, PHP, Processing, Python, Rust, Seed7, Vala, Nim, Zig, Speedcoding, Ratfor, S, Draco, SISAL, PROMAL, Wolfram Language, newLISP, Alef, ZPL, RAPID, Claire, Cilk, Charm, QuakeC, OCaml, MIVA Script, ECMAScript, Yoix, Cyclone, NWScript, eC, Cython, PCASTL, Chapel, Whiley, Dart, Crystal, Ring, Cg]",1972.0
-74,RTL/2,[ALGOL 68],,1972.0
+71,Smalltalk,"[Logo, Simula, Planner, Euler, Lisp]","[Claire, Go, Ruby, Orc, Apache Groovy, Ada, Scala, AppleScript, Swift, Self, Lasso, F-Script, Erlang, Io, Object REXX, Etoys, Dart, NewtonScript, Snap!, Pharo, Raku, Objective-C, Squeak, Emerald, Strongtalk, Logtalk, Java, Newspeak, AmbientTalk, Xtend, Ceylon, C++, Scratch, Dylan, Python, Wolfram Language, Object Pascal]",1972.0
+74,RTL/2,[ALGOL 68],[Charm],1972.0
+69,SAS,,,1972.0
+70,Prolog,"[Planner, MDL]","[Datalog, Go!, Oz, XSB, Visual Prolog, Erlang, Wolfram Language, Strand, Clojure, Logtalk, Constraint Handling Rules, Mercury]",1972.0
 75,Programming Language for Business,[COBOL],,1972.0
+77,ML,[Lisp],"[Claire, F*, Orc, Cyclone, Scala, Caml, Pict, Kotlin, Erlang, Rust, Alice, F Sharp, Elm, Nemerle, OCaml, Bosque, Coq, Miranda, C Sharp, Idris, Clojure, Standard ML, Haskell, ParaSail, Ceylon, C++, Opa, Cool]",1973.0
 76,PL/M,"[PL/I, XPL]",,1973.0
-77,ML,,"[Clojure, Coq, Cyclone, C++, Elm, F*, Haskell, Idris, Kotlin, Miranda, Nemerle, OCaml, Opa, Erlang, Rust, Scala, Standard ML, Caml, Claire, Cool, C Sharp, Alice, Orc, F Sharp, ParaSail, Ceylon, Bosque, Pict]",1973.0
-82,Nord Programming Language,,,1974.0
-78,SP/k,"[PL/I, Turing]",[Turing],1974.0
-79,SQL,"[Datalog, PowerShell]","[PowerShell, ABAP, XQuery, Language Integrated Query]",1974.0
+78,SP/k,[PL/I],[Turing],1974.0
+79,SQL,,"[PowerShell, ABAP, Language Integrated Query, XQuery]",1974.0
 80,ELAN,[ALGOL 68],,1974.0
 81,sed,,"[Perl, AWK]",1974.0
+82,Nord Programming Language,,[PLANC],1974.0
+85,CLU,"[Simula, Lisp, ALGOL 60]","[Swift, C++, Ruby, Python, Argus, Sather, Lua, Java, Ada]",1975.0
+83,Modula,[Pascal],"[ParaSail, Go, Modula-2, Lua, Alma-0]",1975.0
+84,Scheme,"[MDL, Lisp]","[JavaScript, Ruby, ECMAScript, Lua, Game Oriented Assembly Lisp, Common Lisp, Scala, T, Arc, Hop, Pico, GNU Guile, Julia, Joy, Rust, newLISP, Qalb, Source, R, Snap!, Tea, Racket, Clojure, Cadence SKILL, AmbientTalk, Haskell, ISLISP, Q, Dylan, Python, S, Sather, K]",1975.0
 86,bc,,,1975.0
-85,CLU,"[ALGOL 60, Lisp, Simula]","[Ada, Argus, C++, Lua, Python, Ruby, Sather, Swift, Java]",1975.0
 87,COMAL,"[BASIC, Pascal]",,1975.0
-83,Modula,[Pascal],"[Alma-0, Go, Modula-2, Lua, ParaSail]",1975.0
-84,Scheme,"[Lisp, MDL]","[Clojure, Common Lisp, Dylan, Haskell, Hop, JavaScript, Julia, Lua, Python, R, Racket, Ruby, Rust, S, Scala, T, Cadence SKILL, Sather, newLISP, K, GNU Guile, Tea, Pico, ECMAScript, Game Oriented Assembly Lisp, Joy, Q, AmbientTalk, Arc, Snap!, Qalb, Source, ISLISP]",1975.0
-93,Lucid,,"[SISAL, Lustre]",1976.0
-92,KRL,,,1976.0
-91,S,"[C, APL, Fortran, Scheme]",,1976.0
+91,S,"[C, Scheme, APL, Fortran]",[R],1976.0
+90,Mesa,[Euclid],"[Modula-3, C++, Modula-2, Java, PostScript]",1976.0
 94,Lisp Machine Lisp,[Lisp],[Common Lisp],1976.0
+88,Ratfor,"[C, Speedcoding, Fortran]",,1976.0
+92,KRL,,,1976.0
 89,Plus,[Pascal],,1976.0
-88,Ratfor,"[Fortran, C, Speedcoding]",,1976.0
-90,Mesa,,"[Java, Modula-2, PostScript, C++, Modula-3]",1976.0
-96,IDL,,,1977.0
-97,FP,[APL],"[FL, Haskell, Joy]",1977.0
-98,UCSD Pascal,,,1977.0
+93,Lucid,,"[SISAL, Lustre]",1976.0
+102,AWK,"[SNOBOL, C, sed]","[Tcl, JavaScript, Lua, Perl, ECMAScript, AMPL]",1977.0
 99,m4,,,1977.0
-101,Icon,[SNOBOL],"[Unicon, Python, SNOBOL, C Sharp]",1977.0
-102,AWK,"[C, sed, SNOBOL]","[Tcl, AMPL, Perl, Lua, SNOBOL, JavaScript, ECMAScript]",1977.0
-104,C shell,,,1978.0
-106,Control Language,"[Job Control Language, PL/I]",,1978.0
+98,UCSD Pascal,,[Java],1977.0
+101,Icon,[SNOBOL],"[Python, Unicon, C Sharp]",1977.0
+96,IDL,[Fortran],[Perl Data Language],1977.0
+97,FP,[APL],"[Haskell, FL, Joy]",1977.0
 103,TeX,,,1978.0
-105,Modula-2,"[Modula, Mesa, Pascal, ALGOL W, Euclid]","[Modula-3, Oberon, Ada, Lua, Seed7, Zonnon, C++, Alma-0, Go]",1978.0
-108,Rexx,"[PL/I, EXEC 2]","[NetRexx, Object REXX]",1979.0
-107,dBase,,"[Clipper, FoxPro, Visual FoxPro, Harbour]",1979.0
-109,CHILL,[COBOL],,1980.0
+104,C shell,,,1978.0
+105,Modula-2,"[Euclid, ALGOL W, Modula, Mesa, Pascal]","[Zonnon, C++, Alma-0, Go, Oberon, Seed7, Lua, Modula-3, Ada]",1978.0
+106,Control Language,"[Job Control Language, PL/I]",,1978.0
+107,dBase,,"[Clipper, FoxPro, Harbour, Visual FoxPro]",1979.0
+108,Rexx,"[EXEC 2, PL/I]","[NetRexx, Object REXX]",1979.0
+114,Ada,"[Smalltalk, ALGOL 68, Modula-2, CLU, ALGOL 60, Pascal]","[PL/SQL, ParaSail, Nim, Eiffel, C++, Chapel, Ruby, Seed7, SPARK, D, Python, Java]",1980.0
+113,Franz Lisp,[Lisp],,1980.0
+112,Emerald,"[Simula, Smalltalk, Pascal]",[Java],1980.0
+115,Draco,"[ALGOL 68, C, Pascal]",,1980.0
 110,SMALL,,,1980.0
 111,Fjölnir,,,1980.0
-112,Emerald,"[Pascal, Simula, Smalltalk]",[Java],1980.0
-113,Franz Lisp,"[Lisp, Common Lisp]",,1980.0
-114,Ada,"[ALGOL 68, Pascal, C++, Smalltalk, Modula-2, Java, Eiffel, ALGOL 60, CLU]","[C++, Chapel, D, Eiffel, Java, Nim, ParaSail, PL/SQL, Python, Ruby, Seed7, SPARK]",1980.0
-115,Draco,"[ALGOL 68, Pascal, C]",,1980.0
+109,CHILL,[COBOL],,1980.0
+116,Microsoft Macro Assembler,,,1981.0
+117,Nial,"[APL, Lisp]",,1981.0
 118,Karel,[Pascal],,1981.0
 119,Kent Recursive Calculator,[SASL],[Miranda],1981.0
-117,Nial,"[APL, Lisp]",,1981.0
-116,Microsoft Macro Assembler,,,1981.0
-126,Maple,,,1982.0
 120,Janus (time-reversible computing programming language),,,1982.0
-121,Rapira,"[POP-2, SETL]",,1982.0
+121,Rapira,[SETL],,1982.0
 122,T,[Scheme],[Joule],1982.0
-123,PostScript,"[Mesa, Forth]",,1982.0
-124,Turing,"[Euclid, Pascal, SP/k]",,1982.0
+123,PostScript,"[Forth, Mesa]",[Yoix],1982.0
+124,Turing,"[SP/k, Euclid, Pascal]",,1982.0
 125,Maxima,,,1982.0
-132,occam,,"[Ease, Go, Python, occam-π]",1983.0
+126,Maple,,[Darwin],1982.0
+133,Standard ML,"[ML, Hope, Pascal]","[Elm, Scala, Haskell, OCaml, F*, Python, Rust, Futhark]",1983.0
 135,Prograph,,,1983.0
-131,SISAL,"[Pascal, C, Fortran, Lucid]",[Haskell],1983.0
-133,Standard ML,"[ML, Hope, Pascal, Elm, F*, Haskell, OCaml, Python, Rust, Scala]","[Elm, F*, Haskell, OCaml, Python, Rust, Scala, Futhark]",1983.0
+131,SISAL,"[Lucid, C, Fortran, Pascal]",[Haskell],1983.0
 130,Superbase,,,1983.0
-128,KornShell,,,1983.0
-127,ABAP,"[Objective-C, COBOL, SQL]",,1983.0
+132,occam,,"[occam-π, Ease, Python, Go]",1983.0
+128,KornShell,[ALGOL 68],,1983.0
+127,ABAP,"[COBOL, SQL]",,1983.0
 129,Action!,,,1983.0
 136,Open Programming Language,,,1984.0
 137,PROMAL,[C],,1984.0
-138,Orwell,[Miranda],[Haskell],1984.0
-139,Common Lisp,"[Lisp, Lisp Machine Lisp, Scheme, MDL]","[Clojure, Dylan, Emacs Lisp, ISLISP, Julia, R, Franz Lisp, Cadence SKILL, Sather, newLISP, Scala, Hy]",1984.0
-140,Objective-C,"[C, Smalltalk]","[Java, Nu, Swift, Smalltalk, ABAP, Logtalk, Cobra]",1984.0
+138,Orwell,,[Haskell],1984.0
+139,Common Lisp,"[Lisp Machine Lisp, Scheme, MDL, Lisp]","[Scala, Hy, R, Emacs Lisp, ISLISP, newLISP, Julia, Dylan, Sather, Clojure, Cadence SKILL]",1984.0
+140,Objective-C,"[C, Smalltalk]","[Swift, Cobra, Java, Nu, Logtalk]",1984.0
 141,RPL,"[Forth, Lisp]",,1984.0
-147,Emacs Lisp,[Common Lisp],,1985.0
-149,Miranda,"[ML, SASL, Hope, Kent Recursive Calculator]","[Clean, Haskell, Orwell, Microsoft Power Fx]",1985.0
+149,Miranda,"[SASL, ML, Kent Recursive Calculator, Hope]","[Microsoft Power Fx, Haskell, Clean]",1985.0
 148,AMPL,"[AWK, C]",,1985.0
+147,Emacs Lisp,[Common Lisp],,1985.0
 146,Stata,,,1985.0
-145,Clipper,,,1985.0
 142,Caml,[ML],[OCaml],1985.0
-143,C++,"[Ada, ALGOL 68, BCPL, C, CLU, ML, Mesa, Modula-2, Simula, Smalltalk, APL]","[Chapel, Clojure, D, Java, Lua, Nim, Perl, PHP, Python, Rust, Seed7, COBOL, Ada, Wolfram Language, GNU E, Ruby, MIVA Script, C Sharp, AngelScript, Squirrel, eC, X10, Haxe, Vala, Umple, Dart, Zig, Carbon, Solidity]",1985.0
-144,CLIPS,,,1985.0
-160,Eiffel,"[Ada, Simula]","[D, Java, Racket, Ruby, Sather, Scala, COBOL, Ada, C Sharp, Cobra, SPARK]",1986.0
+144,CLIPS,[Lisp],,1985.0
+143,C++,"[Smalltalk, Simula, Mesa, ALGOL 68, Modula-2, BCPL, CLU, C, ML, APL, Ada]","[Ruby, Seed7, GNU E, Lua, Nim, PHP, Haxe, Perl, Solidity, Rust, MIVA Script, Carbon, Dart, Chapel, eC, Vala, D, C Sharp, Squirrel, AngelScript, Clojure, Java, Zig, Python, Wolfram Language, Umple, X10]",1985.0
+145,Clipper,[dBase],[Harbour],1985.0
 161,Clarion,,,1986.0
-162,Object Pascal,"[Pascal, Simula, Smalltalk]","[Genie, Java, Nim, C/AL, C Sharp, Pascal Script]",1986.0
-159,Datalog,[Prolog],,1986.0
 158,Csound,,,1986.0
+160,Eiffel,"[Simula, Ada]","[Scala, Ruby, Cobra, Sather, D, Racket, C Sharp, SPARK, Java]",1986.0
+159,Datalog,[Prolog],[.QL],1986.0
+162,Object Pascal,"[Simula, Smalltalk, Pascal]","[Nim, Pascal Script, C/AL, C Sharp, Java, Genie]",1986.0
 157,LabVIEW,,,1986.0
+153,Erlang,"[Smalltalk, Lisp, ML, Prolog, PLEX]","[Scala, Dart, Fantom, Elixir, Oz, Rust, Go, Opa, Clojure, F Sharp]",1986.0
 152,AutoLISP,[Lisp],,1986.0
-153,Erlang,"[Lisp, PLEX, Prolog, Smalltalk, ML]","[Clojure, Dart, Elixir, Opa, Oz, Rust, Scala, Go, Smalltalk, F Sharp, Fantom]",1986.0
 151,IBM Informix-4GL,,,1986.0
 150,CMS Pipelines,,,1986.0
 156,CorVision,[Inform],,1986.0
-167,HyperTalk,[Pascal],"[ActionScript, AppleScript, ECMAScript, JavaScript, Lingo, LiveCode, SenseTalk, SuperTalk]",1987.0
-168,Clean,"[Lean, Miranda, Haskell]","[Haskell, Idris]",1987.0
-169,ABC,"[SETL, ALGOL 68]",[Python],1987.0
-166,Perl,"[AWK, BASIC, C, C++, Lisp, sed, Raku]","[CoffeeScript, JavaScript, Julia, PHP, Python, Raku, Ruby, PowerShell, newLISP, Perl Data Language, MIVA Script, ECMAScript, BeanShell]",1987.0
+164,Oberon,"[Modula-2, Pascal]","[Zonnon, Nim, Go, Java, Obliq, Modula-3, Component Pascal]",1987.0
+165,Self,"[APL, Smalltalk]","[Rebol, Obliq, AmbientTalk, NewtonScript, JavaScript, ECMAScript, Squeak, Factor, Io, Agora, Strongtalk, Lua, Newspeak]",1987.0
+166,Perl,"[AWK, C++, BASIC, Lisp, C, sed]","[Perl Data Language, CoffeeScript, BeanShell, JavaScript, PHP, Julia, Raku, Ruby, PowerShell, ECMAScript, Python, newLISP, MIVA Script]",1987.0
+167,HyperTalk,[Pascal],"[AppleScript, ActionScript, SuperTalk, JavaScript, LiveCode, ECMAScript, Lingo, SenseTalk]",1987.0
+168,Clean,[Miranda],"[Haskell, Idris]",1987.0
+169,ABC,"[ALGOL 68, SETL]",[Python],1987.0
 170,C*,[Lisp],,1987.0
-164,Oberon,"[Modula-2, Pascal]","[Component Pascal, Zonnon, Go, Nim, Modula-3, Obliq, Java]",1987.0
-165,Self,"[Smalltalk, APL]","[NewtonScript, JavaScript, Io, Agora, Squeak, Lua, Factor, Smalltalk, Obliq, Rebol, ECMAScript, Strongtalk, Newspeak, AmbientTalk]",1987.0
-171,Wolfram Language,"[APL, C, C++, Lisp, Pascal, Prolog, Simula, Smalltalk]","[Clojure, Julia]",1988.0
-179,Modula-3,"[Euclid, Mesa, Modula-2, Oberon, Pascal]","[Java, Nim, OCaml, Rust, Python, Obliq, C Sharp]",1988.0
-175,Napier88,[ALGOL 60],,1988.0
-174,PicoLisp,,,1988.0
-173,Object REXX,"[Rexx, Smalltalk]","[NetRexx, Smalltalk]",1988.0
-172,Tcl,"[AWK, Lisp]","[PHP, PowerShell, Tea, XOTcl]",1988.0
-176,TADS,,,1988.0
+178,A+,[APL],"[Q, K]",1988.0
 177,Hamilton C shell,,,1988.0
-178,A+,[APL],"[K, Q]",1988.0
+176,TADS,,,1988.0
+175,Napier88,[ALGOL 60],,1988.0
+179,Modula-3,"[Euclid, Oberon, Modula-2, Mesa, Pascal]","[OCaml, Nim, Python, C Sharp, Obliq, Rust, Java]",1988.0
+173,Object REXX,"[Rexx, Smalltalk]",[NetRexx],1988.0
+172,Tcl,"[AWK, Lisp]","[PowerShell, Tea, PHP, XOTcl]",1988.0
+171,Wolfram Language,"[Smalltalk, C++, Simula, Lisp, C, Prolog, APL, Pascal]","[Clojure, Julia]",1988.0
+174,PicoLisp,,,1988.0
 180,rc,,,1989.0
 181,FL,[FP],,1989.0
-182,Coq,,,1989.0
+182,Coq,[ML],"[F*, Idris, Agda]",1989.0
 183,SequenceL,,,1989.0
-184,rc,,,1989.0
-185,Bash,,,1989.0
-194,Janus (concurrent constraint programming language),,,1990.0
-195,J,[APL],[SuperCollider],1990.0
-193,Sather,"[Eiffel, CLU, Common Lisp, Scheme]",[Cool],1990.0
-192,Haskell,"[Clean, FP, Lisp, Miranda, Orwell, SASL, Scheme, SISAL, ML, Standard ML, Raku]","[Agda, Clean, Clojure, CoffeeScript, Curry, Elm, Epigram, Escher, Hack, Idris, LiveScript, Mercury, PureScript, Python, Raku, Rust, Scala, Swift, Standard ML, Aldor, C Sharp, Orc, F Sharp, Fortress, Pure, Futhark, Flix, Language Integrated Query]",1990.0
-191,AMOS,,,1990.0
-189,Rational Synergy,,,1990.0
-188,Aldor,"[Pascal, Haskell]",,1990.0
-187,Escher,,,1990.0
-186,Cadence SKILL,"[Scheme, Common Lisp]",,1990.0
-190,Z shell,,,1990.0
-202,GNU E,[C++],,1991.0
-206,Oriel,,,1991.0
-204,KiXtart,,,1991.0
-203,Oz,"[Erlang, Lisp, Prolog]","[Alice, Scala, Orc]",1991.0
-201,Python,"[ABC, Ada, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp, Modula-3, Perl, Standard ML, Apache Groovy, Boo, Cobra, CoffeeScript, D, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift, Smalltalk, Scheme, occam, Java]","[Apache Groovy, Boo, Cobra, CoffeeScript, D, Genie, Go, JavaScript, Julia, Nim, Ring, Ruby, Swift, Smalltalk, Standard ML, ECMAScript, Io, Squirrel, eC, Haxe, F Sharp, PowerShell, Ezhil, Cython, Whiley, Crystal, Q Sharp, Solidity]",1991.0
-205,Constraint Handling Rules,[Prolog],,1991.0
-199,Vim,,,1991.0
-198,POV-Ray,,,1991.0
-197,Ease,[occam],,1991.0
-196,Darwin,[Maple],,1991.0
-200,newLISP,"[C, Common Lisp, Perl, Scheme]",,1991.0
-211,ProvideX,,,1992.0
-207,Cecil,,,1992.0
-208,Dylan,"[Scheme, Lisp, Smalltalk, Common Lisp]","[Lasso, Python, Smalltalk, NewtonScript, Ruby, Julia]",1992.0
-209,Gödel,,,1992.0
-210,SenseTalk,[HyperTalk],,1992.0
-212,PowerBuilder,,,1992.0
-213,Alef,[C],"[Limbo, Rust, Go]",1992.0
-216,R,"[Lisp, S, Scheme, Common Lisp]","[Julia, PCASTL]",1993.0
-225,GNU Guile,"[Lisp, Scheme]",,1993.0
-217,Obliq,"[Modula-3, Self, Oberon]",,1993.0
-224,Euphoria,[BASIC],,1993.0
-223,K,"[A+, APL, Scheme]",[Q],1993.0
-221,ZPL,[C],[Chapel],1993.0
-222,Lua,"[C++, CLU, Modula, Scheme, SNOBOL, Lisp, AWK, Modula-2, Self]","[Io, JavaScript, Julia, Red, Ring, Ruby, Squirrel, C--, SNOBOL, Haxe]",1993.0
-219,NESL,,,1993.0
-218,GNU Octave,,,1993.0
-214,AppleScript,"[HyperTalk, Smalltalk]",,1993.0
-215,NewtonScript,"[Self, Dylan, Smalltalk]","[Io, Smalltalk]",1993.0
-220,CFEngine,,,1993.0
-228,Claire,"[Smalltalk, SETL, OPS5, Lisp, ML, C]",,1994.0
-226,RAPID,[C],,1994.0
-227,ORCA/Modula-2,,,1994.0
-229,Cilk,[C],,1994.0
-234,Limbo,"[C, Pascal, Alef]","[Go, Rust]",1995.0
-235,Racket,"[Eiffel, Scheme]",[Clojure],1995.0
-238,PHP,"[Perl, C, C++, Java, Tcl, JavaScript, Hack]","[Hack, Haxe, Umple]",1995.0
-237,Lasso,"[Dylan, Smalltalk, Scala]",,1995.0
-239,Ruby,"[Ada, C++, CLU, Dylan, Eiffel, Lisp, Lua, Perl, Python, Smalltalk, Scheme]","[Clojure, CoffeeScript, Crystal, D, Elixir, Julia, Mirah, Nu, Ring, Rust, Swift, Smalltalk, Python, Apache Groovy, Fantom, Umple, Dart, Raku]",1995.0
-236,Mercury,"[Prolog, Hope, Haskell]",,1995.0
-233,Adobe ColdFusion,,,1995.0
-231,mIRC scripting language,,,1995.0
-230,Java,"[CLU, Lisp, Smalltalk, C++, Eiffel, Mesa, Modula-3, Oberon, Objective-C, UCSD Pascal, Object Pascal, Pascal, MDL, C, Emerald, Ada, C Sharp]","[BeanShell, Chapel, Clojure, ECMAScript, Fantom, Hack, Haxe, Kotlin, PHP, Python, Scala, Seed7, Vala, JavaScript, Smalltalk, Ada, NetRexx, MIVA Script, Cool, E, Tea, ActionScript, C Sharp, Yoix, Join Java, D, NWScript, Apache Groovy, X10, OptimJ, Umple, Whiley, Dart, Xtend, Ceylon, TypeScript, Ballerina, Gosu, Mirah, Pizza]",1995.0
-232,JavaScript,"[Java, Scheme, Self, AWK, HyperTalk, Lisp, C, Perl, Python, Lua, CoffeeScript]","[ActionScript, CoffeeScript, Dart, Haxe, Opa, TypeScript, Python, PHP, Curl, BeanShell, Squirrel, LiveScript, PureScript, Raku, Zig, Source, Bosque, Script.NET, Solidity]",1995.0
-252,Autodesk 3ds Max,,,1996.0
-255,Cool,"[Java, ML, Pascal, Sather]",,1996.0
-246,Perl Data Language,"[APL, IDL, Perl]",,1996.0
-245,Squeak,"[Smalltalk, Lisp, Etoys, Scratch, Self]","[Etoys, Scratch]",1996.0
-244,Etoys,"[Logo, Smalltalk, StarLogo, Squeak]","[Scratch, Smalltalk, Squeak, StarLogo]",1996.0
-243,Yorick,,,1996.0
-242,Charm,"[RTL/2, C, Pascal]",,1996.0
-241,Joule,,[E],1996.0
-240,LilyPond,,,1996.0
-256,SuperCollider,,,1996.0
-253,DRAKON,,,1996.0
-254,MIVA Script,"[C, Perl, Java, C++]",,1996.0
-249,OCaml,"[C, Caml, Modula-3, Pascal, Standard ML, ML]","[Coq, Elm, F*, Haxe, Opa, Rust, Scala, Standard ML, F Sharp, Boomerang, Hack, Flix]",1996.0
-250,JScript,,,1996.0
-251,Netwide Assembler,,,1996.0
-248,QuakeC,[C],,1996.0
-247,NetRexx,"[PL/I, Java, Rexx, Object REXX]",,1996.0
-257,Alma-0,"[Modula-2, Modula]",,1997.0
-265,Component Pascal,"[Pascal, Oberon]",,1997.0
-258,E,"[Joule, Java]",,1997.0
-259,Caché ObjectScript,[MUMPS],,1997.0
-260,C--,"[C, Lua]",,1997.0
-261,Modelica,,,1997.0
-262,Tea,"[Tcl, Java, Scheme]",,1997.0
-263,Rebol,"[Self, Forth, Lisp, Logo]",[Red],1997.0
-264,Pico,[Scheme],,1997.0
-266,LISA,,,1997.0
-267,ECMAScript,"[Self, HyperTalk, AWK, C, CoffeeScript, Perl, Python, Java, Scheme]",,1997.0
-271,Malbolge,,,1998.0
-270,ActionScript,"[JavaScript, Java, HyperTalk]","[Haxe, TypeScript]",1998.0
-268,XSLT,,,1998.0
-272,Curl,"[JavaScript, Lisp]",,1998.0
-269,Logtalk,"[Prolog, Smalltalk, Objective-C]",,1998.0
-277,AutoIt,[BASIC],,1999.0
-276,GameMaker,,,1999.0
-275,BeanShell,"[Java, JavaScript, Perl]",,1999.0
-273,Harbour,"[dBase, Clipper]",[xHarbour],1999.0
-274,NetLogo,"[Logo, StarLogo]",,1999.0
-284,Join Java,[Java],,2000.0
-283,Alice,"[ML, Oz]",,2000.0
-282,Nullsoft Scriptable Install System,,,2000.0
-281,Yoix,"[C, Java, PostScript]",,2000.0
-279,C Sharp,"[C++, Eiffel, Haskell, Icon, Java, ML, Modula-3, Object Pascal]","[Chapel, Clojure, Crystal, D, Dart, Hack, Java, Kotlin, Nemerle, Oxygene, Rust, Swift, Vala, TypeScript]",2000.0
-278,XOTcl,[Tcl],,2000.0
-280,Pascal Script,"[Pascal, Object Pascal]",,2000.0
-285,D,"[C, C++, Eiffel, Java, Python, Ada, Ruby, C Sharp]","[Genie, Swift, Vala, Go, Python]",2001.0
-286,LiveCode,,,2001.0
-287,Ch,,,2001.0
-289,Game Oriented Assembly Lisp,"[Lisp, Scheme]",,2001.0
-290,Jython,,,2001.0
-291,Processing,,,2001.0
-292,Joy,"[Scheme, FP, Forth]",[Factor],2001.0
-294,StarLogo,"[Logo, NetLogo, Etoys]","[NetLogo, Etoys, Scratch]",2001.0
-300,Cyclone,"[C, ML]","[Rust, Project Verona]",2002.0
-299,Strongtalk,"[Smalltalk, Self]",,2002.0
-298,FAUST,,,2002.0
-301,NWScript,"[C, Java]",,2002.0
-296,Io,"[Smalltalk, NewtonScript, Self, Lua, Lisp, Python]",,2002.0
-295,Visual J Sharp,,,2002.0
-297,Hollywood,,,2002.0
-310,Apache Groovy,"[Java, Python, Ruby, Smalltalk]","[Kotlin, Python]",2003.0
-592,Pict,[ML],[Orc],2003.0
-315,Boo,[Python],"[Genie, Vala, Python, Mirah]",2003.0
-314,Squirrel,"[C++, JavaScript, Lua, Python]",,2003.0
-313,AutoHotkey,,,2003.0
-312,Second Life,,,2003.0
-311,Go!,[Prolog],,2003.0
-309,Q,"[A+, APL, Scheme, K]",,2003.0
-302,Factor,"[Joy, Forth, Lisp, Self]",,2003.0
-307,Nix,,,2003.0
-308,ChucK,,,2003.0
-595,Pizza,[Java],[Scala],2003.0
-303,Sawzall,,,2003.0
-494,Gosu,[Java],[Kotlin],2003.0
-305,AngelScript,[C++],,2003.0
-306,Scratch,"[Logo, Smalltalk, StarLogo, Etoys, Squeak]","[Snap!, Smalltalk, Squeak]",2003.0
-304,Nemerle,"[Lisp, ML, C Sharp]",,2003.0
-316,Little b,[Lisp],,2004.0
-317,eC,"[C, C++, Python]",,2004.0
-318,Epigram,,"[Agda, Idris]",2004.0
-319,Easy Programming Language,,,2004.0
-320,A Sharp,,,2004.0
-321,X10,"[C++, Java]",,2004.0
-322,Scala,"[Common Lisp, Eiffel, Erlang, Haskell, Java, OCaml, Oz, Pizza, Scheme, Smalltalk, Standard ML, Lisp, ML]","[Ceylon, Fantom, Kotlin, Lasso, Red, Flix, Smalltalk, Standard ML, F Sharp, Fortress, Xtend, Hack]",2004.0
-323,Orc,"[Haskell, ML, Oz, Smalltalk, Pict]",,2004.0
-333,Oxygene,,,2005.0
-332,Fantom,"[Java, Scala, Ruby, Erlang]",,2005.0
-331,NekoVM,,,2005.0
-330,F Sharp,"[Erlang, Haskell, ML, OCaml, Python, Scala]","[Elm, F*, LiveScript]",2005.0
-329,fish,,,2005.0
-327,PLEXIL,,,2005.0
-325,Seed7,"[Pascal, Modula-2, Ada, ALGOL 68, C, C++, Java]",,2005.0
-324,PWCT,,,2005.0
-328,Haxe,"[OCaml, Java, JavaScript, C++, PHP, Python, Lua, ActionScript, NekoVM]",,2005.0
-326,TempleOS,,,2005.0
-334,Vala,"[C, C++, D, Java, Boo, C Sharp]",,2006.0
-335,Cobra,"[Python, Eiffel, Objective-C]",,2006.0
-336,Fortress,"[Fortran, Scala, Haskell]",,2006.0
-337,OptimJ,[Java],,2006.0
-338,Newspeak,"[Smalltalk, Self, BETA, E]",,2006.0
-339,Hop,[Scheme],,2006.0
-340,AmbientTalk,"[Smalltalk, Self, Scheme, E]",,2006.0
-341,PowerShell,"[Python, Perl, SQL, Tcl]",,2006.0
-342,Swift,,"[Cuneiform, Smalltalk, Python, Rust]",2007.0
-343,XQuery,"[SQL, XSLT]",,2007.0
-344,Lite-C,,,2007.0
-349,Nu,"[Lisp, Objective-C, Ruby]",,2007.0
-346,Ezhil,"[Logo, BASIC, Python]",,2007.0
-352,.QL,[Datalog],,2007.0
-351,Agda,"[Coq, Epigram, Haskell]",[Idris],2007.0
-350,Idris,"[Agda, Clean, Coq, Epigram, Haskell, ML, Rust]",,2007.0
-345,Grasshopper 3D,,,2007.0
-347,Cython,"[C, Python]",,2007.0
-348,Clojure,"[C++, Common Lisp, Erlang, Haskell, Java, ML, Prolog, Racket, Ruby, Scheme, Wolfram Language, C Sharp]","[Elixir, Hy]",2007.0
-353,Arc,"[Lisp, Scheme]",,2008.0
-354,Genie,"[Python, Boo, D, Object Pascal]",,2008.0
-355,Apache Pig,,,2008.0
-356,Umple,"[Java, C++, Ruby, PHP]",,2008.0
-357,Boomerang,[OCaml],[XSLT],2008.0
-358,Nim,"[Ada, Modula-3, Lisp, C++, Object Pascal, Python, Oberon, Rust, C, ParaSail]",,2008.0
-359,PCASTL,"[C, R]",,2008.0
-360,Pure,"[Q, Haskell, Lisp, Alice, MATLAB]",,2008.0
-361,Pharo,[Smalltalk],,2008.0
-368,OpenCL,,,2009.0
-370,Axum,,,2009.0
-369,Chapel,"[Ada, C, Fortran, C++, Java, ZPL, C Sharp]",,2009.0
-366,F-Script,"[Smalltalk, APL]",,2009.0
-365,Go,"[C, Limbo, Pascal, Oberon, Smalltalk, Modula-2, Alef, APL, BCPL, Modula, occam, Erlang, Python, D]","[Crystal, Zig, Smalltalk, Python, Ballerina, Flix]",2009.0
-367,ParaSail,"[Modula, Ada, Pascal, ML]",[Nim],2009.0
-364,Kodu Game Lab,,,2009.0
-363,Google Apps Script,,,2009.0
-362,CoffeeScript,"[Haskell, JavaScript, Perl, Python, Ruby]","[LiveScript, JavaScript, Python, ECMAScript]",2009.0
-371,Rust,"[Alef, C++, Cyclone, Erlang, Haskell, Limbo, OCaml, Ruby, Scheme, Standard ML, Swift, C, ML, Modula-3, C Sharp]","[Idris, Swift, Project Verona, Zig, Standard ML, Nim, Whiley, Crystal, Ballerina, Carbon]",2010.0
-372,App Inventor for Android,,,2010.0
-373,Kojo,"[Logo, Processing]",,2010.0
-374,Catrobat,,,2010.0
-375,Whiley,"[Java, C, Python, Rust]",,2010.0
-383,Opa,"[OCaml, Erlang, JavaScript, ML]",,2011.0
-382,Kotlin,,,2011.0
-381,Snap!,"[Scratch, Scheme, Logo, Smalltalk]",,2011.0
-380,LiveScript,"[JavaScript, Haskell, CoffeeScript, F Sharp]",,2011.0
-379,Red,"[Rebol, Scala, Lua]",,2011.0
-378,Ceylon,"[Java, Scala, Smalltalk, ML, Lisp, Whiley]",,2011.0
-376,Dart,"[C, C++, Erlang, Java, JavaScript, Ruby, Smalltalk, Strongtalk, TypeScript, C Sharp]",,2011.0
-384,Kivy,,,2011.0
-377,Xtend,"[Java, Scala, Smalltalk]",,2011.0
-388,P,,,2012.0
-389,M Sharp,,,2012.0
-387,Julia,"[C, Dylan, Lisp, Lua, Wolfram Language, MATLAB, Perl, Python, R, Ruby, Scheme, Common Lisp]",,2012.0
-392,Qalb,[Scheme],,2012.0
-390,Golo,,,2012.0
-393,Halide,,,2012.0
-391,Blockly,,,2012.0
-394,TypeScript,"[Java, JavaScript, ActionScript, C Sharp]",,2012.0
-385,Elixir,"[Clojure, Erlang, Ruby, Lisp]",,2012.0
-386,Elm,"[Haskell, Standard ML, OCaml, ML, F Sharp]",,2012.0
-400,Lean,,,2013.0
-395,PureScript,"[Haskell, JavaScript]",,2013.0
-396,P4,,,2013.0
-397,Hy,"[Clojure, Common Lisp]",,2013.0
-398,Zonnon,"[Oberon, Pascal, Modula-2]",,2013.0
-399,Cuneiform,[Swift],,2013.0
-401,Crystal,"[Ruby, C, Rust, Go, Python, C Sharp]",,2014.0
-405,Godot,,,2014.0
-404,Swift,"[Objective-C, Rust, Haskell, Ruby, Python, CLU, D]",[Rust],2014.0
-403,Futhark,"[APL, Haskell, NESL, Standard ML]",,2014.0
-402,Hack,"[PHP, OCaml, Java, Scala, Haskell, C Sharp]",,2014.0
-406,Raku,"[Perl, Ruby, Smalltalk, Haskell, JavaScript]","[Perl, Haskell, Smalltalk]",2015.0
-407,Ethereum,,,2015.0
-414,Ring,"[Lua, Python, Ruby, C, BASIC]",,2016.0
-413,Reason,,,2016.0
-412,XOD,,,2016.0
-411,Zig,"[C, C++, Go, Rust, JavaScript]",,2016.0
-418,WebAssembly,,,2017.0
-417,Ballerina,"[Java, Go, Rust]",,2017.0
-416,Source,"[JavaScript, Scheme]",,2017.0
-415,Q Sharp,[Python],,2017.0
-420,Project Verona,"[Rust, Cyclone]",,2019.0
-419,Bosque,"[JavaScript, TypeScript, ML]",,2019.0
-421,Microsoft Power Fx,"[Pascal, Miranda]",,2021.0
-477,F*,"[Coq, Lean, OCaml, Standard ML, ML, F Sharp]",,2024.0
-449,Cg,[C],,2024.0
-444,Carbon,"[C++, Rust]",,2024.0
-443,C/AL,"[Pascal, Object Pascal]",,2024.0
-688,XSB,[Prolog],,2024.0
-441,BETA,[Simula],,2024.0
-510,ISLISP,"[Common Lisp, Scheme]",,2024.0
-639,SPARK,"[Ada, Eiffel]",,2024.0
-525,KUKA Robot Language,[Pascal],,2024.0
-664,Unicon,[Icon],,2024.0
-536,Language Integrated Query,"[SQL, Haskell]",,2024.0
-601,PLANC,[Nord Programming Language],,2024.0
-581,occam-π,[occam],,2024.0
-620,S3,[ALGOL 68],,2024.0
-571,NEWP,[Executive Systems Problem Oriented Language],,2024.0
-628,Script.NET,[JavaScript],,2024.0
-561,Mirah,"[Ruby, Java, Boo]",,2024.0
-637,Solidity,"[JavaScript, C++, Python]",,2024.0
-520,JScript .NET,"[JScript, ECMAScript]",,2024.0
-481,Flix,"[Go, Haskell, OCaml, Scala]",,2024.0
+184,Bash,[ALGOL 68],,1989.0
+194,J,[APL],[SuperCollider],1990.0
+193,Janus (concurrent constraint programming language),,,1990.0
+192,Sather,"[Eiffel, Scheme, CLU, Common Lisp]",[Cool],1990.0
+191,Haskell,"[FP, SASL, SISAL, Orwell, Miranda, Standard ML, Scheme, Lisp, ML, Clean]","[Escher, Language Integrated Query, Aldor, Orc, Scala, Flix, Swift, Hack, Rust, Futhark, F Sharp, Elm, CoffeeScript, LiveScript, Epigram, Raku, Pure, C Sharp, Idris, Clojure, Mercury, PureScript, Fortress, Python, Agda, Curry]",1990.0
+190,AMOS,,,1990.0
+187,Aldor,"[Haskell, Pascal]",,1990.0
+188,Rational Synergy,,,1990.0
+186,Escher,[Haskell],,1990.0
+185,Cadence SKILL,"[Scheme, Common Lisp]",,1990.0
+189,Z shell,,,1990.0
+205,Oriel,,,1991.0
+197,POV-Ray,,,1991.0
+202,Oz,"[Erlang, Prolog, Lisp]","[Scala, Orc, Alice]",1991.0
+201,GNU E,[C++],,1991.0
+200,Python,"[Haskell, Smalltalk, occam, C++, ALGOL 68, Perl, Scheme, Icon, CLU, ABC, Lisp, C, Modula-3, APL, Ada, Standard ML]","[JavaScript, Ezhil, Go, PowerShell, Ruby, ECMAScript, Apache Groovy, Swift, Nim, Q Sharp, Haxe, Julia, Solidity, Io, F Sharp, CoffeeScript, eC, Boo, Crystal, Cobra, D, Ring, Squirrel, Cython, Whiley, Genie]",1991.0
+199,newLISP,"[Perl, C, Scheme, Common Lisp]",,1991.0
+196,Ease,[occam],,1991.0
+198,Vim,,,1991.0
+203,KiXtart,,,1991.0
+204,Constraint Handling Rules,[Prolog],,1991.0
+195,Darwin,[Maple],,1991.0
+206,Cecil,,,1992.0
+207,Dylan,"[Scheme, Smalltalk, Lisp, Common Lisp]","[Ruby, Julia, NewtonScript, Lasso]",1992.0
+208,Gödel,,,1992.0
+209,SenseTalk,[HyperTalk],,1992.0
+210,ProvideX,,,1992.0
+211,PowerBuilder,,,1992.0
+212,Alef,[C],"[Go, Rust, Limbo]",1992.0
+223,Euphoria,[BASIC],,1993.0
+214,NewtonScript,"[Dylan, Smalltalk, Self]",[Io],1993.0
+222,K,"[Scheme, A+, APL]",[Q],1993.0
+216,Obliq,"[Modula-3, Self, Oberon]",,1993.0
+217,GNU Octave,,,1993.0
+218,NESL,,[Futhark],1993.0
+219,CFEngine,,,1993.0
+224,GNU Guile,"[Scheme, Lisp]",,1993.0
+220,ZPL,[C],[Chapel],1993.0
+221,Lua,"[Self, C++, AWK, SNOBOL, Scheme, Modula, Modula-2, CLU, Lisp]","[JavaScript, Red, Haxe, Julia, Ruby, Ring, C--, Io, Squirrel]",1993.0
+215,R,"[Scheme, S, Lisp, Common Lisp]","[PCASTL, Julia]",1993.0
+213,AppleScript,"[HyperTalk, Smalltalk]",,1993.0
+226,ORCA/Modula-2,,,1994.0
+225,RAPID,[C],,1994.0
+227,Claire,"[Smalltalk, Lisp, C, ML, SETL]",,1994.0
+228,Cilk,[C],,1994.0
+236,Lasso,"[Dylan, Smalltalk]",,1995.0
+237,PHP,"[Tcl, JavaScript, C++, Perl, C, Java]","[Umple, Hack, Haxe]",1995.0
+229,Java,"[Smalltalk, Eiffel, C++, Ada, UCSD Pascal, Oberon, Pascal, Objective-C, Emerald, Lisp, CLU, C, Modula-3, MDL, Mesa, Object Pascal]","[Ballerina, Fantom, JavaScript, ECMAScript, Seed7, Apache Groovy, Scala, BeanShell, Kotlin, PHP, Haxe, NetRexx, Hack, Yoix, MIVA Script, Dart, ActionScript, Join Java, Chapel, Pizza, Tea, Vala, C Sharp, D, Clojure, Mirah, TypeScript, NWScript, Whiley, Xtend, Ceylon, E, Gosu, OptimJ, Umple, X10, Cool]",1995.0
+238,Ruby,"[Smalltalk, Eiffel, C++, Perl, Dylan, Python, Scheme, CLU, Lisp, Lua, Ada]","[CoffeeScript, Swift, Dart, Fantom, Elixir, Rust, Julia, Raku, Crystal, Ring, D, Nu, Clojure, Mirah, Apache Groovy, Umple]",1995.0
+234,Racket,"[Eiffel, Scheme]",[Clojure],1995.0
+235,Mercury,"[Haskell, Prolog, Hope]",,1995.0
+233,Limbo,"[C, Alef, Pascal]","[Rust, Go]",1995.0
+232,Adobe ColdFusion,,,1995.0
+231,JavaScript,"[Self, AWK, Lua, Perl, Scheme, Python, Lisp, C, Java, HyperTalk]","[CoffeeScript, TypeScript, BeanShell, Dart, Source, ActionScript, Bosque, LiveScript, PureScript, PHP, Zig, Script.NET, Haxe, Raku, Solidity, Squirrel, Opa, Curl]",1995.0
+230,mIRC scripting language,,,1995.0
+249,JScript,,[JScript .NET],1996.0
+254,Cool,"[ML, Java, Sather, Pascal]",,1996.0
+250,Netwide Assembler,,,1996.0
+251,Autodesk 3ds Max,,,1996.0
+252,DRAKON,,,1996.0
+253,MIVA Script,"[Perl, C, Java, C++]",,1996.0
+255,SuperCollider,[J],,1996.0
+248,OCaml,"[Caml, Pascal, ML, C, Modula-3, Standard ML]","[Elm, Scala, Boomerang, Flix, F*, Haxe, Hack, Opa, Rust, F Sharp]",1996.0
+247,QuakeC,[C],,1996.0
+244,Squeak,"[Etoys, Self, Lisp, Smalltalk]","[Etoys, Scratch]",1996.0
+245,Perl Data Language,"[Perl, IDL, APL]",,1996.0
+243,Etoys,"[Logo, Squeak, Smalltalk]","[StarLogo, Squeak, Scratch]",1996.0
+242,Yorick,,,1996.0
+241,Charm,"[C, RTL/2, Pascal]",,1996.0
+240,Joule,[T],[E],1996.0
+239,LilyPond,,,1996.0
+246,NetRexx,"[Object REXX, Rexx, Java, PL/I]",,1996.0
+261,Tea,"[Scheme, Java, Tcl]",,1997.0
+266,ECMAScript,"[Self, AWK, Perl, Scheme, Python, C, Java, HyperTalk]",[JScript .NET],1997.0
+265,LISA,,,1997.0
+264,Component Pascal,"[Oberon, Pascal]",,1997.0
+263,Pico,[Scheme],,1997.0
+262,Rebol,"[Forth, Logo, Lisp, Self]",[Red],1997.0
+260,Modelica,,,1997.0
+258,Caché ObjectScript,[MUMPS],,1997.0
+257,E,"[Java, Joule]","[AmbientTalk, Newspeak]",1997.0
+256,Alma-0,"[Modula, Modula-2]",,1997.0
+259,C--,"[C, Lua]",,1997.0
+269,ActionScript,"[JavaScript, Java, HyperTalk]","[TypeScript, Haxe]",1998.0
+267,XSLT,,[XQuery],1998.0
+268,Logtalk,"[Objective-C, Prolog, Smalltalk]",,1998.0
+270,Malbolge,,,1998.0
+271,Curl,"[JavaScript, Lisp]",,1998.0
+276,AutoIt,[BASIC],,1999.0
+275,GameMaker,,,1999.0
+274,BeanShell,"[Perl, JavaScript, Java]",,1999.0
+272,Harbour,"[Clipper, dBase]",[xHarbour],1999.0
+273,NetLogo,[Logo],[StarLogo],1999.0
+281,Nullsoft Scriptable Install System,,,2000.0
+280,Yoix,"[PostScript, C, Java]",,2000.0
+282,Alice,"[ML, Oz]",[Pure],2000.0
+283,Join Java,[Java],,2000.0
+279,Pascal Script,"[Object Pascal, Pascal]",,2000.0
+278,C Sharp,"[Haskell, Eiffel, C++, Modula-3, ML, Icon, Java, Object Pascal]","[TypeScript, Dart, Swift, Nemerle, Kotlin, Chapel, Rust, Crystal, Hack, D, Vala, Oxygene, Clojure]",2000.0
+277,XOTcl,[Tcl],,2000.0
+289,Jython,,,2001.0
+291,Joy,"[Forth, FP, Scheme]",[Factor],2001.0
+288,Game Oriented Assembly Lisp,"[Scheme, Lisp]",,2001.0
+293,StarLogo,"[Etoys, Logo, NetLogo]",[Scratch],2001.0
+290,Processing,[C],[Kojo],2001.0
+286,Ch,,,2001.0
+284,D,"[Eiffel, C++, Ruby, Python, C Sharp, C, Java, Ada]","[Vala, Swift, Go, Genie]",2001.0
+285,LiveCode,[HyperTalk],,2001.0
+300,NWScript,"[C, Java]",,2002.0
+299,Cyclone,"[C, ML]","[Project Verona, Rust]",2002.0
+298,Strongtalk,"[Self, Smalltalk]",[Dart],2002.0
+296,Hollywood,,,2002.0
+295,Io,"[NewtonScript, Self, Smalltalk, Python, Lisp, Lua]",,2002.0
+297,FAUST,,,2002.0
+294,Visual J Sharp,,,2002.0
+314,Boo,[Python],"[Vala, Mirah, Genie]",2003.0
+310,Go!,[Prolog],,2003.0
+593,Pizza,[Java],[Scala],2003.0
+590,Pict,[ML],[Orc],2003.0
+439,BETA,[Simula],[Newspeak],2003.0
+313,Squirrel,"[JavaScript, C++, Lua, Python]",,2003.0
+312,AutoHotkey,,,2003.0
+601,POP-2,"[COWSEL, CPL]",,2003.0
+311,Second Life,,,2003.0
+309,Apache Groovy,"[Ruby, Java, Python, Smalltalk]",[Kotlin],2003.0
+308,Q,"[Scheme, A+, APL, K]",[Pure],2003.0
+585,OPS5,[Lisp],,2003.0
+306,Nix,,,2003.0
+305,Scratch,"[Etoys, Logo, Smalltalk, Squeak, StarLogo]",[Snap!],2003.0
+304,AngelScript,[C++],,2003.0
+303,Nemerle,"[ML, C Sharp, Lisp]",,2003.0
+302,Sawzall,,,2003.0
+301,Factor,"[Forth, Joy, Self, Lisp]",,2003.0
+475,F*,"[ML, Coq, OCaml, Standard ML]",,2003.0
+307,ChucK,,,2003.0
+492,Gosu,[Java],[Kotlin],2003.0
+638,Speakeasy,[APL],,2003.0
+321,Scala,"[Haskell, OCaml, Smalltalk, Eiffel, Oz, Pizza, ML, Standard ML, Erlang, Scheme, Lisp, Java, Common Lisp]","[Flix, Fantom, Ceylon, Kotlin, Fortress, Xtend, Red, Hack, F Sharp]",2004.0
+320,X10,"[C++, Java]",,2004.0
+319,A Sharp,,,2004.0
+322,Orc,"[Haskell, Smalltalk, Pict, Oz, ML]",,2004.0
+318,Easy Programming Language,,,2004.0
+317,Epigram,[Haskell],"[Idris, Agda]",2004.0
+315,Little b,[Lisp],,2004.0
+316,eC,"[C, Python, C++]",,2004.0
+331,Fantom,"[Scala, Ruby, Java, Erlang]",,2005.0
+327,Haxe,"[OCaml, ActionScript, JavaScript, C++, PHP, NekoVM, Python, Lua, Java]",,2005.0
+332,Oxygene,"[C Sharp, Pascal]",,2005.0
+326,PLEXIL,,,2005.0
+330,NekoVM,,[Haxe],2005.0
+325,TempleOS,,,2005.0
+324,Seed7,"[C++, ALGOL 68, Modula-2, C, Java, Ada, Pascal]",,2005.0
+323,PWCT,,,2005.0
+329,F Sharp,"[Scala, Haskell, OCaml, Erlang, Python, ML]","[Elm, LiveScript]",2005.0
+328,fish,,,2005.0
+339,AmbientTalk,"[Scheme, Self, E, Smalltalk]",,2006.0
+338,Hop,[Scheme],,2006.0
+337,Newspeak,"[E, Self, BETA, Smalltalk]",,2006.0
+336,OptimJ,[Java],,2006.0
+335,Fortress,"[Scala, Haskell, Fortran]",,2006.0
+334,Cobra,"[Objective-C, Eiffel, Python]",,2006.0
+333,Vala,"[C++, Boo, D, C Sharp, C, Java]",,2006.0
+340,PowerShell,"[Perl, Tcl, Python, SQL]",,2006.0
+348,Idris,"[Haskell, Coq, Epigram, Agda, ML, Clean]",,2007.0
+350,.QL,[Datalog],,2007.0
+341,XQuery,"[XSLT, SQL]",,2007.0
+342,Lite-C,,,2007.0
+343,Grasshopper 3D,,,2007.0
+344,Ezhil,"[Python, Logo, BASIC]",,2007.0
+345,Cython,"[C, Python]",,2007.0
+346,Clojure,"[Haskell, C++, ML, Ruby, Erlang, Scheme, Wolfram Language, Racket, C Sharp, Java, Prolog, Common Lisp]","[Elixir, Hy]",2007.0
+347,Nu,"[Objective-C, Ruby, Lisp]",,2007.0
+349,Agda,"[Epigram, Coq, Haskell]",[Idris],2007.0
+357,PCASTL,"[C, R]",,2008.0
+356,Nim,"[C++, Oberon, Python, Lisp, C, Modula-3, Ada, Object Pascal]",,2008.0
+355,Boomerang,[OCaml],,2008.0
+354,Umple,"[Ruby, C++, Java, PHP]",,2008.0
+353,Apache Pig,,,2008.0
+351,Arc,"[Scheme, Lisp]",,2008.0
+358,Pure,"[Haskell, Q, MATLAB, Lisp, Alice]",,2008.0
+352,Genie,"[Object Pascal, Python, D, Boo]",,2008.0
+359,Pharo,[Smalltalk],,2008.0
+362,Kodu Game Lab,,,2009.0
+366,OpenCL,,,2009.0
+367,Chapel,"[C++, ZPL, C Sharp, Fortran, C, Java, Ada]",,2009.0
+360,CoffeeScript,"[Haskell, JavaScript, Perl, Ruby, Python]",[LiveScript],2009.0
+363,Go,"[Smalltalk, occam, Alef, Oberon, Modula, APL, Modula-2, BCPL, Erlang, Python, D, C, Limbo, Pascal]","[Crystal, Flix, Ballerina, Zig]",2009.0
+361,Google Apps Script,,,2009.0
+364,F-Script,"[APL, Smalltalk]",,2009.0
+368,Axum,,,2009.0
+365,ParaSail,"[ML, Modula, Ada, Pascal]",,2009.0
+372,Catrobat,,,2010.0
+369,Rust,"[Haskell, OCaml, Modula-3, C++, Alef, Ruby, Standard ML, Erlang, Scheme, C Sharp, C, ML, Limbo, Cyclone]","[Carbon, Swift, Ballerina, Whiley, Zig, Crystal, Project Verona]",2010.0
+373,Whiley,"[C, Java, Python, Rust]",[Ceylon],2010.0
+371,Kojo,"[Logo, Processing]",,2010.0
+370,App Inventor for Android,,,2010.0
+375,Xtend,"[Scala, Java, Smalltalk]",,2011.0
+382,Kivy,,,2011.0
+380,Kotlin,"[Scala, C Sharp, Java, Gosu, ML, Apache Groovy]",,2011.0
+377,Red,"[Scala, Rebol, Lua]",,2011.0
+374,Dart,"[Smalltalk, JavaScript, C++, Ruby, Erlang, C Sharp, Strongtalk, C, Java]",,2011.0
+381,Opa,"[JavaScript, ML, Erlang, OCaml]",,2011.0
+376,Ceylon,"[Scala, Smalltalk, Whiley, Java, Lisp, ML]",,2011.0
+378,LiveScript,"[CoffeeScript, JavaScript, Haskell, F Sharp]",,2011.0
+379,Snap!,"[Logo, Scheme, Smalltalk, Scratch]",,2011.0
+384,Elm,"[Haskell, OCaml, Standard ML, ML, F Sharp]",,2012.0
+385,Julia,"[R, MATLAB, Perl, Ruby, Dylan, Wolfram Language, Python, C, Lisp, Scheme, Lua, Common Lisp]",,2012.0
+386,P,,,2012.0
+383,Elixir,"[Ruby, Clojure, Erlang, Lisp]",,2012.0
+387,M Sharp,,,2012.0
+388,Golo,,,2012.0
+389,Blockly,,,2012.0
+391,Halide,,,2012.0
+392,TypeScript,"[JavaScript, Java, C Sharp, ActionScript]",[Bosque],2012.0
+390,Qalb,[Scheme],,2012.0
+394,P4,,,2013.0
+396,Zonnon,"[Pascal, Modula-2, Oberon]",,2013.0
+397,Cuneiform,,,2013.0
+393,PureScript,"[JavaScript, Haskell]",,2013.0
+398,Lean,,,2013.0
+395,Hy,"[Clojure, Common Lisp]",,2013.0
+399,Crystal,"[Rust, Go, Ruby, Python, C Sharp, C]",,2014.0
+400,Hack,"[Scala, Haskell, OCaml, PHP, C Sharp, Java]",,2014.0
+401,Futhark,"[NESL, Haskell, APL, Standard ML]",,2014.0
+402,Swift,"[Haskell, Smalltalk, Objective-C, Ruby, Python, D, CLU, Lisp, C Sharp, Rust]",,2014.0
+403,Godot,,,2014.0
+404,Raku,"[Haskell, Smalltalk, JavaScript, Perl, Ruby]",,2015.0
+405,Ethereum,,,2015.0
+412,Ring,"[BASIC, Ruby, Python, C, Lua]",,2016.0
+411,Reason,,,2016.0
+410,XOD,,,2016.0
+409,Zig,"[JavaScript, C++, Rust, Go, C]",,2016.0
+413,Q Sharp,[Python],,2017.0
+414,Source,"[JavaScript, Scheme]",,2017.0
+415,Ballerina,"[Rust, Java, Go]",,2017.0
+416,WebAssembly,,,2017.0
+418,Project Verona,"[Rust, Cyclone]",,2019.0
+417,Bosque,"[JavaScript, ML, TypeScript]",,2019.0
+419,Microsoft Power Fx,"[Miranda, Pascal]",,2021.0
+479,Flix,"[Scala, Haskell, Go, OCaml]",,2024.0
+485,FoxPro,[dBase],,2024.0
+468,EGL,[COBOL],,2024.0
+686,XSB,[Prolog],,2024.0
+430,Agora,[Self],,2024.0
+436,Argus,[CLU],,2024.0
+671,Visual Prolog,[Prolog],,2024.0
+441,C/AL,"[Object Pascal, Pascal]",,2024.0
+442,Carbon,"[C++, Rust]",,2024.0
+447,Cg,[C],,2024.0
+681,xHarbour,[Harbour],,2024.0
+454,Curry,[Haskell],,2024.0
+635,Solidity,"[JavaScript, C++, Python]",,2024.0
+662,Unicon,[Icon],,2024.0
+569,NEWP,[Executive Systems Problem Oriented Language],,2024.0
+559,Mirah,"[Ruby, Java, Boo]",,2024.0
+598,PL/SQL,[Ada],,2024.0
+599,PLANC,[Nord Programming Language],,2024.0
+540,Lustre,[Lucid],,2024.0
+534,Language Integrated Query,"[Haskell, SQL]",,2024.0
+533,Lingo,[HyperTalk],,2024.0
+618,S3,[ALGOL 68],,2024.0
+625,Scilab,[MATLAB],,2024.0
+626,Script.NET,[JavaScript],,2024.0
+523,KUKA Robot Language,[Pascal],,2024.0
+518,JScript .NET,"[JScript, ECMAScript]",,2024.0
+579,occam-π,[occam],,2024.0
+637,SPARK,"[Eiffel, Ada]",,2024.0
+644,Strand,[Prolog],,2024.0
+508,ISLISP,"[Scheme, Common Lisp]",,2024.0
+647,SuperTalk,[HyperTalk],,2024.0
+648,SYMPL,[JOVIAL],,2024.0
+496,GRASS,[BASIC],,2024.0
+668,Visual FoxPro,[dBase],,2024.0
+450,CobolScript,[COBOL],,2024.0
