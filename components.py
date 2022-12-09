@@ -50,8 +50,27 @@ print("Number of Weakly connected components: "+str(numofWeak))
 
 print("\n\nCommunities:")
 communities = sorted(nxcom.greedy_modularity_communities(G_test), key=len, reverse=True)
-print(f"There are {len(communities)} communities.")
+top5 = dict(Counter(communities).most_common(1))
+print("Below is the biggest community:")
+for x,y in top5.items():
+    print(x,y)
+print(f"\nThere are {len(communities)} communities.")
 
+all_sizes = []
+print("\nSizes of the communities:")
+for x in communities: 
+    size = len(x)
+    all_sizes.append(size)
+print(all_sizes)
+#count the number of sizes with 2 
+print ("number of sizes with 2 is "+str(all_sizes.count(2)))
+#count the number of sizes with 1 
+print ("number of sizes with 1 is "+str(all_sizes.count(1)))
+
+length = 0 
+for x in communities:
+    length = length+ len(x) 
+print("the average length is "+ str(length/len(communities)) )
 def set_node_community(G, communities):
     '''Add community to node attributes'''
     for c, v_c in enumerate(communities):
